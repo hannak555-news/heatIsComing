@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetote',de,Causes,#a89216,#c4b03b,1,0.3808124129696427
-'Extreme Temperaturen',de,Hazard,#ff5050,#ff3300,2,0.3719961798421052
 'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,2,0.36163258325
-'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.36125013874999995
+'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.3612501387499999
+'Extreme Temperaturen',de,Hazard,#ff5050,#ff3300,2,0.3191975478657894
