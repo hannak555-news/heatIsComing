@@ -1,1 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,-0.35,0.0,de,2
+RKI,RKI,ORG,-0.35,0.0,de,2
+Rheinische Post,Rheinische Post,ORG,-0.7,0.0,de,1
+mu…,mu…,ORG,0.0,0.0,de,1
+Polizei,Polizei,ORG,0.0,0.0,de,1
+diskuti…,diskuti…,ORG,0.0,0.0,de,1
+Tätern,Tätern,ORG,0.0,0.0,de,1

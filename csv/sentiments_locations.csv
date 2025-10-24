@@ -1,3 +1,16 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Spanien,Spanien,LOC,0.11666666666666664,0.16666666666666666,de,9
+Deutschland,Deutschland,LOC,-0.2333333333333333,0.0,de,3
+Madrid,Madrid,LOC,0.7,0.0,de,2
+Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.7,0.0,de,2
+Louvre-Museum,Louvre-Museum,LOC,0.0,0.0,de,2
+Paris,Paris,LOC,0.0,0.0,de,2
+Frankreich,Frankreich,LOC,0.0,0.0,de,2
+Louvre,Louvre,LOC,0.0,0.0,de,2
 Pariser,Pariser,LOC,0.0,0.0,de,1
 Klimaabkommens,Klimaabkommens,LOC,0.0,0.0,de,1
+Handgelenk,Handgelenk,LOC,0.85,0.0,de,1
+Hochdruck,Hochdruck,LOC,0.0,0.0,de,1
+…,…,LOC,0.0,0.0,de,1
+Israels,Israels,LOC,0.0,0.0,de,1
+den USA,den USA,LOC,0.0,1.0,de,1

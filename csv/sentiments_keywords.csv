@@ -1,2 +1,4 @@
 keyword,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
+'Hitzetote',0.0437499999999999,0.617918211955811,0.03125,0.580723327698598,4.0
+'Hochdruck',0.14616666666666667,0.22516321240873746,0.04,0.08944271909999159,5.0
 'Temperaturen Gesundheitsrisiken',0.175,1.0,0.25,1.0,1.0

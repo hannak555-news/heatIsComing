@@ -1,2 +1,10 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
+www.stern.de,-0.13124999999999998,0.06187184335382292,0.1875,0.2651650429449553,2.0
 science.orf.at,0.0,1.0,0.0,1.0,1.0
+taz.de,0.0,1.0,0.0,1.0,1.0
+versicherungswirtschaft-heute.de,0.0,1.0,0.0,1.0,1.0
+www.diepresse.com,0.0,1.0,0.0,1.0,1.0
+www.morgenpost.de,0.0,1.0,0.0,1.0,1.0
+www.n-tv.de,0.0,1.0,0.0,1.0,1.0
+www.sueddeutsche.de,0.0,1.0,0.0,1.0,1.0
+www.tagesschau.de,0.0,1.0,0.0,1.0,1.0
