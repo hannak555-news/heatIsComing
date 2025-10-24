@@ -1,2 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Sébastien Lecornu,Sébastien Lecornu,PER,-0.35,0.0,de,2
+Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1
+Premier Lecornu,Premier Lecornu,PER,0.0,0.0,de,1
 Bodo Sartorius,Bodo Sartorius,PER,0.0,0.0,de,1

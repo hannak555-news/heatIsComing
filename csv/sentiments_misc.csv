@@ -1,9 +1,14 @@
 ,phrase,label,sentiment,subjectivity,language,count
-spanische,spanische,MISC,,,de,2
 "Link
 ","Link
-",MISC,,,de,2
+",MISC,,,de,4
+spanische,spanische,MISC,,,de,2
+französischen,französischen,MISC,,,de,2
 französische Kronjuwelen,französische Kronjuwelen,MISC,,,de,2
+Drohnenalarm,Drohnenalarm,MISC,0.0,0.0,de,1
+dänischen,dänischen,MISC,,,de,1
+Wie viel,Wie viel,MISC,,,de,1
+La Tribune,La Tribune,MISC,,,de,1
 World Weather Attribution,World Weather Attribution,MISC,,,de,1
 Abkommen bereits…,Abkommen bereits…,MISC,,,de,1
 Hilo-Band,Hilo-Band,MISC,,,de,1
