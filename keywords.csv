@@ -1,5 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,1,0.3073877407625
 'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.26239086399687495
-'Hitzetote',de,Causes,#a89216,#c4b03b,1,0.2365678182274818
+'Hitzetote',de,Impacts,#4287f5,#dd99ee,1,0.2365678182274818
+'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.5365678182274818
+'Hochdruck',de,Causes,#a89216,#b4b02b,1,0.5365678182274818
 'Extreme Temperaturen',de,Hazard,#ff5050,#ff3300,2,0.2361716990830328
