@@ -5,3 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#a89216,#b4b02b,1,0.199704945752516
 'Hitzetote',de,Impacts,#4287f5,#dd99ee,1,0.17286294291935556
 'Extreme Temperaturen',de,Hazard,#ff5050,#ff3300,2,0.1561173498368674
+'Hitzestress',de,Impacts,#4277e5,#cc99ff,1,0.2237823093973436
+'Temperatur Trinken',de,Mitigation,#117722,#00cc66,1,0.2229202259509062
+'Hitze Blow-ups',de,Impacts,#2297e5,#cc99ff,1,0.2237823093973436
