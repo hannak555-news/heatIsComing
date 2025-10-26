@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzewelle',de,Hazard,#ee4055,#ff3300,3,0.46610075650713667
-'Hitze Blow-ups',de,Impacts,#2297e5,#cc99ff,1,0.4237823093973436
+'Hitzewelle',de,Hazard,#ee4055,#ff3300,3,0.4661007565071366
 'Temperatur Trinken',de,Mitigation,#117722,#00cc66,1,0.4229202259509062
+'Hitze Blow-ups',de,Impacts,#2297e5,#cc99ff,1,0.3602149629877421
 'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.2380779914640679
 'Hitzestress',de,Impacts,#4277e5,#cc99ff,1,0.2237823093973436
 'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,1,0.2229202259509062
