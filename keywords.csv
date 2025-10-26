@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.28009175466360936
-'Hochdruckgebiet',de,Causes,#a89216,#b4b02b,1,0.2737193792422367
+'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.2800917546636093
 'Hitzetote',de,Impacts,#4287f5,#dd99ee,1,0.2365678182274818
+'Hochdruckgebiet',de,Causes,#a89216,#b4b02b,1,0.2337115773559012
 'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.2237823093973436
 'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,1,0.2229202259509062
 'Extreme Temperaturen',de,Hazard,#ff5050,#ff3300,2,0.1561173498368674
