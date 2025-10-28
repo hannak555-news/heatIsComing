@@ -12,3 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#a89216,#b4b02b,1,0.1462295175561927
 'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.1393598786961435
 'extreme Temperaturen',de,Hazard,#ff5050,#ff3300,3,0.1189013115071366
+'Tropentage',de,Hazard,#ca5045,#ff3300,2,0.52398760538916
+'Sommertage',de,Hazard,#c25b4a,#ff3300,2,0.52398762338916
