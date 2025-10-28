@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sommertage',de,Hazard,#c25b4a,#ff3300,2,0.52398762338916
 'Tropennächte',de,Hazard,#ce5555,#ff3300,2,0.5239760538916
+'Sommertage',de,Hazard,#c25b4a,#ff3300,2,0.45642308321411934
 'Tropentage',de,Hazard,#ca5045,#ff3300,1,0.445389464580786
 'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.4449237964580786
 'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.3915960830503172
