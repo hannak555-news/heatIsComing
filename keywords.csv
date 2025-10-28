@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#ce5555,#ff3300,1,0.4453796458078599
 'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.4449237964580786
 'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.3915960830503172
-'Warmluft',de,Hazard,#de5045,#ff3300,2,0.3799226434893668
+'Warmluft',de,Hazard,#de5045,#ff3300,1,0.32293433696596174
 'Hitzewelle',de,Hazard,#ee4055,#ff3300,2,0.2353915760538916
 'Hitzestress',de,Impacts,#4277e5,#cc99ff,1,0.1885703572895807
 'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.172011348832789
