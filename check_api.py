@@ -410,6 +410,7 @@ def inqRapidNewsApi14(results=[]):
 def inqRapidGoogleNews22(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
+    apiKey = apiKey.strip().replace("\n","").strip()
     results.append("### RapidAPI: Google-News-22")
     url = "https://free-news.p.rapidapi.com/v1/search"
     querystring = {"q":"Klimawandel","language":"de","country":"de"}
