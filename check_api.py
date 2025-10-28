@@ -417,6 +417,8 @@ def inqRapidGoogleNews22(results=[]):
         'x-rapidapi-key': apiKey,
         'x-rapidapi-host': "google-news22.p.rapidapi.com"
         }
+    print(querystring)
+    print(headers)
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
     # print(response.text)
