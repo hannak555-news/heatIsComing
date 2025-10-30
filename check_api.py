@@ -663,7 +663,7 @@ def inqGeonamesApi(results=[]):
           return False
         if(('user account not enabled to use the free webservice' in status['message']) or ('Please enable it on your account page' in status['message'])):
           results.append(":no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount ")
-          addRegisterGeonamesToResults(results)
+          #addRegisterGeonamesToResults(results)
           return False
 
     if ('totalResultsCount' in jsonData):
