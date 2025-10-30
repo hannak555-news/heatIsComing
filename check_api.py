@@ -646,6 +646,7 @@ def inqGeonamesApi(results=[]):
   if(response.text):
     results.append(":white_check_mark: Geonames respone fine") 
     jsonData = json.loads(response.text)
+    print(jsonData)
     if('message' in jsonData):
       if(('credits for demo has been exceeded' in jsonData['message']) or ('user does not exist' in jsonData['message'])):
         results.append(":no_entry: **Not** registered at Geonames")
