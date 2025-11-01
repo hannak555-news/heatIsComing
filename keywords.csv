@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.34154113437220124
+'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.3415411343722012
 'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.3378078705927695
 'Tropennächte',de,Hazard,#ce5555,#ff3300,1,0.2735187749817519
-'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.2732388264998175
 'Tropentage',de,Hazard,#ca5045,#ff3300,1,0.2324960841953238
+'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.23225300252484488
 'Hitzewelle',de,Hazard,#ee4055,#ff3300,1,0.2000833196458078
 'Hitzestress',de,Impacts,#4277e5,#cc99ff,1,0.1885703572895807
 'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.172011348832789
