@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Trinken',de,Mitigation,#117722,#00cc66,1,0.1479593849827682
 'Hochdruckgebiet',de,Causes,#a89216,#b4b02b,1,0.1462295175561927
 'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.1462096465078706
-'Tropennächte',de,Hazard,#ce5555,#ff3300,1,0.14277851003281805
+'Tropennächte',de,Hazard,#ce5555,#ff3300,1,0.142778510032818
 'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.1393598786961435
 'Hitze Blow-ups',de,Impacts,#2297e5,#cc99ff,1,0.1154766639899484
-'extreme Temperaturen',de,Hazard,#ff5050,#ff3300,3,0.0956577560639061
+'extreme Temperaturen',de,Hazard,#ff5050,#ff3300,3,0.08626002265432019
