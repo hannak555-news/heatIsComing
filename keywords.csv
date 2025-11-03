@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.3378078705927695
 'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.292860219216371
 'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.2322530025248448
-'Hitzewelle',de,Hazard,#ee4055,#ff3300,1,0.2000833196458078
 'Tropentage',de,Hazard,#ca5045,#ff3300,1,0.1976216715660252
+'Hitzewelle',de,Hazard,#ee4055,#ff3300,2,0.18004290582937144
 'Warmluft',de,Hazard,#de5045,#ff3300,1,0.1714419915320879
 'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,1,0.1618924464995296
 'Hitzestress',de,Impacts,#4277e5,#cc99ff,1,0.1616349386961436
@@ -14,4 +14,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#ce5555,#ff3300,1,0.142778510032818
 'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.1393598786961435
 'Hitze Blow-ups',de,Impacts,#2297e5,#cc99ff,1,0.1154766639899484
-'extreme Temperaturen',de,Hazard,#ff5050,#ff3300,3,0.08626002265432019
+'extreme Temperaturen',de,Hazard,#ff5050,#ff3300,3,0.0862600226543201
