@@ -1,23 +1,28 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,5
+",MISC,,,de,8
+Schweizer,Schweizer,MISC,,,de,8
+Gletsc…,Gletsc…,MISC,,,de,3
+französischen,französischen,MISC,,,de,2
 französische Kronjuwelen,französische Kronjuwelen,MISC,,,de,2
 Apple iPad Pro,Apple iPad Pro,MISC,,,de,2
-spanische,spanische,MISC,,,de,2
-CO2-Emissionen,CO2-Emissionen,MISC,,,de,2
 Münchner,Münchner,MISC,,,de,2
-französischen,französischen,MISC,,,de,2
-Drohnenalarm,Drohnenalarm,MISC,0.0,0.0,de,1
-La Tribune,La Tribune,MISC,,,de,1
-Krieg in Gaza,Krieg in Gaza,MISC,,,de,1
-Mit Hochdruck,Mit Hochdruck,MISC,,,de,1
-R…,R…,MISC,,,de,1
-Fabian,Fabian,MISC,,,de,1
-Hilo-Band,Hilo-Band,MISC,,,de,1
+CO2-Emissionen,CO2-Emissionen,MISC,,,de,2
+spanische,spanische,MISC,,,de,2
 Abkommen bereits…,Abkommen bereits…,MISC,,,de,1
+Hilo-Band,Hilo-Band,MISC,,,de,1
+Drohnenalarm,Drohnenalarm,MISC,0.0,0.0,de,1
+Vo…,Vo…,MISC,,,de,1
+Fabian,Fabian,MISC,,,de,1
+R…,R…,MISC,,,de,1
+Mit Hochdruck,Mit Hochdruck,MISC,,,de,1
+Krieg in Gaza,Krieg in Gaza,MISC,,,de,1
+Krieges,Krieges,MISC,,,de,1
 World Weather Attribution,World Weather Attribution,MISC,,,de,1
 Drohnen-Sichtungen,Drohnen-Sichtungen,MISC,,,de,1
+Sterbefälle,Sterbefälle,MISC,-0.7,0.0,de,1
+La Tribune,La Tribune,MISC,,,de,1
 Britischen,Britischen,MISC,,,de,1
 dänischen,dänischen,MISC,,,de,1
 Apple Vision Pro…,Apple Vision Pro…,MISC,,,de,1
@@ -26,4 +31,4 @@ Neue M5-Generation,Neue M5-Generation,MISC,,,de,1
 Wie viel,Wie viel,MISC,,,de,1
 Hohe Temperaturen,Hohe Temperaturen,MISC,,,de,1
 Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1
-Krieges,Krieges,MISC,,,de,1
+Bauhaus-Designer,Bauhaus-Designer,MISC,,,de,1
