@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.292860219216371
 'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.2920879950038541
+'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.25103139633391536
 'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.2322530025248448
 'Tropentage',de,Hazard,#ca5045,#ff3300,1,0.1679784208311214
 'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,1,0.1618924464995296
@@ -12,6 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#a89216,#b4b02b,1,0.1462295175561927
 'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.1462096465078706
 'Tropennächte',de,Hazard,#ce5555,#ff3300,1,0.142778510032818
-'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.11920597189172197
+'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.1192059718917219
 'Hitze Blow-ups',de,Impacts,#2297e5,#cc99ff,1,0.1154766639899484
 'extreme Temperaturen',de,Hazard,#ff5050,#ff3300,3,0.0862600226543201
