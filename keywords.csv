@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.2920879950038541
-'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.25103139633391536
+'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.251276085753276
+'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.2510313963339153
 'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.2322530025248448
 'Tropentage',de,Hazard,#ca5045,#ff3300,1,0.1679784208311214
 'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,1,0.1618924464995296
