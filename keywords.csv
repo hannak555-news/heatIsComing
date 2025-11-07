@@ -45,3 +45,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.5
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.5
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.5
+'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.5
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.5
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.5
+'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.5
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,1,0.5
+'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.5
+'Verkehrswende',de,Mitigation,#2980B9,#00cc66,1,0.5
+'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.5
+'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,1,0.5
