@@ -1,18 +1,34 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wüstentage',de,Hazard,#ce5555,#fa2311,1,0.197415052146118
-'Heiße Tage',de,Hazard,#de5865,#ff3300,3,0.1907068584567418
-'Sommertage',de,Hazard,#c25b4a,#ff3300,1,0.1847005168512538
-'Temperatur Trinken',de,Mitigation,#117722,#00cc66,1,0.1479593849827682
-'Omegawetterlage',de,Causes,#a89216,#c4b03b,1,0.1462096465078706
-'Tropentage',de,Hazard,#ca5045,#ff3300,1,0.1427816577064532
-'Tropennächte',de,Hazard,#ce5555,#ff3300,1,0.142778510032818
-'Hitzestress',de,Impacts,#4277e5,#cc99ff,1,0.138739832891722
-'Hochdruckgebiet',de,Causes,#a89216,#b4b02b,1,0.1385952699227638
-'Klimawandelanpassung',de,Mitigation,#006600,#00cc66,1,0.1379086095246001
-'Hitzewelle',de,Hazard,#ee4055,#ff3300,2,0.1338988812117208
-'Hitzetote',de,Impacts,#4287f5,#dd99ee,1,0.1263861255092342
-'Warmluft',de,Hazard,#de5045,#ff3300,1,0.1258320353819335
-'Hitzewelle Klimawandel',de,Causes,#a89216,#c4b03b,1,0.12442821453169
-'Temperaturen Gesundheitsrisiken',de,Impacts,#4287f5,#cc99ff,1,0.1192059718917219
-'Hitze Blow-ups',de,Impacts,#2297e5,#cc99ff,1,0.1154766639899484
-'extreme Temperaturen',de,Hazard,#ff5050,#ff3300,3,0.0862600226543201
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.197415052146118
+'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
+'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
+'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.1479593849827682
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1462096465078706
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.142778510032818
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.138739832891722
+'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
+'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1379086095246001
+'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1263861255092342
+'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1258320353819335
+'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
+'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
+'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.1154766639899484
+'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.0862600226543201
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Warmluft',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzebelastung',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.5
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.5
