@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.5
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.5
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.5
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.5
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.5
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.5
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.5
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,1,0.5
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.5
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.5
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.5
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.5
@@ -15,33 +15,33 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Warmluft',de,Hazard,#E74C3C,#ff3300,3,0.5
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.5
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,3,0.5
-'Hitzebelastung',de,Hazard,#E74C3C,#ff3300,3,0.5
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.5
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,3,0.5
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,3,0.5
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.5
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.5
-'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.5
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.5
-'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.5
-'Klimawandel',de,Causes,#F39C12,#b4b02b,1,0.5
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.5
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,1,0.5
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.5
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.5
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.5
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,3,0.5
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Hitzebelastung',de,Hazard,#E74C3C,#ff3300,3,0.5
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.5
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,1,0.5
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.5
+'Klimawandel',de,Causes,#F39C12,#b4b02b,1,0.5
+'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.5
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.5
+'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.5
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.5
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.5
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.5
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.5
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,1,0.5
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.5
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.5
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.5
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.5
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.5
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.5
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.5
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.5
@@ -49,24 +49,24 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.5
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.5
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.5
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.5
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.5
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.5
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.5
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.5
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.5
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.5
-'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.5
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.5
-'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.5
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.5
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.5
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.5
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.5
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.5
-'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.44813300318181815
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.5
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.5
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.5
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.5
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.5
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.5
+'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.4481330031818181
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
+'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.425
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.197415052146118
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
