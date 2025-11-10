@@ -216,8 +216,6 @@ def removeDuplicates(df1):
     df3 = df3.sort_values(by=['published'], ascending=True)
     return df3
 
-
-
 def archiveUrl(data):
     #timetravelDate = datetime.datetime.strptime(data['published'], '%Y-%m-%d %H:%M:%S').strftime('%Y%m%d')
     #pubDate = datetime.datetime.fromisoformat(data['published'])
@@ -307,7 +305,7 @@ def extractData(article, language, keyWord):
         published = article['publishedAt']
     content = article['content']
     hashStr = hashlib.sha256(url.encode()).hexdigest()[:32]
-    data = {'url':url, 'valid':1, 'domain':domain,'published':published, 'description':description, 'title':title, 
+    data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'hash':hashStr}
     return data  
 
@@ -330,20 +328,23 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
       fullQuote = str(data['content'])
       foundKeywords = []
       found = False
+      valid = 0.1
       for index2, column2 in keywordsLangDF.iterrows(): 
          keyword = column2['keyword']
          if(keyword.strip("'") in searchQuote):
              foundKeywords.append(keyword) 
              found = True
+             valid = max(valid,0.9)
          allFound = checkKeywordInQuote(keyword, searchQuote, case=True)
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             
+             valid = max(valid,0.8)
          allFound = checkKeywordInQuote(keyword, searchQuote, case=False)
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
+             max(valid,0.7)
       # add seldom keywords twice if
       keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
       for index2, column2 in keywordsSeldomLangDF.iterrows(): 
@@ -358,9 +359,14 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
+             max(valid,0.6) 
+      data['valid'] = valid
       if(found):
         foundKeywords.append(keyWord) 
         data['keyword'] = random.choice(foundKeywords)
+        foundArticles.append(data)
+      else:
+        data['keyword'] = keyWord
         foundArticles.append(data)
 
     return foundArticles
