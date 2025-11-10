@@ -1,6 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-0.5,0.5,de,2
 Sébastien Lecornu,Sébastien Lecornu,PER,-0.35,0.0,de,2
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,2
 Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1
 Premier Lecornu,Premier Lecornu,PER,0.0,0.0,de,1
 Bodo Sartorius,Bodo Sartorius,PER,0.0,0.0,de,1
+Minsiterpräsident Söder,Minsiterpräsident Söder,PER,0.0,0.0,de,1
