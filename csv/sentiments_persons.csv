@@ -1,8 +1,33 @@
-,phrase,label,sentiment,subjectivity,language,count
-Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-0.5,0.5,de,2
-Sébastien Lecornu,Sébastien Lecornu,PER,-0.35,0.0,de,2
-Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,2
-Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1
-Premier Lecornu,Premier Lecornu,PER,0.0,0.0,de,1
-Bodo Sartorius,Bodo Sartorius,PER,0.0,0.0,de,1
-Minsiterpräsident Söder,Minsiterpräsident Söder,PER,0.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Wolfgang Schroeder,Wolfgang Schroeder,PER,0.05000000000000001,0.0,de,3,,,,,,
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,3,,,,,,
+Filippo Grandi,Filippo Grandi,PER,0.3333333333333333,0.0,de,3,,,,,,
+Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,PER,0.6999999999999998,0.0,de,3,,,,,,
+Richard Morton,Richard Morton,PER,1.0,0.0,de,2,,,,,,
+Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-0.5,0.5,de,2,,,,,,
+Donald Trump,Donald Trump,PER,0.35,0.0,de,2,,,,,,
+Bill Gates,Bill Gates,PER,0.35,0.0,de,2,,,,,,
+Sébastien Lecornu,Sébastien Lecornu,PER,-0.35,0.0,de,2,,,,,,
+Nadine Göppert,Nadine Göppert,PER,0.0,0.0,de,2,,,,,,
+Heiße Ziegelsteine,Heiße Ziegelsteine,PER,0.0,0.0,de,1,,,,,,
+António Guterres,António Guterres,PER,0.0,1.0,de,1,,,,,,
+Teheran  ,Teheran  ,PER,0.7,0.0,de,1,,,,,,
+Ottmar Edenhofer,Ottmar Edenhofer,PER,0.7,0.0,de,1,,,,,,
+Masoud Pezeshkian ,Masoud Pezeshkian ,PER,0.7,0.0,de,1,,,,,,
+Minsiterpräsident Söder,Minsiterpräsident Söder,PER,0.0,0.0,de,1,,,,,,
+Peter Godar,Peter Godar,PER,0.35,0.5,de,1,,,,,,
+Katrin Göring-Eckardt,Katrin Göring-Eckardt,PER,0.0,0.0,de,1,,,,,,
+Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1,,,,,,
+Franz K,Franz K,PER,0.0,0.0,de,1,,,,,,
+Klimaexpertin Sabine Minninger,Klimaexpertin Sabine Minninger,PER,0.0,0.0,de,1,,,,,,
+Agnieszka Hollands Kafka-Film,Agnieszka Hollands Kafka-Film,PER,0.0,0.0,de,1,,,,,,
+Alexei Ratmanskys,Alexei Ratmanskys,PER,0.0,0.0,de,1,,,,,,
+Bodo Sartorius,Bodo Sartorius,PER,0.0,0.0,de,1,,,,,,
+Gus Lamont,Gus Lamont,PER,-0.7,0.0,de,1,,,,,,
+Winterflucht Teneriffa,Winterflucht Teneriffa,PER,0.0,1.0,de,1,,,,,,
+Asus ROG Xbox Ally,Asus ROG Xbox Ally,PER,0.0,0.0,de,1,,,,,,
+Matthias Berni,Matthias Berni,PER,0.0,0.0,de,1,,,,,,
+Karl Bär,Karl Bär,PER,0.0,0.0,de,1,,,,,,
+Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1,,,,,,
+Premier Lecornu,Premier Lecornu,PER,0.0,0.0,de,1,,,,,,
+Vera Künzel,Vera Künzel,PER,0.5,0.5,de,1,,,,,,
