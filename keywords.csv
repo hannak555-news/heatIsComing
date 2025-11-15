@@ -4,22 +4,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.52600226543201
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.5255003
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,2,0.5254500449999999
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.5
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.5
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.5
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.5
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,3,0.5
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.5
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.5
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4890275277499999
-'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.45
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.45
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.45
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,3,0.45
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.45
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.45
+'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.45
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,3,0.45
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.45
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.444950675
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.4347984135875
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
@@ -27,24 +26,25 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.425000015
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.4
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.4
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.3825
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
@@ -73,15 +73,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0917430671428571
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.0862600226543201
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,1,0.05
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.05
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,1,0.05
 'Klimawandel',de,Causes,#F39C12,#b4b02b,1,0.05
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,1,0.05
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.05
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.05
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,1,0.05
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.05
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.05
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0448133003181818
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0444166594032258
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
