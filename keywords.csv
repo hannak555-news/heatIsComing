@@ -10,9 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,2,0.4761275277499999
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.45
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.45
-'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.45
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.45
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,3,0.45
+'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.45
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.4471020006172085
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.446675435
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.444950675
@@ -21,28 +20,29 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.425150015
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
-'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
+'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.42500003
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.425000015
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.425
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.40810006
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.4
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.3825
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.3825
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
