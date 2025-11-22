@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.42500003
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.425000015
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.425
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4159734285874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.40810006
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'Klimawandel',de,Causes,#F39C12,#b4b02b,1,0.05
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.05
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.05
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0444166594032258
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.04280003
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
