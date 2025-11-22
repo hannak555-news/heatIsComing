@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,2,0.4761275277499999
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.45
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.45
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.45
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.4471020006172085
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,2,0.4469325682499999
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.444950675
@@ -17,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.425150015
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
+'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
+'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.425000075
-'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
-'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.42500003
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.425000015
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.3825
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.3825
