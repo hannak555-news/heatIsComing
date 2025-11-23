@@ -7,13 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.45
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.4471020006172085
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.4471019706172085
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,2,0.4469325682499999
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.444950675
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.4347984135875
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.425150015
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
@@ -39,10 +38,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.3825
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.3825
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3825
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.3825
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3814742997499999
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3798927130124999
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
