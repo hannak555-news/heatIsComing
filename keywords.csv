@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.425000075
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.42500003
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.425000015
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.425
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4159734285874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.40810006
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3814742997499999
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.36167754274999997
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3616775427499999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
@@ -70,8 +70,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.1154766639899484
+'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.10901038849999997
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.1006343531818182
-'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0917430671428571
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.0862600226543201
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,2,0.0719992945454545
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
