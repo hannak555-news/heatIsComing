@@ -19,18 +19,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.425
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4159734285874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.40810006
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.4
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.4
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.39560012375
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3612501537499999
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3612501537499999
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.36124999999999996
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
