@@ -9,14 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.4347984135875
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.4254867200246272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
-'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.425150015
+'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.42500003
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.425000015
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.425
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4159734285874999
@@ -44,7 +43,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3612501537499999
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3612501537499999
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.36124999999999996
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.36124999999999996
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
