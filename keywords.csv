@@ -11,24 +11,23 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.42500003
-'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.425
+'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.425
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4159734285874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.40810006
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.4
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.39560012375
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.3825
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.3825
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3825
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.3825
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3814742997499999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3807867755246272
@@ -39,8 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.36155004275
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.34150015
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3267901665
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.3073626007624999
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
@@ -77,8 +77,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
 'Klimawandel',de,Causes,#F39C12,#b4b02b,1,0.05
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.05
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.05
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,1,0.05
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.05
