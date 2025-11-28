@@ -1,14 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.560150015
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.5
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,2,0.4761275277499999
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.444950675
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.4347984135875
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.4254867200246272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.425150015
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.425150015
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.425150015
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.42500003
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
@@ -17,14 +16,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4159734285874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.40810006
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.39560012375
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.39170871874999996
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.3825
