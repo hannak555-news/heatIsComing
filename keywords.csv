@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.425
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4159734285874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.40810006
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3616775427499999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.36155004275
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.36140001499999996
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3613775577499999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3613775127499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3612500254999999
