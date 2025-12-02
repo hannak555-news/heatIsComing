@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4093400277499999
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.39560012375
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
@@ -51,10 +51,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.3073626007624999
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
