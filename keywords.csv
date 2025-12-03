@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.39560012375
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.34150015
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
