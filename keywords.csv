@@ -4,12 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.40995057
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,2,0.4093400277499999
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
@@ -37,8 +36,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.3484587945
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.3370101801875
@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.1154766639899484
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.1006343531818182
-'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.09069890490909088
+'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.0862600226543201
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
