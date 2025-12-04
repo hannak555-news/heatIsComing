@@ -5,10 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.4
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
@@ -32,13 +31,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3612500254999999
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.3484587945
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3480890385874999
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.34090009000000004
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.3370101801875
