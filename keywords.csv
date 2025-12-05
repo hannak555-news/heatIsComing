@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4761275277499999
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.425450045
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.3619637420209331
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.36178255324999997
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3616775427499999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3614000149999999
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
-'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.29587569779937495
+'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
