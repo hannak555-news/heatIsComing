@@ -28,15 +28,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3613775577499999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3613775127499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3612500254999999
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.3484587945
-'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3480890385874999
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.34090009
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
+'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.29587569779937495
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
