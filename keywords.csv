@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3814742997499999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3807867755246272
@@ -29,16 +28,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3613775577499999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3613775127499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3612500254999999
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.3484587945
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3480890385874999
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.34090009000000004
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.34090009
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.3370101801875
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3267901665
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.325125
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
