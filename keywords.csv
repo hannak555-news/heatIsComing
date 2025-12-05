@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.3825
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3814742997499999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3807867755246272
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.375385201
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.369878681549375
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3661956195454545
@@ -21,17 +20,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.3619637420209331
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.36178255324999997
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.3617825532499999
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3616775427499999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3614000149999999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3613775577499999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3613775127499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3612500254999999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
