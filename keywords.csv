@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.1006343531818182
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
-'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.0862600226543201
+'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.07332178425617208
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
 'Klimawandel',de,Causes,#F39C12,#b4b02b,1,0.05
