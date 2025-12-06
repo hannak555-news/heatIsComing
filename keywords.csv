@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.383250075
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.3825
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3814742997499999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3807867755246272
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.369878681549375
@@ -27,10 +26,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3613775577499999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3613775127499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3612500254999999
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3267901665
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3259033197874999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.325125
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.1154766639899484
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.1006343531818182
-'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.09246330500000001
+'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
