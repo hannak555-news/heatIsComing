@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4761275277499999
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.425000075
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.45935012374999995
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
@@ -42,9 +42,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3267901665
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3259033197874999
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.325125
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
