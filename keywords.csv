@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,3,0.5
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4761275277499999
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.4593501237499999
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.425000135
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.3825
