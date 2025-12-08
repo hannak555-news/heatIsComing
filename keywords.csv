@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.39750015
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.3917087187499999
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.3484587945
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.3460983830357143
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.34090009
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.34015001500000003
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.3370101801875
