@@ -70,8 +70,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
-'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.1154766639899484
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
+'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.09815516439145613
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
