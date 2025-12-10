@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.4593501237499999
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.425000135
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.4047084285874999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.3825
@@ -18,14 +17,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3613775577499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3612500254999999
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3612499999999999
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.3484587945
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.3460983830357143
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3444522092993749
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.34090009
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.340150015
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
