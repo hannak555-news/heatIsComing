@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1678027943242002
-'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.1479593849827682
+'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.16776577723535296
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1462096465078706
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.142778510032818
