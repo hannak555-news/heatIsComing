@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.3390752475
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.3370101801875
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.3273984499732141
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
