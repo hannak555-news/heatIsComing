@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.4593501237499999
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.425000135
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.425
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4047083985874999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.362360111
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.3617825532499999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.36124999999999996
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.3538774442993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
@@ -28,11 +28,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3267901665
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3259033197874999
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.325125
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.325125
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.325125
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.32396878919593314
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3239687891959331
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
