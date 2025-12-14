@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.3390752475
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.33054805388636366
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.3305480538863636
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3267901665
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3259033197874999
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
@@ -42,9 +42,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.3071709540874999
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
@@ -78,10 +78,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,2,0.0638315163636363
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.05
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.05
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0444166594032258
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.04280003
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
