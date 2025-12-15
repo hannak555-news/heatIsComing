@@ -1,143 +1,141 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,17.299999999999997
-“,“,MISC,,,de,17.1
+",MISC,,,de,21.500000000000004
+“,“,MISC,,,de,13.900000000000004
 Schweizer,Schweizer,MISC,,,de,6.9
-brasilianischen,brasilianischen,MISC,,,de,4.0
-Klimawandel“,Klimawandel“,MISC,,,de,3.6999999999999997
-Zeit,Zeit,MISC,,,de,2.9
-COP30,COP30,MISC,1.9,0.5,de,2.9
-CO₂-Emissionen,CO₂-Emissionen,MISC,,,de,2.9
-Klimaschutzprojekte,Klimaschutzprojekte,MISC,,,de,2.8
+COP30,COP30,MISC,1.9,0.5,de,5.4
+Berliner Senat,Berliner Senat,MISC,,,de,3.6999999999999997
+brasilianischen,brasilianischen,MISC,,,de,3.6000000000000005
+CO₂-Emissionen,CO₂-Emissionen,MISC,,,de,3.6
+Klimawandel“,Klimawandel“,MISC,,,de,3.3
+Zeit,Zeit,MISC,,,de,3.1999999999999997
+WM,WM,MISC,,,de,2.8
 Gletsc…,Gletsc…,MISC,,,de,2.7
-TTS Player,TTS Player,MISC,,,de,2.7
-österreichischen,österreichischen,MISC,,,de,2.0
-spanische,spanische,MISC,,,de,2.0
+Berliner,Berliner,MISC,,,de,2.5
+Fußball-WM,Fußball-WM,MISC,,,de,2.1999999999999997
+UNO-Umweltprogramms,UNO-Umweltprogramms,MISC,,,de,2.0
 CO2-Emissionen,CO2-Emissionen,MISC,,,de,2.0
-R…,R…,MISC,,,de,1.9000000000000001
-Berlins Koalition,Berlins Koalition,MISC,,,de,1.9
-CO2,CO2,MISC,,,de,1.9
-Treibhausgas CO2,Treibhausgas CO2,MISC,,,de,1.9
-Klimakonferenz in Brasilien,Klimakonferenz in Brasilien,MISC,,,de,1.9
-UNO-Umweltprogramms,UNO-Umweltprogramms,MISC,,,de,1.9
-deutsche,deutsche,MISC,,,de,1.9
-Deutschen,Deutschen,MISC,,,de,1.9
-UNO-Aktionsplan,UNO-Aktionsplan,MISC,,,de,1.9
-CO2-Zahlung,CO2-Zahlung,MISC,,,de,1.9
-Eurowings-Werbung,Eurowings-Werbung,MISC,,,de,1.9
-Berliner,Berliner,MISC,,,de,1.9
-Olympischer Spiele,Olympischer Spiele,MISC,,,de,1.9
-NRW-Landesverwaltung,NRW-Landesverwaltung,MISC,,,de,1.9
-Kernfusion,Kernfusion,MISC,,,de,1.9
-Fußball-WM,Fußball-WM,MISC,,,de,1.6000000000000005
-Wasser-Streit,Wasser-Streit,MISC,,,de,1.5000000000000004
-WM 2022,WM 2022,MISC,,,de,1.3000000000000003
-AfD sage,AfD sage,MISC,,,de,1.3000000000000003
-GeForce GTX 580,GeForce GTX 580,MISC,,,de,1.2000000000000002
+UNO-Aktionsplan,UNO-Aktionsplan,MISC,,,de,2.0
+spanische,spanische,MISC,,,de,2.0
+Hitzeaktionsplan“,Hitzeaktionsplan“,MISC,,,de,1.9
+Leitfaden,Leitfaden,MISC,,,de,1.9
+d…,d…,MISC,,,de,1.9
+Berlins Koalition,Berlins Koalition,MISC,,,de,1.8
+Klimakonferenz in Brasilien,Klimakonferenz in Brasilien,MISC,,,de,1.8
+NRW-Landesverwaltung,NRW-Landesverwaltung,MISC,,,de,1.8
+Pariser Klimaabkommen,Pariser Klimaabkommen,MISC,,,de,1.7
+deutsche,deutsche,MISC,,,de,1.7
+österreichischen,österreichischen,MISC,,,de,1.7
+TTS Player,TTS Player,MISC,,,de,1.6
+Re…,Re…,MISC,,,de,1.3
 griechische,griechische,MISC,,,de,1.2000000000000002
-Schrank einzu…,Schrank einzu…,MISC,,,de,1.2000000000000002
-Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,MISC,,,de,1.2000000000000002
-Google,Google,MISC,,,de,1.2000000000000002
-Wassers,Wassers,MISC,,,de,1.2000000000000002
-Gaming-Handhelds,Gaming-Handhelds,MISC,,,de,1.1
-Corona-Zeit,Corona-Zeit,MISC,,,de,1.1
-Xiaomi,Xiaomi,MISC,,,de,1.1
-japanische,japanische,MISC,,,de,1.1
-Shark SpeedStyle,Shark SpeedStyle,MISC,,,de,1.1
-Amazon,Amazon,MISC,,,de,1.1
-Spitzenpreis,Spitzenpreis,MISC,,,de,1.1
-Der Politologe Wolfgang Schroeder,Der Politologe Wolfgang Schroeder,MISC,,,de,1.1
-ASUS,ASUS,MISC,,,de,1.1
-brandenb…,brandenb…,MISC,,,de,1.1
-GeForce GTX,GeForce GTX,MISC,,,de,1.1
-DfB-Elf,DfB-Elf,MISC,,,de,1.1
-Das Rätsel um den Aal,Das Rätsel um den Aal,MISC,,,de,1.0
+Kernfusion,Kernfusion,MISC,,,de,1.2
+Olympischer Spiele,Olympischer Spiele,MISC,,,de,1.2
+CO2,CO2,MISC,,,de,1.2
+DfB-Elf,DfB-Elf,MISC,,,de,1.2
+Klimaschutz-Optionen,Klimaschutz-Optionen,MISC,,,de,1.1
+Deutschland sucht nach Wegen,Deutschland sucht nach Wegen,MISC,,,de,1.1
+Frost-Einbruch,Frost-Einbruch,MISC,,,de,1.0
+Deutschen,Deutschen,MISC,,,de,1.0
 Anschluss,Anschluss,MISC,,,de,1.0
-Rückenwind,Rückenwind,MISC,,,de,1.0
-ni…,ni…,MISC,,,de,1.0
-Die Menschheit,Die Menschheit,MISC,,,de,1.0
-Interv…,Interv…,MISC,,,de,1.0
+Klima-Portals Carbon Brief…,Klima-Portals Carbon Brief…,MISC,,,de,1.0
+Klimarisiko-Index 2026,Klimarisiko-Index 2026,MISC,,,de,1.0
+Wiener,Wiener,MISC,,,de,1.0
+kalifornischer,kalifornischer,MISC,,,de,1.0
+Urlaub in Niedersachsen“,Urlaub in Niedersachsen“,MISC,,,de,1.0
+Spitzenpreis,Spitzenpreis,MISC,,,de,1.0
+CO2-neutral,CO2-neutral,MISC,,,de,1.0
+Chefin des …,Chefin des …,MISC,,,de,1.0
+verhe…,verhe…,MISC,,,de,1.0
+Jahr 202,Jahr 202,MISC,,,de,1.0
+Jahr 202…,Jahr 202…,MISC,,,de,1.0
+FIFA-Werbung,FIFA-Werbung,MISC,,,de,1.0
+WM 2022,WM 2022,MISC,,,de,1.0
 Die Folgen des Klimawandels,Die Folgen des Klimawandels,MISC,,,de,1.0
 Deta…,Deta…,MISC,,,de,1.0
-verhe…,verhe…,MISC,,,de,1.0
-Wiener,Wiener,MISC,,,de,1.0
-Urlaub in Niedersachsen“,Urlaub in Niedersachsen“,MISC,,,de,1.0
-Ein dunkler Schatten,Ein dunkler Schatten,MISC,,,de,1.0
+Ta…,Ta…,MISC,,,de,1.0
+Amazon,Amazon,MISC,,,de,1.0
 Cou…,Cou…,MISC,,,de,1.0
-Heiße Sache,Heiße Sache,MISC,,,de,1.0
-d…,d…,MISC,,,de,1.0
+Getränke-Produktion,Getränke-Produktion,MISC,-0.7,0.0,de,1.0
+Ein dunkler Schatten,Ein dunkler Schatten,MISC,,,de,1.0
+Das Rätsel um den Aal,Das Rätsel um den Aal,MISC,,,de,1.0
+Wassers,Wassers,MISC,,,de,1.0
 Wasserverbrauch“,Wasserverbrauch“,MISC,,,de,1.0
 Baruth“,Baruth“,MISC,,,de,1.0
-Der Wasserverbrauch,Der Wasserverbrauch,MISC,,,de,1.0
-Ta…,Ta…,MISC,,,de,1.0
-Handy-Mittelklasse,Handy-Mittelklasse,MISC,,,de,1.0
-Getränke-Produktion,Getränke-Produktion,MISC,-0.5833333333333333,0.0,de,1.0
 iranische,iranische,MISC,,,de,1.0
-Wunderschönes Handy,Wunderschönes Handy,MISC,,,de,1.0
 Was… Kopiere,Was… Kopiere,MISC,,,de,1.0
-Kli…,Kli…,MISC,,,de,1.0
-KI-Boom,KI-Boom,MISC,,,de,1.0
-Drohnenalarm,Drohnenalarm,MISC,0.0,0.0,de,1.0
 Fußball-WM in Katar 2022,Fußball-WM in Katar 2022,MISC,,,de,1.0
-Frost-Einbruch,Frost-Einbruch,MISC,,,de,1.0
-Blutregen“,Blutregen“,MISC,,,de,1.0
-Luftverschmutzung und Seehöhe,Luftverschmutzung und Seehöhe,MISC,,,de,1.0
-Integrated Assessment Modelling Consortium,Integrated Assessment Modelling Consortium,MISC,,,de,1.0
-IAMC,IAMC,MISC,,,de,1.0
-Klimaschutz“,Klimaschutz“,MISC,,,de,1.0
+Shark SpeedStyle,Shark SpeedStyle,MISC,,,de,1.0
+KI-Boom,KI-Boom,MISC,,,de,1.0
+Kli…,Kli…,MISC,,,de,1.0
+grüne Sprache,grüne Sprache,MISC,,,de,1.0
+Wunderschönes Handy,Wunderschönes Handy,MISC,,,de,1.0
+Xiaomi,Xiaomi,MISC,,,de,1.0
+Handy-Mittelklasse,Handy-Mittelklasse,MISC,,,de,1.0
+Der Wasserverbrauch,Der Wasserverbrauch,MISC,,,de,1.0
+Heiße Sache,Heiße Sache,MISC,,,de,1.0
+Drohnenalarm,Drohnenalarm,MISC,0.0,0.0,de,1.0
+Kein Land der Welt,Kein Land der Welt,MISC,,,de,1.0
+Fußball-Weltverbands,Fußball-Weltverbands,MISC,,,de,1.0
+Pakt,Pakt,MISC,,,de,1.0
 Aqara,Aqara,MISC,,,de,1.0
 deutschen,deutschen,MISC,,,de,1.0
 lateinischen,lateinischen,MISC,,,de,1.0
+Fußball-WM: Illusion vom Glück,Fußball-WM: Illusion vom Glück,MISC,,,de,1.0
 CO2-Speicherung,CO2-Speicherung,MISC,,,de,1.0
 Kohlendioxid-Speicherungsgese…,Kohlendioxid-Speicherungsgese…,MISC,,,de,1.0
+Extremwetter“,Extremwetter“,MISC,,,de,1.0
+Hitzeaktionsplan,Hitzeaktionsplan,MISC,,,de,1.0
 Antrittsbesuch“,Antrittsbesuch“,MISC,,,de,1.0
-Leitfaden,Leitfaden,MISC,,,de,1.0
 Tisch,Tisch,MISC,,,de,1.0
-Pakt,Pakt,MISC,,,de,1.0
 Kl…,Kl…,MISC,,,de,1.0
+Katar im Jahr 2022,Katar im Jahr 2022,MISC,,,de,1.0
 NRW-Landesverwaltung“,NRW-Landesverwaltung“,MISC,,,de,1.0
 Klimawandels“,Klimawandels“,MISC,,,de,1.0
+Alarmstufe 2,Alarmstufe 2,MISC,,,de,1.0
 indonesische,indonesische,MISC,,,de,1.0
 Klimaschutz-Maßnahmen,Klimaschutz-Maßnahmen,MISC,,,de,1.0
 Klimaschutzgesetzes,Klimaschutzgesetzes,MISC,,,de,1.0
-Saharastaub gesichtet</li><li,Saharastaub gesichtet</li><li,MISC,,,de,1.0
-Wegner,Wegner,MISC,0.0,0.0,de,1.0
-Klimarisiko-Index 2026,Klimarisiko-Index 2026,MISC,,,de,1.0
-Re…,Re…,MISC,,,de,1.0
-CO2-neutral,CO2-neutral,MISC,,,de,1.0
-Chefin des …,Chefin des …,MISC,,,de,1.0
-Jahr 202…,Jahr 202…,MISC,,,de,1.0
-Jahr 202,Jahr 202,MISC,,,de,1.0
-FIFA-Werbung,FIFA-Werbung,MISC,,,de,1.0
-Einmal im Jahr,Einmal im Jahr,MISC,,,de,1.0
-Fußball-Weltverbands,Fußball-Weltverbands,MISC,,,de,1.0
-Katar im Jahr 2022,Katar im Jahr 2022,MISC,,,de,1.0
+Eurowings-Werbung,Eurowings-Werbung,MISC,,,de,1.0
+CO2-Zahlung,CO2-Zahlung,MISC,,,de,1.0
+Klimaschutzprojekte,Klimaschutzprojekte,MISC,,,de,1.0
+Airline Eurowings,Airline Eurowings,MISC,,,de,1.0
+Der Klimaschutz-Index,Der Klimaschutz-Index,MISC,,,de,1.0
+Klima-Indizes,Klima-Indizes,MISC,,,de,1.0
+Klimaschutz“,Klimaschutz“,MISC,,,de,1.0
+Schleswig-Holsteins,Schleswig-Holsteins,MISC,,,de,1.0
 Geri…,Geri…,MISC,,,de,1.0
 Potsdamer ViP-Betriebshofs,Potsdamer ViP-Betriebshofs,MISC,,,de,1.0
+Treibhausgas CO2,Treibhausgas CO2,MISC,,,de,1.0
 Wochenbeginn,Wochenbeginn,MISC,,,de,1.0
 Sommergruß,Sommergruß,MISC,,,de,1.0
 Chinesische,Chinesische,MISC,,,de,1.0
-Kein Land der Welt,Kein Land der Welt,MISC,,,de,1.0
+Die Menschheit,Die Menschheit,MISC,,,de,1.0
 Hauptp…,Hauptp…,MISC,,,de,1.0
 Raumschiff,Raumschiff,MISC,,,de,1.0
 Gemini South Telescope…,Gemini South Telescope…,MISC,,,de,1.0
 Stürme global,Stürme global,MISC,,,de,1.0
 Windenergiebranche,Windenergiebranche,MISC,,,de,1.0
-Klimakonferenz der Vereinten Nationen,Klimakonferenz der Vereinten Nationen,MISC,,,de,1.0
-Heizungsrohre,Heizungsrohre,MISC,,,de,1.0
-EU-weiten,EU-weiten,MISC,,,de,1.0
-Klub-WM,Klub-WM,MISC,,,de,1.0
-WM-Anstoßzeiten,WM-Anstoßzeiten,MISC,,,de,1.0
-DFB-Team,DFB-Team,MISC,,,de,1.0
-Keim-Hotspots,Keim-Hotspots,MISC,,,de,1.0
+Wegner,Wegner,MISC,0.0,0.0,de,1.0
+Blutregen“,Blutregen“,MISC,,,de,1.0
+Saharastaub gesichtet</li><li,Saharastaub gesichtet</li><li,MISC,,,de,1.0
+Erzfeind,Erzfeind,MISC,,,de,1.0
+Ayatollah-Regimes,Ayatollah-Regimes,MISC,,,de,1.0
+r…,r…,MISC,,,de,1.0
+Luftverschmutzung und Seehöhe,Luftverschmutzung und Seehöhe,MISC,,,de,1.0
+Integrated Assessment Modelling Consortium,Integrated Assessment Modelling Consortium,MISC,,,de,1.0
+IAMC,IAMC,MISC,,,de,1.0
+Interv…,Interv…,MISC,,,de,1.0
+Klimaziele“,Klimaziele“,MISC,,,de,1.0
+ni…,ni…,MISC,,,de,1.0
 Händewaschen“,Händewaschen“,MISC,,,de,1.0
-Krankheitserreger,Krankheitserreger,MISC,,,de,1.0
-Sterbefälle,Sterbefälle,MISC,-0.7,0.0,de,1.0
 Vo…,Vo…,MISC,,,de,1.0
 Händewaschen,Händewaschen,MISC,0.0,0.0,de,1.0
 Hygiene,Hygiene,MISC,,,de,1.0
 ’s,’s,MISC,,,de,1.0
+ASUS,ASUS,MISC,,,de,1.0
+Gaming-Handhelds,Gaming-Handhelds,MISC,,,de,1.0
 ROG Xbox Ally X,ROG Xbox Ally X,MISC,,,de,1.0
 World Weather Attribution,World Weather Attribution,MISC,,,de,1.0
 Abkommen bereits…,Abkommen bereits…,MISC,,,de,1.0
@@ -147,10 +145,18 @@ Hilo-Band,Hilo-Band,MISC,,,de,1.0
 schönste Zeit des Jahres,schönste Zeit des Jahres,MISC,,,de,1.0
 Herbst die schönste Zeit des Jahres,Herbst die schönste Zeit des Jahres,MISC,,,de,1.0
 Fabian,Fabian,MISC,,,de,1.0
-WM 2026,WM 2026,MISC,,,de,1.0
-WM-Spiele,WM-Spiele,MISC,,,de,1.0
+R…,R…,MISC,,,de,1.0
+Schrank einzu…,Schrank einzu…,MISC,,,de,1.0
+Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,MISC,,,de,1.0
+niedersächsischen,niedersächsischen,MISC,,,de,1.0
 KI-Fälschungen,KI-Fälschungen,MISC,,,de,1.0
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1.0
+Der Fall des kleinen Gus Lamont,Der Fall des kleinen Gus Lamont,MISC,,,de,1.0
+Tages,Tages,MISC,,,de,1.0
+Guten Abend,Guten Abend,MISC,,,de,1.0
+Krankheitserreger,Krankheitserreger,MISC,,,de,1.0
+Keim-Hotspots,Keim-Hotspots,MISC,,,de,1.0
+Rückenwind,Rückenwind,MISC,,,de,1.0
+DFB-Team,DFB-Team,MISC,,,de,1.0
 Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
 Hohe Temperaturen,Hohe Temperaturen,MISC,,,de,1.0
 Wie viel,Wie viel,MISC,,,de,1.0
@@ -168,16 +174,16 @@ Krankheiten“,Krankheiten“,MISC,,,de,1.0
 Kassenärztlichen Vereinigun…,Kassenärztlichen Vereinigun…,MISC,,,de,1.0
 französischen,französischen,MISC,,,de,1.0
 La Tribune,La Tribune,MISC,,,de,1.0
-WM,WM,MISC,,,de,1.0
 Spiele,Spiele,MISC,,,de,1.0
-niedersächsischen,niedersächsischen,MISC,,,de,1.0
-Der Fall des kleinen Gus Lamont,Der Fall des kleinen Gus Lamont,MISC,,,de,1.0
-Wasser-Streit“,Wasser-Streit“,MISC,,,de,1.0
-…,…,MISC,0.0,0.0,de,1.0
-Neandertalern,Neandertalern,MISC,,,de,1.0
-Date Ideen,Date Ideen,MISC,,,de,1.0
-Pariser Klimaabkommen,Pariser Klimaabkommen,MISC,,,de,1.0
-UN 64,UN 64,MISC,,,de,1.0
+Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1.0
+WM-Spiele,WM-Spiele,MISC,,,de,1.0
+Klub-WM,Klub-WM,MISC,,,de,1.0
+WM 2026,WM 2026,MISC,,,de,1.0
+WM-Anstoßzeiten,WM-Anstoßzeiten,MISC,,,de,1.0
+französische Kronjuwelen,französische Kronjuwelen,MISC,,,de,1.0
+Mit Hochdruck,Mit Hochdruck,MISC,,,de,1.0
+Solarmodule über Weinbergen,Solarmodule über Weinbergen,MISC,,,de,1.0
+Agri-Photovoltaik,Agri-Photovoltaik,MISC,,,de,1.0
 Klimaschutzgesetz“,Klimaschutzgesetz“,MISC,,,de,1.0
 MV,MV,MISC,,,de,1.0
 Umweltminister Till B…,Umweltminister Till B…,MISC,,,de,1.0
@@ -185,35 +191,46 @@ INTERVIEW,INTERVIEW,MISC,,,de,1.0
 Die Grünenaversion,Die Grünenaversion,MISC,,,de,1.0
 Sepia100,Sepia100,MISC,,,de,1.0
 Adobe Stock,Adobe Stock,MISC,,,de,1.0
-dänischen,dänischen,MISC,,,de,1.0
+Heizungsrohre,Heizungsrohre,MISC,,,de,1.0
 Jahr 2021,Jahr 2021,MISC,,,de,1.0
 Nvidia GeForce GTX 580,Nvidia GeForce GTX 580,MISC,,,de,1.0
 GTX 480,GTX 480,MISC,,,de,1.0
+GeForce GTX,GeForce GTX,MISC,,,de,1.0
+GeForce GTX 580,GeForce GTX 580,MISC,,,de,1.0
 solar-elektrisch,solar-elektrisch,MISC,,,de,1.0
 Wi…,Wi…,MISC,,,de,1.0
-Klimaziele“,Klimaziele“,MISC,,,de,1.0
+dänischen,dänischen,MISC,,,de,1.0
+Wasser-Streit,Wasser-Streit,MISC,,,de,1.0
 Getränkehersteller“,Getränkehersteller“,MISC,,,de,1.0
-Berech…,Berech…,MISC,,,de,1.0
-britischen,britischen,MISC,,,de,1.0
-Tages,Tages,MISC,,,de,1.0
-Wer hautnah erleben,Wer hautnah erleben,MISC,,,de,1.0
-Guten Abend,Guten Abend,MISC,,,de,1.0
-französische Kronjuwelen,französische Kronjuwelen,MISC,,,de,1.0
-Mit Hochdruck,Mit Hochdruck,MISC,,,de,1.0
-Solarmodule über Weinbergen,Solarmodule über Weinbergen,MISC,,,de,1.0
-Agri-Photovoltaik,Agri-Photovoltaik,MISC,,,de,1.0
+Wasser-Streit“,Wasser-Streit“,MISC,,,de,1.0
+brandenb…,brandenb…,MISC,,,de,1.0
+EU-weiten,EU-weiten,MISC,,,de,1.0
+Einmal im Jahr,Einmal im Jahr,MISC,,,de,1.0
+Klimakonferenz der Vereinten Nationen,Klimakonferenz der Vereinten Nationen,MISC,,,de,1.0
+UN 64,UN 64,MISC,,,de,1.0
+Date Ideen,Date Ideen,MISC,,,de,1.0
+Neandertalern,Neandertalern,MISC,,,de,1.0
+NGOs,NGOs,MISC,,,de,1.0
 Krieg in Gaza,Krieg in Gaza,MISC,,,de,1.0
 Krieges,Krieges,MISC,,,de,1.0
+Google,Google,MISC,,,de,1.0
 Online-Abstimmung,Online-Abstimmung,MISC,,,de,1.0
+AfD sage,AfD sage,MISC,,,de,1.0
+Der Politologe Wolfgang Schroeder,Der Politologe Wolfgang Schroeder,MISC,,,de,1.0
 Merz-CDU,Merz-CDU,MISC,,,de,1.0
 EU-Klimaziel 2040,EU-Klimaziel 2040,MISC,,,de,1.0
 v…,v…,MISC,,,de,1.0
 Angriff auf den Klimaschutz,Angriff auf den Klimaschutz,MISC,,,de,1.0
-NGOs,NGOs,MISC,,,de,1.0
 französisches,französisches,MISC,,,de,1.0
+Berech…,Berech…,MISC,,,de,1.0
 Greenwashing-Gesetz,Greenwashing-Gesetz,MISC,,,de,1.0
+japanische,japanische,MISC,,,de,1.0
 Bauhaus-Designer,Bauhaus-Designer,MISC,,,de,1.0
-Hause aus bald,Hause aus bald,MISC,,,de,1.0
 Schulen“,Schulen“,MISC,,,de,1.0
 Reform“,Reform“,MISC,,,de,1.0
-Airline Eurowings,Airline Eurowings,MISC,,,de,1.0
+Corona-Zeit,Corona-Zeit,MISC,,,de,1.0
+Hause aus bald,Hause aus bald,MISC,,,de,1.0
+Wer hautnah erleben,Wer hautnah erleben,MISC,,,de,1.0
+britischen,britischen,MISC,,,de,1.0
+…,…,MISC,0.0,0.0,de,1.0
+Finanzkurs,Finanzkurs,MISC,,,de,1.0
