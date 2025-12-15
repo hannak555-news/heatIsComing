@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.35
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.3460983830357143
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3444522092993749
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.34090009
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.297650015
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
