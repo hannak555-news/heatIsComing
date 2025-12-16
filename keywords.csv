@@ -2,14 +2,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.4593501237499999
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.425000135
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4047083985874999
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,1,0.4
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.387090560325
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3772234472727273
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.369878681549375
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3572250972727273
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.3460983830357143
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3444522092993749
@@ -23,9 +23,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.3267901665
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3259033197874999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.325125
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.325125
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3239687891959331
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
