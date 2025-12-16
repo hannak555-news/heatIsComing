@@ -32,16 +32,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.30905619935
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.30905619935
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.3079692107177931
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.3079652152624999
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3077259413374999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.3071709540874999
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.297650015
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.26192384411012415
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2610952529618749
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
