@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3615275277499999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3612499999999999
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3572250972727273
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.3460983830357143
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3444522092993749
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.30905619935
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.30905619935
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.3079692107177931
