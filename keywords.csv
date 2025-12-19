@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.425000135
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4047083985874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.387090560325
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.37945098624999996
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3794509862499999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3772234472727273
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.369878681549375
@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3072125149999999
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.3071709540874999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2610952529618749
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
