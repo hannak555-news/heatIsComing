@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.425000135
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4047083985874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.387090560325
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.37945098624999996
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3772234472727273
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.369878681549375
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.3460983830357143
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3416484585874999
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.340000525
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.3390752475
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
