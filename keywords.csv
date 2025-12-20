@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.3490628750375
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.3460983830357143
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.34
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.3390752475
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.297650015
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2930844079044686
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.2905151515
