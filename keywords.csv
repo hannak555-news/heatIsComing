@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3794509862499999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3772234472727273
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
-'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.369878681549375
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.3490628750375
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3239687891959331
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
+'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.31454689431696875
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.3079652152624999
@@ -28,9 +28,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3072125149999999
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.297650015
@@ -47,8 +47,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.26374787444750003
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.26374787444750003
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2617170651368749
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
