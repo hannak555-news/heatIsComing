@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.3239687891959331
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
-'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.31454689431696875
+'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.3079652152624999
@@ -54,8 +54,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2610952529618749
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.23666095079625
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.20146183817681249
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1678027943242002
