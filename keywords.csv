@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.4593501237499999
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.5255976201874999
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.4047083985874999
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.387090560325
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3794509862499999
@@ -27,9 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3072125149999999
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.297650015
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.2905151515
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.28927752775
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.28900000000000003
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.289
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
