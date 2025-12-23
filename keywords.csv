@@ -55,9 +55,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2610952529618749
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2014618381768124
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.17154259245029055
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1678027943242002
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.1677657772353529
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1462096465078706
