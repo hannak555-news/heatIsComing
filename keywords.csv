@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.5255976201874999
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3794509862499999
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3772234472727273
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.3390752475
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3308402001818182
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.3305480538863636
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3259033197874999
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.0837667484545454
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.07091710627282696
+'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0709171062728269
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
