@@ -74,8 +74,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.0837667484545454
-'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0834318897327376
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
+'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.07091710627282696
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
