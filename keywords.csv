@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3308402001818182
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.3305480538863636
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.3259033197874999
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3247512497993749
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.2905151515
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.28927752775
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.289
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2887608889622321
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1462096465078706
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.142778510032818
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.14263237517557018
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1426323751755701
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.138739832891722
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
