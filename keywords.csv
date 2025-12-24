@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.3305480538863636
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.325125
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3247512497993749
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.27635624999999997
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
