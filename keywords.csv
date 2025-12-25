@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.3305480538863636
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.3232088360606249
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2755234858165431
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.27472751065153117
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
