@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.5255976201874999
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3794509862499999
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.3305480538863636
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.3225338333124999
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.32057757085
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
