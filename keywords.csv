@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.5255976201874999
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3612499999999999
 'Trockenheit',de,Causes,#F39C12,#b4b02b,1,0.35
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.3390752475
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.297650015
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.13267236309591
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169002
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
