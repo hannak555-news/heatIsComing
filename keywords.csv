@@ -16,16 +16,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.3106263360546022
-'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.3103886223294687
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.3079652152624999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2981803889800484
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.297650015
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.12123751889923458
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
