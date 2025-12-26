@@ -59,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1715425924502905
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.1677657772353529
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1462096465078706
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.142778510032818
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1426323751755701
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.13267236309591
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169002
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
