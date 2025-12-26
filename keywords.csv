@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.1677657772353529
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.142778510032818
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1426323751755701
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.138739832891722
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.12123751889923458
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
