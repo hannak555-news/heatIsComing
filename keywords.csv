@@ -18,9 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2981803889800484
@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.2905151515
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.28927752775
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.289
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2887608889622321
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
@@ -39,8 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2755234858165431
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2610952529618749
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.24564999999999998
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
