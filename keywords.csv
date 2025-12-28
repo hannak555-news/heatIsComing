@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.3070624999999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2610952529618749
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
