@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.3133664866136363
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.3106263360546022
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2687617536215908
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2623704929731249
