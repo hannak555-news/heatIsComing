@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.5255976201874999
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
+'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.35708098001759364
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3388147613636363
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
@@ -32,9 +33,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2612806527499999
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
-'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2610952529618749
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
