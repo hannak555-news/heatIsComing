@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.5255976201874999
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
-'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.35708098001759364
+'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.3570809800175936
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3388147613636363
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.3073400277499999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.3007958426544687
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2981803889800484
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.25567646625629836
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.25345255775
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
