@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
-'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2981803889800484
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2930844079044686
@@ -50,7 +49,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.25567646625629836
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.25345333063304115
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.25345255775
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
