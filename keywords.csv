@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.5255976201874999
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.4467580221593749
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.3570809800175936
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
@@ -29,9 +29,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
