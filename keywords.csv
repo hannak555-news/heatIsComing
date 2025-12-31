@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3308402001818182
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.325125
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.3106263360546022
@@ -29,9 +28,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2534533306330411
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.25345255775
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.24798189268289764
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
