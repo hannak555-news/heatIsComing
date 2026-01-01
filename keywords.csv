@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.318497581
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.3106263360546022
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3076175663375
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
@@ -28,10 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.27708256564641187
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
