@@ -27,11 +27,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.27708256564641187
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.25345255775
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.23490281249999992
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
