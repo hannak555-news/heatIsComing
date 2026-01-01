@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.4467580221593749
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.37435006
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.3570809800175936
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3388147613636363
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3308402001818182
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.32902739627625
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.318497581
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.3106263360546022
@@ -29,9 +29,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2763562499999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2763562499999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.27625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
