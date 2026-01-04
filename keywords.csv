@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.25345255775
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.23490281249999992
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
@@ -58,8 +58,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2033789029579637
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1715425924502905
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.1677657772353529
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.142778510032818
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
