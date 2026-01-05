@@ -22,8 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.280388892477232
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
@@ -39,15 +37,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2612806527499999
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2534533306330411
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.25345255775
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
+'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.24148087360564716
+'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.24148087360564716
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
