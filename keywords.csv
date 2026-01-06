@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2958756977993749
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.2905151515
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2887608889622321
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
@@ -37,14 +36,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2612806527499999
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2612582106481249
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2534533306330411
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.25345255775
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.247087893775
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
