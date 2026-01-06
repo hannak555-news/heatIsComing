@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.3618652542601483
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
-'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3388147613636363
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3295749913868749
+'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3215803807954545
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.318497581
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
