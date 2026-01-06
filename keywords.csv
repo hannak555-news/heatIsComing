@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.4467580221593749
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.42519436383546866
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3388147613636363
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.27967370683481246
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.2796737068348124
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
