@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.318497581
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.3080355111211261
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3035188480149545
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.266933069299375
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2619890985874999
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2617170651368749
