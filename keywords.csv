@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.3441521537993749
-'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.3363383327468749
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3295749913868749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3215803807954545
@@ -16,8 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2887608889622321
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
+'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2861876128348437
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.28040528045454544
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.2796737068348124
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
@@ -34,9 +34,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2617170651368749
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2612806527499999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2534533306330411
