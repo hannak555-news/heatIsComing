@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,2,0.3025195240509061
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,1,0.3
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.28040528045454544
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.2796737068348124
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
