@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.2796737068348124
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.27665628
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2687617536215908
@@ -32,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2612806527499999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2534533306330411
@@ -46,9 +45,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2435595009096171
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
