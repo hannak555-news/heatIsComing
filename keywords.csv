@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2887608889622321
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.286608668159375
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.247087893775
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2435595009096171
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.22329079379937494
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2033789029579637
