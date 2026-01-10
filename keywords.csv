@@ -49,15 +49,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.22719313890446874
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.2271931389044687
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2033789029579637
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.17287212751426914
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1457512256500499
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
