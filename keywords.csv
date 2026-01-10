@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2617170651368749
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2612806527499999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2610953109743749
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2343449779440616
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2033789029579637
