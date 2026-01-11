@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3295749913868749
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3215803807954545
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.318497581
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.3072125366749999
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.27102297384999996
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2687617536215908
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
