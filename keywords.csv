@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.27102297384999996
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2710229738499999
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2687617536215908
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.046795609583651
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.04280003
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.042500435
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.037430130500000006
