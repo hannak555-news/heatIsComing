@@ -1,36 +1,39 @@
 ,phrase,label,sentiment,subjectivity,language,count
-António Guterres,António Guterres,PER,-0.3035714285714286,0.35714285714285715,de,2.8
 Filippo Grandi,Filippo Grandi,PER,0.35714285714285715,0.0,de,2.8
+António Guterres,António Guterres,PER,-0.3035714285714286,0.35714285714285715,de,2.8
 Kai Wegner,Kai Wegner,PER,0.5384615384615384,0.0,de,2.6
 Carsten Schneider,Carsten Schneider,PER,-0.6,1.0,de,2.5
 Markus Steilemann,Markus Steilemann,PER,-0.18181818181818177,0.0,de,2.2
 Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,2.1999999999999997
 Heike Hübener,Heike Hübener,PER,-0.5263157894736842,0.0,de,1.9
-Bill Gates,Bill Gates,PER,0.38888888888888884,0.0,de,1.8
 Niedersachsens Tourismusbranche,Niedersachsens Tourismusbranche,PER,-1.027777777777778,0.0,de,1.8
 Simon Stiell,Simon Stiell,PER,0.0,0.0,de,1.8
+Bill Gates,Bill Gates,PER,0.38888888888888884,0.0,de,1.8
 Brasiliens Widersprüchlichkeit,Brasiliens Widersprüchlichkeit,PER,0.0,0.0,de,1.6
 Donald Trump,Donald Trump,PER,0.5384615384615384,0.0,de,1.3
 Hans-Josef Fell,Hans-Josef Fell,PER,0.0,0.0,de,1.2000000000000002
 Nadine Göppert,Nadine Göppert,PER,0.0,0.0,de,1.1
-Teheran  ,Teheran  ,PER,0.7,0.0,de,1.0
-Masoud Pezeshkian ,Masoud Pezeshkian ,PER,0.7,0.0,de,1.0
 Vera Künzel,Vera Künzel,PER,0.5,0.5,de,1.0
-August Wollkleidung,August Wollkleidung,PER,-0.7,0.0,de,1.0
 Andreas Walter,Andreas Walter,PER,0.0,0.0,de,1.0
-Theodor Storm,Theodor Storm,PER,0.0,0.0,de,1.0
+Keywan Riahi,Keywan Riahi,PER,0.5,0.5,de,1.0
 Mark Carney,Mark Carney,PER,0.0,0.0,de,1.0
-UN-Chef Guterres,UN-Chef Guterres,PER,0.0,0.0,de,1.0
+Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1.0
 Heinrich Strößenreuther,Heinrich Strößenreuther,PER,0.0,0.0,de,1.0
 sturem Verbrennerverbot,sturem Verbrennerverbot,PER,0.0,0.0,de,1.0
-Sabine Henkel,Sabine Henkel,PER,0.0,0.0,de,1.0
 Prabowo Subianto,Prabowo Subianto,PER,0.0,0.0,de,1.0
 Unfallrisiko Alter,Unfallrisiko Alter,PER,0.0,0.0,de,1.0
 Katrin Ed,Katrin Ed,PER,0.0,0.0,de,1.0
-Keywan Riahi,Keywan Riahi,PER,0.5,0.5,de,1.0
-Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1.0
-Heiße Ziegelsteine,Heiße Ziegelsteine,PER,0.0,0.0,de,1.0
-Bodo Sartorius,Bodo Sartorius,PER,0.0,0.0,de,1.0
+Theodor Storm,Theodor Storm,PER,0.0,0.0,de,1.0
+August Wollkleidung,August Wollkleidung,PER,-0.7,0.0,de,1.0
+Weihnachtslotterie „El Gordo“,Weihnachtslotterie „El Gordo“,PER,0.0,0.0,de,1.0
+Korinna Schumann,Korinna Schumann,PER,0.7,0.0,de,1.0
+Uta Eser,Uta Eser,PER,0.0,0.0,de,1.0
+Dry January,Dry January,PER,1.0,0.0,de,1.0
+vollgelaufene Keller leerpumpen,vollgelaufene Keller leerpumpen,PER,-0.85,0.0,de,1.0
+Sabine Henkel,Sabine Henkel,PER,0.0,0.0,de,1.0
+UN-Chef Guterres,UN-Chef Guterres,PER,0.0,0.0,de,1.0
+Masoud Pezeshkian ,Masoud Pezeshkian ,PER,0.7,0.0,de,1.0
+Alexei Ratmanskys,Alexei Ratmanskys,PER,0.0,0.0,de,1.0
 Premier Lecornu,Premier Lecornu,PER,0.0,0.0,de,1.0
 Sébastien Lecornu,Sébastien Lecornu,PER,-0.7,0.0,de,1.0
 Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1.0
@@ -40,9 +43,9 @@ Asus ROG Xbox Ally,Asus ROG Xbox Ally,PER,0.0,0.0,de,1.0
 Winterflucht Teneriffa,Winterflucht Teneriffa,PER,0.0,1.0,de,1.0
 Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,PER,2.0999999999999996,0.0,de,1.0
 Gus Lamont,Gus Lamont,PER,-0.7,0.0,de,1.0
-Alexei Ratmanskys,Alexei Ratmanskys,PER,0.0,0.0,de,1.0
-Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-1.0,1.0,de,1.0
+Bodo Sartorius,Bodo Sartorius,PER,0.0,0.0,de,1.0
 Agnieszka Hollands Kafka-Film,Agnieszka Hollands Kafka-Film,PER,0.0,0.0,de,1.0
+Teheran  ,Teheran  ,PER,0.7,0.0,de,1.0
 Franz K,Franz K,PER,0.0,0.0,de,1.0
 Klimaexpertin Sabine Minninger,Klimaexpertin Sabine Minninger,PER,0.0,0.0,de,1.0
 Wolfgang Schroeder,Wolfgang Schroeder,PER,0.15000000000000002,0.0,de,1.0
@@ -51,4 +54,6 @@ Katrin Göring-Eckardt,Katrin Göring-Eckardt,PER,0.0,0.0,de,1.0
 Peter Godar,Peter Godar,PER,0.35,0.5,de,1.0
 Minsiterpräsident Söder,Minsiterpräsident Söder,PER,0.0,0.0,de,1.0
 Ottmar Edenhofer,Ottmar Edenhofer,PER,0.7,0.0,de,1.0
-Uta Eser,Uta Eser,PER,0.0,0.0,de,1.0
+Heiße Ziegelsteine,Heiße Ziegelsteine,PER,0.0,0.0,de,1.0
+Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-1.0,1.0,de,1.0
+Haut-Experte Rolf Stehr,Haut-Experte Rolf Stehr,PER,0.3333333333333333,0.0,de,1.0
