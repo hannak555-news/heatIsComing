@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2926793457294687
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2923753375
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2514943431294686
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.25016920187499997
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.247087893775
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.19964327625245235
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1996432762524523
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1728721275142691
