@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3295749913868749
-'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.3215803807954545
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2946336705803571
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2926793457294687
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
+'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2864765668579545
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.2796737068348124
@@ -41,9 +41,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.2271931389044687
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1728721275142691
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.17014682981458445
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1457512256500499
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
