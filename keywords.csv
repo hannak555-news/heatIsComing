@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,2,0.3126846417727273
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,2,0.3025195240509061
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3023810593282186
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2926793457294687
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2571416404432702
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2514943431294686
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2504386199933035
