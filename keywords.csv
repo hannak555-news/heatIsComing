@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.2796737068348124
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2777651515
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
@@ -39,10 +38,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2435595009096171
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.23610037877499998
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.2271931389044687
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.12479505982272723
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1247950598227272
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
