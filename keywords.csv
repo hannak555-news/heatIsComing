@@ -43,10 +43,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.22260273124999988
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1728721275142691
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
