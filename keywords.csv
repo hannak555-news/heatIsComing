@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2612806711737499
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2610031249999999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2571416404432702
@@ -40,13 +39,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2361003787749999
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.2236149790271561
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.22260273124999988
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
