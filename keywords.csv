@@ -50,12 +50,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
-'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2104602563589931
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.17889132290514412
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1728721275142691
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
