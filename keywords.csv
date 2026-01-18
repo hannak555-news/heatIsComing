@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.288513990375
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.2796737068348124
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2748243095977273
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.247087893775
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.24672795451926796
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2435595009096171
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
