@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.23051954277249992
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2305195427724999
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.2139939565937499
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2006853219587499
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.18309498310468741
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1728721275142691
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
