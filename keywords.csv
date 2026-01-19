@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
-'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2612806711737499
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.259058112777017
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
@@ -24,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2514943431294686
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2504386199933035
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.24877744387004838
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2487774438700483
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.247087893775
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
@@ -35,14 +34,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2305195427724999
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.22223858549768744
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
