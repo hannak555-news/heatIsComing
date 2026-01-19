@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3023810593282186
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2926793457294687
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2514943431294686
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2504386199933035
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.24877744387004838
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.247087893775
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.21732499631785354
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
