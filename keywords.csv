@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.3329531759374999
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.3070624999999999
-'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.3035388326788436
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3023810593282186
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2926793457294687
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2612806711737499
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
+'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.25905811277701707
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2571416404432702
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2556764662562983
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.18309498310468741
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1830949831046874
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1728721275142691
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
