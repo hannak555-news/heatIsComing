@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2822642751545455
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2748243095977273
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2687617536215908
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2435595009096171
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.24127942088534093
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.12136440905048522
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1213644090504852
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
