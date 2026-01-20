@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
-'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.22223858549768744
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1457512256500499
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1427816577064532
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.12136440905048522
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
