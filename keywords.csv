@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2687617536215908
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2637478744475
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.2348124999999999
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2006853219587499
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.19609162635662492
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1960916263566249
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
