@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2610031249999999
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.259058112777017
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2571416404432702
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
