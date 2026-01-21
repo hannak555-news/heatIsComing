@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.2232907937993749
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.19009720472946864
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1830949831046874
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
