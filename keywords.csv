@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.259058112777017
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2571416404432702
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2525474759201703
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2514943431294686
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2504386199933035
@@ -39,8 +38,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.21902043937677967
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.046795609583651
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.04516689384090909
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.045166893840909
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0374301305
