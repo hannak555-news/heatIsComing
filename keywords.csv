@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.046795609583651
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.04516689384090909
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.042500435
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0374301305
