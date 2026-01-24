@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.2676648901694234
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
-'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.259058112777017
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2525474759201703
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2514943431294686
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
+'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.22079945586046446
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2190204393767796
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
