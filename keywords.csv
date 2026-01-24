@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2619238441101241
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.259058112777017
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2525474759201703
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.22278528249360546
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.10315974769291242
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
