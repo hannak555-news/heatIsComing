@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2435595009096171
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2412794208853409
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
@@ -37,11 +36,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
-'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.22079945586046446
+'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.2207994558604644
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2190204393767796
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2136755063889034
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2128728269943079
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2006853219587499
