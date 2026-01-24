@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.3145468943169687
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.3023810593282186
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2844857232803749
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2770825656464118
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
+'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.2676648901694234
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.259058112777017
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.22278528249360546
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2227852824936054
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
