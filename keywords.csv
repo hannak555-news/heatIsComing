@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2456869368187499
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2435595009096171
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.24211289478831868
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.24211289478831868
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2421128947883186
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2421128947883186
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
@@ -52,11 +52,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.18919744574006991
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1885747578124999
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1830949831046874
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1728721275142691
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1457512256500499
