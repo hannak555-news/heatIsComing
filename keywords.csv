@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.2676648901694234
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.25747394542898583
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2574739454289858
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2525474759201703
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2487774438700483
@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2230595653663437
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2227852824936054
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1907068584567418
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.19020069056139216
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
