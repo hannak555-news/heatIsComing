@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2525474759201703
-'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2514943431294686
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2487774438700483
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.2158847190874999
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
+'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.21377019166004832
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2136755063889034
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2128728269943079
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
