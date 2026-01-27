@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2421128947883186
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.23992478388136368
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2399247838813636
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2349028124999999
@@ -59,10 +59,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
-'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1457512256500499
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
+'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1247950598227272
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
