@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2421128947883186
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2399247838813636
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.23243621629915906
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2227852824936054
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
-'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.10147509110796361
+'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1014750911079636
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
