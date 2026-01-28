@@ -68,10 +68,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
-'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1192059718917219
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
+'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.10147509110796361
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
