@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2227852824936054
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
-'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.2222385854976874
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.18920282767303429
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1830949831046874
