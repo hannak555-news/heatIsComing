@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2842108145468749
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.2732410102225
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.2676648901694234
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2622802294529572
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.232436216299159
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.2227852824936054
@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2136755063889034
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2128728269943079
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.21146082728954105
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.211460827289541
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.2110693913413777
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
