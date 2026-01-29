@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2574739454289858
 'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2525474759201703
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2487774438700483
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2456869368187499
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2136755063889034
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2128728269943079
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.21146082728954105
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.2110693913413777
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
