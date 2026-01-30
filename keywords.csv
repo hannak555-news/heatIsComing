@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.235457868
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.232436216299159
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.2006853219587499
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.20013918779999998
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1995906249999999
