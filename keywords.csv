@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
-'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2456869368187499
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.211460827289541
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.2110693913413777
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
+'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.20943395629593742
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
