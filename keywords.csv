@@ -58,12 +58,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1461112335827469
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1247950598227272
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.12449457854533488
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0709171062728269
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.055633018181818185
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.0556330181818181
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.045166893840909
