@@ -77,8 +77,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0709171062728269
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.055633018181818185
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,1,0.05
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.045166893840909
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
