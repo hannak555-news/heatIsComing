@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.2349028124999999
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.232436216299159
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.2001391877999999
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.1996673906249999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1995906249999999
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1960916263566249
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
