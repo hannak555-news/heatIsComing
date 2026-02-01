@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2574739454289858
-'Trockenheit',de,Causes,#F39C12,#b4b02b,2,0.2525474759201703
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.18936749011956458
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1893674901195645
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1892028276730342
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
