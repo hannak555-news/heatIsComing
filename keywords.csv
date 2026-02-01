@@ -11,8 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
-'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
-'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.2414808736056471
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.232436216299159
@@ -37,6 +35,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.2110693913413777
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2094339562959374
+'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.20900911756480003
+'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.20900911756480003
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1247950598227272
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.12449457854533488
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
