@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.30465990974999996
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.3039383450350136
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2842108145468749
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2804052804545454
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2574739454289858
