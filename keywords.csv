@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1892028276730342
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1830949831046874
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.18140812493008
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.18140812493008
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1698020462499999
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.15668084063898427
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
