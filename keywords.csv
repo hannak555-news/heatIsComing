@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.3039383450350136
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2991042983156249
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2842108145468749
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2766025299999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2574739454289858
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2456499999999999
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.232436216299159
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1698020462499999
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1669779124031311
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.16111238160162983
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1611123816016298
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
