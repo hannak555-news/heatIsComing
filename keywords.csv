@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.2218526562499999
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.2207994558604644
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2190204393767796
@@ -42,11 +41,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1885747578124999
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1838020412243749
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.18140812493008
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.18140812493008
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.17974170319610983
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
