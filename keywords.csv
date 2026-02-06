@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2136755063889034
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2128728269943079
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.21188099746097855
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.2110693913413777
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2094339562959374
