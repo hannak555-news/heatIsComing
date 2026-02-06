@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2766025299999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2581410358127113
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2574739454289858
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2492717617187983
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2479818926828976
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.2207994558604644
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2190204393767796
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2188528536146379
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.2154353310380849
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2151673270312499
