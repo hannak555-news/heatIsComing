@@ -8,13 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2467968906178973
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.24437096385428514
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2443709638542851
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2239190069622811
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2223885848374999
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2220026712499999
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.2207994558604644
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.18918031211187492
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1885747578124999
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1838020412243749
