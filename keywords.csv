@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2443709638542851
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.2303976855783522
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2239190069622811
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.19733819774159936
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1933878831474084
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
