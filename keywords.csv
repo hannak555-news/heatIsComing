@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1838020412243749
-'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.18312003138237215
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.18140812493008
 'Warmluft',de,Hazard,#E74C3C,#ff3300,2,0.18140812493008
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0709171062728269
+'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.06027954033190286
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.0556330181818181
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
