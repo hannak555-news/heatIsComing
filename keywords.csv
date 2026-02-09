@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1973381977415993
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1933878831474084
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1932641830687984
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1669779124031311
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.16427455560847862
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.161122433522079
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1611123816016298
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.06027954033190286
+'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.0556330181818181
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
