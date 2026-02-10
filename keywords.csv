@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2443709638542851
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.23002758202521273
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2300275820252127
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2239190069622811
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2226027312499998
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1933878831474084
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1903727621730827
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1900972047294686
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1669779124031311
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1642745556084786
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1617326390200483
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.161122433522079
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1611123816016298
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
