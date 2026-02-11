@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1669779124031311
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1642745556084786
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.16211687784712028
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1621168778471202
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1617326390200483
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.161122433522079
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1611123816016298
@@ -75,11 +75,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
+'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.07167557000000001
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
-'globale Erwärmung',de,Causes,#F39C12,#b4b02b,1,0.05
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.0474333538556817
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.042530003
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
