@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3238522855624999
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.3046599097499999
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2842108145468749
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2766025299999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.25715224963757094
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2443709638542851
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.07167557000000001
+'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.07167557
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
