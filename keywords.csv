@@ -3,11 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.3046599097499999
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2766025299999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.25715224963757094
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2571522496375709
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2443709638542851
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2389071761916434
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.23717034579945
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.233004933689125
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2300275820252127
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2190204393767796
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2151673270312499
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.21481416690575403
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.2136755063889034
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2128728269943079
