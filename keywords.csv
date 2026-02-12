@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.2060959905700708
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.19865425363575626
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1986542536357562
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1973381977415993
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1933878831474084
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
-'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1698020462499999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1669779124031311
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
+'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1444817543124999
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
