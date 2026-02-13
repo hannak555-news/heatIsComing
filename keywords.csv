@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3238522855624999
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.3046599097499999
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2766025299999999
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2752744577281249
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
