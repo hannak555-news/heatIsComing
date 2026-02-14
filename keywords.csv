@@ -5,11 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2443709638542851
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.23413330406890617
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2341333040689061
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2300275820252127
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2239190069622811
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2190204393767796
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,1,0.2185797571919352
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2151673270312499
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1873394816246839
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.18616737347026266
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1838020412243749
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
