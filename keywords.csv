@@ -30,12 +30,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1973381977415993
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1933878831474084
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.18936233656249982
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1873394816246839
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1860249255724422
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1838020412243749
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
@@ -54,8 +53,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1617326390200483
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.161122433522079
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1611123816016298
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.15812118673657588
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1444817543124999
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
