@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2443709638542851
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2341333040689061
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.2300275820252127
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2239190069622811
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,1,0.2185797571919352
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1986542536357562
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1979399917942042
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1973381977415993
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
