@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3163919479451617
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.3046599097499999
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2766025299999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2151673270312499
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2128728269943079
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2118809974609785
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.2110693913413777
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
