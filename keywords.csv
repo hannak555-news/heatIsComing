@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1669779124031311
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.16697791240313106
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1642745556084786
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1621168778471202
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1444817543124999
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.13747274316704106
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,2,0.1338988812117208
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
