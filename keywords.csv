@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2118809974609785
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.2110693913413777
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2094339562959374
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1979399917942042
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1973381977415993
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.19440962764017106
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.16697791240313106
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.166977912403131
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1642745556084786
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1621168778471202
