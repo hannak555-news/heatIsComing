@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.3163919479451617
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.3046599097499999
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2898622254999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.26938320075338745
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2432654992761423
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1979399917942042
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1973381977415993
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.19440962764017106
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.194409627640171
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
