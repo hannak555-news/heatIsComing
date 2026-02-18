@@ -6,11 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2341333040689061
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.2239190069622811
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,1,0.2185797571919352
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2173249963178535
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.21645678716657324
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2164567871665732
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2118809974609785
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2029449289295325
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.19937466000884801
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1986542536357562
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1979399917942042
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
