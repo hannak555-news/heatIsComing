@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2164567871665732
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2118809974609785
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2094339562959374
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.2075248077451484
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1838020412243749
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1833422729765624
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.18024886284183173
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1754816219845602
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1444817543124999
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
-'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.13740411349376716
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1247950598227272
