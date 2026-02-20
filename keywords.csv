@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2898622254999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2693832007533874
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2559807008957811
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.25071715394323213
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.2341333040689061
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2164567871665732
