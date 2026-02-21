@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2693832007533874
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2507171539432321
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.21806126085174726
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2164567871665732
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.2137701916600483
@@ -53,8 +53,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14945940868687616
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14945940868687616
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1444817543124999
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
