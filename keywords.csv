@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2029449289295325
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1996673906249999
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.19916332345857019
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1991633234585701
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1979399917942042
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1973381977415993
@@ -36,8 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1754816219845602
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1754816219845602
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
@@ -55,6 +53,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14945940868687616
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14945940868687616
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1444817543124999
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
