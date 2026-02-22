@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.3046599097499999
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.33496185328749994
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2898622254999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2693832007533874
@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.17385332459010264
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
