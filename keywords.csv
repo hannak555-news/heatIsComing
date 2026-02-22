@@ -1,9 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.33496185328749994
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3349618532874999
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2898622254999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2693832007533874
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.24250766946937247
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2180612608517472
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2164567871665732
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1802488628418317
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
-'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
