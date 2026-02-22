@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.21047475470875
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.2094339562959374
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2046557736131449
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.2029449289295325
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1991633234585701
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1979399917942042
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1788913229051441
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.17385332459010264
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1581211867365758
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.15668178004071867
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1566817800407186
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
