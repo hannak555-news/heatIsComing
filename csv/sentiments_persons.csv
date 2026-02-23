@@ -1,64 +1,70 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Donald Trump,Donald Trump,PER,-0.048387096774193554,0.3225806451612903,de,3.1
-Filippo Grandi,Filippo Grandi,PER,0.35714285714285715,0.0,de,2.8
+Donald Trump,Donald Trump,PER,-0.17768595041322308,0.08264462809917353,de,12.100000000000003
+Javier Milei,Javier Milei,PER,-0.5405405405405406,0.0,de,3.6999999999999997
 António Guterres,António Guterres,PER,-0.3035714285714286,0.35714285714285715,de,2.8
+Filippo Grandi,Filippo Grandi,PER,0.35714285714285715,0.0,de,2.8
 Bill Gates,Bill Gates,PER,0.25925925925925924,0.0,de,2.7
 Kai Wegner,Kai Wegner,PER,0.5384615384615384,0.0,de,2.6
 Carsten Schneider,Carsten Schneider,PER,-0.6000000000000001,1.0000000000000002,de,2.4999999999999996
 Markus Steilemann,Markus Steilemann,PER,-0.18181818181818177,0.0,de,2.2
 Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,2.1999999999999997
+Ingmar Jung,Ingmar Jung,PER,0.0,0.0,de,1.9
 Gabriel Boric,Gabriel Boric,PER,-0.2982456140350877,0.17543859649122806,de,1.9
 Bettina Steiner,Bettina Steiner,PER,0.0,1.0526315789473684,de,1.9
+Finanzvorstand Elvermann,Finanzvorstand Elvermann,PER,0.0,0.0,de,1.9
 Oisín McKenna,Oisín McKenna,PER,0.5263157894736842,0.0,de,1.9
 Armin Willingmann,Armin Willingmann,PER,0.0,0.0,de,1.9
 Heike Hübener,Heike Hübener,PER,-0.5263157894736842,0.0,de,1.9
-Ingmar Jung,Ingmar Jung,PER,0.0,0.0,de,1.9
-Finanzvorstand Elvermann,Finanzvorstand Elvermann,PER,0.0,0.0,de,1.9
-Simon Stiell,Simon Stiell,PER,0.0,0.0,de,1.8
 Niedersachsens Tourismusbranche,Niedersachsens Tourismusbranche,PER,-1.027777777777778,0.0,de,1.8
+Simon Stiell,Simon Stiell,PER,0.0,0.0,de,1.8
 Melbourne-Champion Jannik Sinner,Melbourne-Champion Jannik Sinner,PER,0.0,0.0,de,1.8
 Brasiliens Widersprüchlichkeit,Brasiliens Widersprüchlichkeit,PER,0.0,0.0,de,1.6
 Hans-Josef Fell,Hans-Josef Fell,PER,0.0,0.0,de,1.2000000000000002
 Nadine Göppert,Nadine Göppert,PER,0.0,0.0,de,1.1
+Barbara Barkhausen,Barbara Barkhausen,PER,0.0,0.0,de,1.0
+Anh Nguyen,Anh Nguyen,PER,0.0,0.0,de,1.0
+Donald Trumps,Donald Trumps,PER,0.0,0.0,de,1.0
+Frank Dancevic,Frank Dancevic,PER,0.0,0.0,de,1.0
+Santiago de Chile,Santiago de Chile,PER,-0.7,0.0,de,1.0
 Jesus Christus,Jesus Christus,PER,0.0,0.0,de,1.0
-Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1.0
 Agora Energi,Agora Energi,PER,0.0,0.0,de,1.0
 Haut-Experte Rolf Stehr,Haut-Experte Rolf Stehr,PER,0.3333333333333333,0.0,de,1.0
+Kaveh Madani,Kaveh Madani,PER,-0.06666666666666665,0.5,de,1.0
 vollgelaufene Keller leerpumpen,vollgelaufene Keller leerpumpen,PER,-0.85,0.0,de,1.0
-Donald Trumps,Donald Trumps,PER,0.0,0.0,de,1.0
-Uta Eser,Uta Eser,PER,0.0,0.0,de,1.0
-Korinna Schumann,Korinna Schumann,PER,0.7,0.0,de,1.0
-Weihnachtslotterie „El Gordo“,Weihnachtslotterie „El Gordo“,PER,0.0,0.0,de,1.0
 Dry January,Dry January,PER,1.0,0.0,de,1.0
-Santiago de Chile,Santiago de Chile,PER,-0.7,0.0,de,1.0
-Anh Nguyen,Anh Nguyen,PER,0.0,0.0,de,1.0
-Michael Bloomberg,Michael Bloomberg,PER,0.0,0.0,de,1.0
-Javier Milei,Javier Milei,PER,-1.0,0.0,de,1.0
+Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1.0
+Trumps Irrweg,Trumps Irrweg,PER,1.0,0.0,de,1.0
+Feuchtgebiete verschw,Feuchtgebiete verschw,PER,0.0,0.0,de,1.0
+Christian Pausch,Christian Pausch,PER,0.0,0.0,de,1.0
+David Wanner,David Wanner,PER,0.35,0.5,de,1.0
+ausgestoßener Gase,ausgestoßener Gase,PER,0.7,0.0,de,1.0
+Barack Obama,Barack Obama,PER,0.0,0.0,de,1.0
+Trumps Zurücknahme,Trumps Zurücknahme,PER,-1.0,0.0,de,1.0
+Donald Trump Ernst,Donald Trump Ernst,PER,0.0,0.0,de,1.0
+Bundesumweltminister Schneider,Bundesumweltminister Schneider,PER,0.0,0.0,de,1.0
+Alf Ribeiro,Alf Ribeiro,PER,0.0,0.0,de,1.0
 Dieter Reiter,Dieter Reiter,PER,0.0,0.0,de,1.0
+Martina Feldmayer,Martina Feldmayer,PER,0.0,0.0,de,1.0
 Jannik Sinner,Jannik Sinner,PER,-1.0,0.0,de,1.0
 Naomi Osaka,Naomi Osaka,PER,0.0,0.0,de,1.0
 Naomi Osakas,Naomi Osakas,PER,0.0,0.0,de,1.0
 Sam Altman inves,Sam Altman inves,PER,0.0,0.0,de,1.0
+Michael Bloomberg,Michael Bloomberg,PER,0.0,0.0,de,1.0
 Jeff Bezos,Jeff Bezos,PER,0.0,0.0,de,1.0
-Barbara Barkhausen,Barbara Barkhausen,PER,0.0,0.0,de,1.0
-Trumps Irrweg,Trumps Irrweg,PER,1.0,0.0,de,1.0
-Martina Feldmayer,Martina Feldmayer,PER,0.0,0.0,de,1.0
-Feuchtgebiete verschw,Feuchtgebiete verschw,PER,0.0,0.0,de,1.0
-Kaveh Madani,Kaveh Madani,PER,-0.06666666666666665,0.5,de,1.0
-Theodor Storm,Theodor Storm,PER,0.0,0.0,de,1.0
-Frank Dancevic,Frank Dancevic,PER,0.0,0.0,de,1.0
-August Wollkleidung,August Wollkleidung,PER,-0.7,0.0,de,1.0
-sturem Verbrennerverbot,sturem Verbrennerverbot,PER,0.0,0.0,de,1.0
-Hedwig Richter,Hedwig Richter,PER,-0.7,0.0,de,1.0
-Katrin Ed,Katrin Ed,PER,0.0,0.0,de,1.0
+Korinna Schumann,Korinna Schumann,PER,0.7,0.0,de,1.0
+Uta Eser,Uta Eser,PER,0.0,0.0,de,1.0
+Unfallrisiko Alter,Unfallrisiko Alter,PER,0.0,0.0,de,1.0
+Weihnachtslotterie „El Gordo“,Weihnachtslotterie „El Gordo“,PER,0.0,0.0,de,1.0
+Gus Lamont,Gus Lamont,PER,-0.7,0.0,de,1.0
+Richard Morton,Richard Morton,PER,2.0,0.0,de,1.0
 Wolfgang Schroeder,Wolfgang Schroeder,PER,0.15000000000000002,0.0,de,1.0
 Klimaexpertin Sabine Minninger,Klimaexpertin Sabine Minninger,PER,0.0,0.0,de,1.0
 Franz K,Franz K,PER,0.0,0.0,de,1.0
 Agnieszka Hollands Kafka-Film,Agnieszka Hollands Kafka-Film,PER,0.0,0.0,de,1.0
 Alexei Ratmanskys,Alexei Ratmanskys,PER,0.0,0.0,de,1.0
 Bodo Sartorius,Bodo Sartorius,PER,0.0,0.0,de,1.0
-Gus Lamont,Gus Lamont,PER,-0.7,0.0,de,1.0
 Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,PER,2.0999999999999996,0.0,de,1.0
+Peter Godar,Peter Godar,PER,0.35,0.5,de,1.0
 Winterflucht Teneriffa,Winterflucht Teneriffa,PER,0.0,1.0,de,1.0
 Asus ROG Xbox Ally,Asus ROG Xbox Ally,PER,0.0,0.0,de,1.0
 Matthias Berni,Matthias Berni,PER,0.0,0.0,de,1.0
@@ -66,22 +72,24 @@ Karl Bär,Karl Bär,PER,0.0,0.0,de,1.0
 Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1.0
 Sébastien Lecornu,Sébastien Lecornu,PER,-0.7,0.0,de,1.0
 Premier Lecornu,Premier Lecornu,PER,0.0,0.0,de,1.0
-Richard Morton,Richard Morton,PER,2.0,0.0,de,1.0
 Katrin Göring-Eckardt,Katrin Göring-Eckardt,PER,0.0,0.0,de,1.0
-Peter Godar,Peter Godar,PER,0.35,0.5,de,1.0
-Keywan Riahi,Keywan Riahi,PER,0.5,0.5,de,1.0
-Unfallrisiko Alter,Unfallrisiko Alter,PER,0.0,0.0,de,1.0
+Minsiterpräsident Söder,Minsiterpräsident Söder,PER,0.0,0.0,de,1.0
+August Wollkleidung,August Wollkleidung,PER,-0.7,0.0,de,1.0
+Heinrich Strößenreuther,Heinrich Strößenreuther,PER,0.0,0.0,de,1.0
+Theodor Storm,Theodor Storm,PER,0.0,0.0,de,1.0
+Hedwig Richter,Hedwig Richter,PER,-0.7,0.0,de,1.0
+Katrin Ed,Katrin Ed,PER,0.0,0.0,de,1.0
+Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-1.0,1.0,de,1.0
 Prabowo Subianto,Prabowo Subianto,PER,0.0,0.0,de,1.0
 Sabine Henkel,Sabine Henkel,PER,0.0,0.0,de,1.0
-Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-1.0,1.0,de,1.0
-Heinrich Strößenreuther,Heinrich Strößenreuther,PER,0.0,0.0,de,1.0
+sturem Verbrennerverbot,sturem Verbrennerverbot,PER,0.0,0.0,de,1.0
 Mark Carney,Mark Carney,PER,0.0,0.0,de,1.0
+Ottmar Edenhofer,Ottmar Edenhofer,PER,0.7,0.0,de,1.0
+Keywan Riahi,Keywan Riahi,PER,0.5,0.5,de,1.0
 Andreas Walter,Andreas Walter,PER,0.0,0.0,de,1.0
-Minsiterpräsident Söder,Minsiterpräsident Söder,PER,0.0,0.0,de,1.0
 Vera Künzel,Vera Künzel,PER,0.5,0.5,de,1.0
 Masoud Pezeshkian ,Masoud Pezeshkian ,PER,0.7,0.0,de,1.0
 Teheran  ,Teheran  ,PER,0.7,0.0,de,1.0
 UN-Chef Guterres,UN-Chef Guterres,PER,0.0,0.0,de,1.0
 Heiße Ziegelsteine,Heiße Ziegelsteine,PER,0.0,0.0,de,1.0
-Ottmar Edenhofer,Ottmar Edenhofer,PER,0.7,0.0,de,1.0
-Christian Pausch,Christian Pausch,PER,0.0,0.0,de,1.0
+Friederike Otto,Friederike Otto,PER,0.0,0.0,de,1.0
