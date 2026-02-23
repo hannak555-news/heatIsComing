@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1833422729765624
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1802488628418317
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1797417031961098
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
@@ -52,12 +51,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.15278044771669333
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.13624526251953117
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1349659235909091
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
