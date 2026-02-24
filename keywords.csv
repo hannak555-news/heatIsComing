@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.166977912403131
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1642745556084786
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1621168778471202
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1611123816016298
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1527804477166933
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1396333722672068
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
