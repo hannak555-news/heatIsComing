@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3349618532874999
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.33871843029437493
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2898622254999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2693832007533874
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1833422729765624
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1802488628418317
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.17980363150243747
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1798036315024374
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1784689078515468
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
