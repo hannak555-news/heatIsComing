@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3387184302943749
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2898622254999999
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2741329666749999
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2693832007533874
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2425076694693724
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1396333722672068
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.13854942117005214
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
