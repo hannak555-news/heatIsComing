@@ -13,13 +13,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2046557736131449
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.194409627640171
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1902006905613921
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1873394816246839
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.18656232985778173
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1861673734702626
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1847262468701754
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1784689078515468
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.17290103302507356
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1729010330250735
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
