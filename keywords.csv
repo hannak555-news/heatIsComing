@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1861673734702626
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1847262468701754
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1837449259375022
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1833422729765624
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1802488628418317
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1581211867365758
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1566817800407186
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1566808406389842
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.15618351704687686
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1527804477166933
