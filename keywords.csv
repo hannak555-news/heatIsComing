@@ -26,9 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1802488628418317
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1798036315024374
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.17890799257117318
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1789079925711731
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1784689078515468
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1763960865833761
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1729010330250735
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1527804477166933
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.14993667359586968
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
