@@ -9,11 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2180612608517472
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2166885540915872
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.20212063197718327
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.2021206319771832
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1891974457400699
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1873394816246839
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1798036315024374
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1789079925711731
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1784689078515468
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.17716796387905942
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1729010330250735
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
