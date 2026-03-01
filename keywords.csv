@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.15358316177707176
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1527804477166933
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1499366735958696
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.13129576251051095
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1247950598227272
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
