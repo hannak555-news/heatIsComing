@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2741329666749999
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2425076694693724
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.22942576564037928
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2180612608517472
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2166885540915872
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1831200313823721
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1802488628418317
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1798036315024374
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1789079925711731
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1784689078515468
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.154197056190568
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.15358316177707176
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1527804477166933
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1499366735958696
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1494594086868761
