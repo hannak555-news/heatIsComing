@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2180612608517472
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2166885540915872
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
-'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.20613156404896654
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.2061315640489665
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.19439416581489422
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
