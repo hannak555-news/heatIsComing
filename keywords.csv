@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2747275106515311
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2741329666749999
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
-'Hitzetote',de,Impacts,#9B59B6,#dd99ee,2,0.2425076694693724
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2180612608517472
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2166885540915872
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.20613156404896654
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.166977912403131
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.16172829537911443
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1611123816016298
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1581211867365758
