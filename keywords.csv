@@ -27,8 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1729010330250735
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.17249054238384467
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.17249054238384467
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1724905423838446
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1724905423838446
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1722525821806057
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1705825236649374
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
@@ -65,12 +65,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
-'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1228094911656249
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1138144090299626
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
+'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.10438806749078115
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.1014750911079636
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
