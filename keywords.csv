@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1499366735958696
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.13967362448568177
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1396333722672068
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1312957625105109
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1138144090299626
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.11235147313393426
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1043880674907811
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
