@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2336683990538014
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.22443184482400294
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2166885540915872
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
