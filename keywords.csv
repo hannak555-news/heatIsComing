@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2166885540915872
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
-'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.2061315640489665
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1979236847214308
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.1943941658148942
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1802488628418317
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1789079925711731
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1729010330250735
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1724905423838446
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1138144090299626
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.11235147313393426
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1043880674907811
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
