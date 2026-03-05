@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3387184302943749
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2879113707502186
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2741329666749999
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2336683990538014
@@ -49,8 +49,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1499366735958696
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.14606764776198278
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.14606764776198278
+'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
+'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1396333722672068
