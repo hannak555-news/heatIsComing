@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2336683990538014
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2244318448240029
-'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.2209484680459018
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.19829565936138532
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.1943941658148942
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
+'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.18810622783901654
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1873394816246839
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1861673734702626
