@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2022030387260894
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.1943941658148942
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1881062278390165
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1696061905903927
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266005
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
