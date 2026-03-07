@@ -2,11 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2741329666749999
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.258385729965272
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.25068130054266136
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2336683990538014
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2244318448240029
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2022030387260894
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.1943941658148942
@@ -41,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1581211867365758
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1566817800407186
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1527804477166933
