@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1696061905903927
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266005
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
@@ -70,10 +70,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
-'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1043880674907811
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
+'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.08872985736716393
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.086253827441769
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
