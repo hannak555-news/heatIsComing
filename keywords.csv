@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2022030387260894
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.19985979579271018
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
-'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.11724354146970203
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1138144090299626
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
