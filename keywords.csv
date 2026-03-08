@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.258385729965272
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.2336683990538014
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2244318448240029
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2022030387260894
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.19861813919573118
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
-'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.08872985736716393
+'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.086253827441769
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
