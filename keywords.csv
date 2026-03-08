@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2022030387260894
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.19861813919573118
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1891803121118749
@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1566817800407186
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1527804477166933
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1374041134937671
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1274461725564891
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
