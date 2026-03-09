@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2387350312487109
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.20531146763912167
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1566817800407186
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
-'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.15580204167501627
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1558020416750162
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
