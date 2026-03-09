@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.258385729965272
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.23873503124871098
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.214814166905754
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
@@ -63,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1215117485278953
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.117243541469702
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1138144090299626
