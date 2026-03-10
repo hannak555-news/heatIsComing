@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.15701730983964907
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.157017309839649
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1558020416750162
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
@@ -63,9 +63,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
+'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.12157423085728639
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.117243541469702
-'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1138144090299626
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
