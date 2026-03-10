@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2387350312487109
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2294257656403792
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.20531146763912167
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2053114676391216
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1274461725564891
-'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.1252391718025424
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1138144090299626
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
+'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.11005365603216104
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
