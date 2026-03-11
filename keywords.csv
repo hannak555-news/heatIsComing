@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1706353720132161
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1701183096299999
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1696061905903927
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1449951451151968
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1447505781854999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1396333722672068
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
-'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.12157423085728639
+'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.117243541469702
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
