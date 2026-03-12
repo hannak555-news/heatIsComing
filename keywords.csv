@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.15824226744972322
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1582422674497232
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.157017309839649
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1558020416750162
@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1449951451151968
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1447505781854999
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1396333722672068
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.12333802145767493
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.117243541469702
