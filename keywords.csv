@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2806376434251739
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.258385729965272
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2552892535682812
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2387350312487109
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2333130516737499
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.23196319085509656
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.11868836642712577
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1186883664271257
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
