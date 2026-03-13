@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1449951451151968
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1396333722672068
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.137472743167041
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.11868836642712577
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
