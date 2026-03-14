@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1449951451151968
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
@@ -62,10 +61,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.12427819953169
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.12324587334791727
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1186883664271257
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.11700184669198485
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1170018466919848
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.1123514731339342
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
