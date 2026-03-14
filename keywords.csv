@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2387350312487109
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2333130516737499
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.23196319085509656
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
@@ -49,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1449951451151968
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
+'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
@@ -71,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1001070552492467
-'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.092463305
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.086253827441769
