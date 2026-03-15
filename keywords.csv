@@ -4,13 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2333130516737499
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.20292482156140426
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.199374660008848
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
-'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1879795674813947
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1875649274932533
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1873394816246839
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1608032652950936
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
+'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.16023267735918548
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1582422674497232
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.157017309839649
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
