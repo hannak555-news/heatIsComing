@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1875649274932533
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1873394816246839
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1833422729765624
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
@@ -39,7 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1582422674497232
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.157017309839649
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.15600881216222157
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.15584093203007804
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1558020416750162
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
