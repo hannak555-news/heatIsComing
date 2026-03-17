@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1696061905903927
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266
-'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1670524046882305
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
+'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.14199526398499593
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
