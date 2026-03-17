@@ -8,12 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1875649274932533
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.17442086100752077
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1724905423838446
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1724905423838446
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1609579860781248
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1608032652950936
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
