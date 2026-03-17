@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1893623365624998
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1875649274932533
-'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1847005168512538
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1602326773591854
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1596886043809813
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1582422674497232
+'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1580455443235657
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.157017309839649
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1443872024765624
-'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.14199526398499593
+'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1419952639849959
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1385952699227638
