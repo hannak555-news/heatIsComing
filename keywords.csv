@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.17976600765497958
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1797660076549795
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.155840932030078
-'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1558020416750162
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1333295280346108
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.13258175042376377
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
