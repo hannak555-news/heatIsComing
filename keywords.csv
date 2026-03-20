@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2806376434251739
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.242890305533039
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2333130516737499
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.19831609392268743
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1797660076549795
