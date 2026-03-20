@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1333295280346108
-'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.13258175042376377
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
@@ -71,10 +71,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1001070552492467
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.096098812163844
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.086253827441769
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.0593687557773294
