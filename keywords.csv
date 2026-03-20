@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.19831609392268743
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1983160939226874
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1797660076549795
@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1232458733479172
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1170018466919848
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1083292466730157
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1001070552492467
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.10005162968818708
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.086253827441769
