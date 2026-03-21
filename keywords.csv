@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1722525821806057
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1706353720132161
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.14701475485351487
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1232458733479172
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.12272912210507803
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.122729122105078
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
