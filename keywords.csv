@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2806376434251739
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.242890305533039
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.24097040676353457
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
@@ -56,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1244945785453348
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1232458733479172
