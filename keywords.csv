@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1983160939226874
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1797660076549795
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
@@ -36,12 +35,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.155840932030078
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.15385121150673256
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.14701475485351487
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1470147548535148
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
