@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1419952639849959
+'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.14156085283679498
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.122729122105078
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
-'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1130715386315235
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1083292466730157
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
