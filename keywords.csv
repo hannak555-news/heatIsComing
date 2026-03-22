@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1706353720132161
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1696061905903927
@@ -35,10 +34,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.155840932030078
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.15385121150673256
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1538512115067325
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1472902912112337
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1470147548535148
