@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
-'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1419952639849959
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
@@ -60,13 +59,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.122729122105078
+'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.12204660438724652
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1083292466730157
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.10475899234572962
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1047589923457296
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1031597476929124
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1001070552492467
