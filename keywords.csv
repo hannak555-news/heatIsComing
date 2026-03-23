@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.242890305533039
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2409704067635345
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.23548517125148766
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.2354851712514876
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
@@ -73,8 +73,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.100051629688187
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
-'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.086253827441769
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
+'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.07346576832550365
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.0593687557773294
