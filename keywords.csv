@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.242890305533039
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2409704067635345
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.23548517125148766
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266
