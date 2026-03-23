@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1701468298145844
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1696061905903927
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1452153670018338
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.122729122105078
-'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.12204660438724652
+'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
