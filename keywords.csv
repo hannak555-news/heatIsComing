@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1212375188992345
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.110053656032161
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1083292466730157
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.1047589923457296
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1001070552492467
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.100051629688187
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.09207985967206335
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
