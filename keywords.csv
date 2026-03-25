@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1983160939226874
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.16871869483428428
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
