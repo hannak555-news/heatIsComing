@@ -47,21 +47,21 @@ Arabica,Arabica,ORG,0.0,0.0,de,1.9
 US-Organisation,US-Organisation,ORG,-0.19298245614035087,0.0,de,1.9
 Evangelische Kirche,Evangelische Kirche,ORG,0.0,0.0,de,1.9
 Bundes für Infrastruktur und Klimaneutralität,Bundes für Infrastruktur und Klimaneutralität,ORG,0.7368421052631579,0.0,de,1.9
-UN,UN,ORG,-0.17543859649122806,0.3508771929824561,de,1.9
 WWA,WWA,ORG,-0.7368421052631579,0.0,de,1.9
+UN,UN,ORG,-0.17543859649122806,0.3508771929824561,de,1.9
 Klima-NGO,Klima-NGO,ORG,0.0,0.0,de,1.9
 Emissionen,Emissionen,ORG,-0.3684210526315789,0.0,de,1.9
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,-0.3684210526315789,0.0,de,1.9
 lby,lby,ORG,0.3684210526315789,0.0,de,1.9
+REUTERS,REUTERS,ORG,0.0,0.5263157894736842,de,1.9
 GASTKOMMENTAR,GASTKOMMENTAR,ORG,0.7105263157894738,0.0,de,1.9
 Sparkasse Oberhessen,Sparkasse Oberhessen,ORG,0.0,0.0,de,1.9
 SPÖ,SPÖ,ORG,0.3684210526315789,0.0,de,1.9
 Minister Goldschmidt,Minister Goldschmidt,ORG,0.0,0.0,de,1.9
 Chancen für Privatanleger,Chancen für Privatanleger,ORG,0.0,0.0,de,1.9
-Informationsdienst Aldis/Blids,Informationsdienst Aldis/Blids,ORG,-0.18421052631578946,0.5263157894736842,de,1.9
+Informationsdienst Aldis/Blids,Informationsdienst Aldis/Blids,ORG,-0.18421052631578946,0.2631578947368421,de,1.9
 BASF,BASF,ORG,0.0,0.0,de,1.9
 die Grünen,die Grünen,ORG,0.0,0.0,de,1.9
-REUTERS,REUTERS,ORG,0.0,0.5263157894736842,de,1.9
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,-0.3684210526315789,0.0,de,1.9
 Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.0,0.0,de,1.9
 TU München,TU München,ORG,0.7368421052631579,0.0,de,1.9
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.9
@@ -222,8 +222,8 @@ Sudan …,Sudan …,ORG,0.0,0.0,de,1.0
 t3n.de Rondo Energy,t3n.de Rondo Energy,ORG,0.0,0.0,de,1.0
 vie…,vie…,ORG,0.0,0.0,de,1.0
 Verkehrs- und Umweltverbä…,Verkehrs- und Umweltverbä…,ORG,0.0,0.0,de,1.0
-Wasserentnahm…,Wasserentnahm…,ORG,0.0,0.0,de,1.0
 Was…,Was…,ORG,0.0,0.0,de,1.0
+Wasserentnahm…,Wasserentnahm…,ORG,0.0,0.0,de,1.0
 System …,System …,ORG,0.0,0.0,de,1.0
 Gesellschaft…,Gesellschaft…,ORG,0.0,0.0,de,1.0
 Touri…,Touri…,ORG,0.0,0.0,de,1.0
