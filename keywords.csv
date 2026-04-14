@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.242890305533039
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2409704067635345
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.21414675097959962
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1998597957927101
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1697172820312499
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1687186948342842
@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
-'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.14946260827537827
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1472902912112337
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
