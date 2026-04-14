@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1982956593613853
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.181704662911041
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1771679638790594
-'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1756618744416215
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1744208610075207
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.172172612917176
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
+'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.14946260827537827
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1472902912112337
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1001070552492467
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.0920798596720633
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.08919515849387016
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0891951584938701
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0857939602349589
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
