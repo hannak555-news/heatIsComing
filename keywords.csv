@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1582422674497232
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1580455443235657
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.157017309839649
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.15640978354010218
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.155840932030078
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1452153670018338
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1396736244856817
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
