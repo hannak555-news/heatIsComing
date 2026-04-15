@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.2893386705637644
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2806376434251739
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.24593824497919972
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.242890305533039
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2409704067635345
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1582422674497232
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1580455443235657
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.157017309839649
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.15640978354010218
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1564097835401021
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.155840932030078
