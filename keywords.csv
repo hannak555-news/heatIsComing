@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.10305189106434932
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1030518910643493
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1001070552492467
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0935457876273368
@@ -72,8 +72,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0891951584938701
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0876857855389755
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0857939602349589
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.07352492619971507
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0602795403319028
