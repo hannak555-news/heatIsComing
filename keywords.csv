@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.22247478333265963
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2141467509795996
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,2,0.2137179257212538
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
