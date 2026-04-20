@@ -1,7 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.31809791323231973
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.3180979132323197
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2571947397030831
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.24821705299454427
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
@@ -49,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1442596897265624
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1385494211700521
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
