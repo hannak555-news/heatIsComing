@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.3180979132323197
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2571947397030831
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2482170529945442
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.16142059920784652
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1614205992078465
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1609579860781248
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1608032652950936
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
