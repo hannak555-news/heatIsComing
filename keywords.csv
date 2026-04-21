@@ -11,7 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.18955361083276068
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.19242919519659085
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1895536108327606
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1694514004571775
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
@@ -55,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1333295280346108
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1314007061136363
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
