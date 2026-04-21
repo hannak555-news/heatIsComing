@@ -11,8 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.19242919519659085
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1895536108327606
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1924291951965908
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1694514004571775
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.16142059920784652
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1609579860781248
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1608032652950936
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
