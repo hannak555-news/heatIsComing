@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.3180979132323197
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2482170529945442
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,2,0.2137179257212538
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2130791504612621
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.21143454004536258
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
