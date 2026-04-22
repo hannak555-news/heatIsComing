@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.3180979132323197
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2506813005426613
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2482170529945442
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,2,0.2137179257212538
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2130791504612621
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.14580974582793363
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1458097458279336
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1442596897265624
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
