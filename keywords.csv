@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.3180979132323197
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2615673228920728
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,2,0.2137179257212538
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2130791504612621
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.062496187269757746
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.0593687557773294
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,2,0.0533192962142857
