@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2025708546267796
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
+'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.19420364658977274
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1694514004571775
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1694388399397846
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1458097458279336
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1442596897265624
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
-'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1408240965227273
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
