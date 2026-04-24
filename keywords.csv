@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,3,0.3180979132323197
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2615673228920728
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.22233226945826187
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,2,0.2137179257212538
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
