@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.22233226945826187
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2223322694582618
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,2,0.2137179257212538
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1333295280346108
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1298633805591893
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.11378014382941916
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1043197537893163
