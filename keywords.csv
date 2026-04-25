@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2223322694582618
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,2,0.2137179257212538
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.2071733289488169
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2025708546267796
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1942036465897727
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.18166031186306572
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1694514004571775
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1687186948342842
