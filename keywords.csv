@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1458097458279336
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.14493378038860086
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1442596897265624
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
@@ -75,8 +75,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.07177818877436636
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,2,0.0593687557773294
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0453214017821428
