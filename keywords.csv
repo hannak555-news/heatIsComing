@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2025708546267796
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1942036465897727
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.18166031186306572
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1816603118630657
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1738533245901026
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1694514004571775
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1687186948342842
@@ -65,13 +65,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1043197537893163
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1030518910643493
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0935457876273368
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0891951584938701
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0876857855389755
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0875941074046969
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
