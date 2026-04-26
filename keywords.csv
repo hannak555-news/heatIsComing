@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2319631908550965
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2223322694582618
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2180929192972004
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2146292214026203
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.2071733289488169
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.11038387347531091
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1103838734753109
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1043197537893163
