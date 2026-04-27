@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1687186948342842
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.16838634594266
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812006
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1614205992078465
@@ -32,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.155840932030078
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.15516134008360583
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1551613400836058
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1544489634743848
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1538512115067325
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
@@ -40,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1472902912112337
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1472170210262679
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1468331519515587
