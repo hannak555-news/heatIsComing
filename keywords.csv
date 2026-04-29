@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2257042933468805
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2233324890395225
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2146292214026203
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.2071733289488169
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1942036465897727
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.19013264568359411
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.1808086967785337
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1687186948342842
