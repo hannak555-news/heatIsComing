@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2146292214026203
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.2071733289488169
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.20683615832719357
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.2054249057490043
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2029248215614042
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1942036465897727
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1901326456835941
@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0875941074046969
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.07453291770812918
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0717781887743663
