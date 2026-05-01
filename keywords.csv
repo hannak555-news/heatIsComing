@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1918488293448484
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.1808086967785337
-'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.17821264278312499
+'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1782126427831249
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1764107945781144
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
@@ -47,13 +47,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1458097458279336
-'Sommerhitze',de,Hazard,#E74C3C,#ff3300,1,0.1452219582663491
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
+'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.12673899452639673
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.122620736267578
