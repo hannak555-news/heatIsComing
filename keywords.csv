@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2703836312474717
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2593926694995593
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.24045927907993547
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2404592790799354
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2389920419113978
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2146292214026203
@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1233380214576749
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.122620736267578
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1103838734753109
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.10483731823902366
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0935457876273368
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
