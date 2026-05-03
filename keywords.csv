@@ -70,8 +70,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0875941074046969
-'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0823642044832362
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
+'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.07522827986338235
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
@@ -83,5 +83,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.03660054755
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.032565685925000004
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.032565685925
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0324309729605596
