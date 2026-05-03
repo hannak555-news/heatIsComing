@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2593926694995593
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2404592790799354
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.22982646156035094
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2298264615603509
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2146292214026203
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.2071733289488169
@@ -82,6 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0453214017821428
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0374301305
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.03660054755
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.032565685925000004
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0324309729605596
