@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2404592790799354
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2298264615603509
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.21168507819222726
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.2071733289488169
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1334647133637016
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.11344500635914637
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1103838734753109
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
