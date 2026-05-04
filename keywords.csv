@@ -11,8 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1918488293448484
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1782126427831249
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1764107945781144
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.17491119988665366
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.1749111998866536
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1687186948342842
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.15039922039139725
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1468331519515587
