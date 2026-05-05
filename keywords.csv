@@ -62,10 +62,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1134450063591463
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1103838734753109
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
-'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.1049936406096153
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1048373182390236
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
+'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0891951584938701
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0887298573671639
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.06131248045821135
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,3,0.0560922502704545
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
