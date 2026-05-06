@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2298264615603509
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.2071733289488169
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1918488293448484
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1782126427831249
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.17684740460649434
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.14897454990365555
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.1489745499036555
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1468331519515587
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
