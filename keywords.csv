@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
+'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.19280249772929253
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1918488293448484
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
-'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.18059358812957632
-'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1782126427831249
+'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.169817936205661
