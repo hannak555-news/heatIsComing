@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
-'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.19280249772929253
+'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1928024977292925
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1918488293448484
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.1489745499036555
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1468331519515587
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1325817504237637
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1282893823326876
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1266283974181072
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.122620736267578
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
