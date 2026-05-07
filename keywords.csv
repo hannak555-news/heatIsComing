@@ -59,11 +59,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1134450063591463
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1103838734753109
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1048373182390236
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.09642825540527435
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0891951584938701
