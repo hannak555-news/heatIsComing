@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2298264615603509
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.19862168494312116
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1928024977292925
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1918488293448484
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
@@ -41,8 +41,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1458097458279336
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14539535077481183
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14539535077481183
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
