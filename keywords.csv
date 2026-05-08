@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2298264615603509
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1928024977292925
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.17971940403855813
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.13668277550082955
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1366827755008295
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
