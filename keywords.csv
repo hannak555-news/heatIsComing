@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2298264615603509
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.2114345400453625
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.19862168494312116
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1986181391957311
 'Klimawandel',de,Causes,#F39C12,#b4b02b,2,0.1928024977292925
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1815056466501539
@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1614205992078465
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1609579860781248
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1608032652950936
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1596886043809813
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.13668277550082955
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
