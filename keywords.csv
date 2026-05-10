@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.202479266749405
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.19792589200639665
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1688404480698986
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1643797006752971
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1619127788310549
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1609579860781248
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0875941074046969
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
-'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.07542037876208932
+'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
