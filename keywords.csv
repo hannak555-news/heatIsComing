@@ -2,13 +2,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2709432656246881
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2593926694995593
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2298264615603509
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2276575543266695
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2257095735815814
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.2116850781922272
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.202479266749405
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.19792589200639665
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1979258920063966
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.19760271732629825
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1688404480698986
