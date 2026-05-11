@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1688404480698986
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1688254183163714
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1609579860781248
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.16074508813214106
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1596886043809813
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.03660054755
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0324309729605596
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.028580923036249997
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0285809230362499
