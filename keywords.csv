@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1688254183163714
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1685370382054371
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1435016055689157
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1048373182390236
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0964282554052743
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.09397630745401427
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0939763074540142
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0891951584938701
