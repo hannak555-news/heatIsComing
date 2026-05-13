@@ -58,17 +58,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.10778415280539111
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1077841528053911
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1048373182390236
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0964282554052743
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0939763074540142
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0906989049090908
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0875941074046969
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.08002987633591206
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
