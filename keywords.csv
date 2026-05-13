@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1609579860781248
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.160745088132141
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.13786439316640609
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1366827755008295
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0875941074046969
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0822840503392674
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.08002987633591206
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.080029876335912
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
