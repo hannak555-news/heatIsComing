@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
-'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1805935881295763
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1685370382054371
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1544489634743848
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1538512115067325
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
+'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.15350502991013984
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1532115384327743
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.07054150278837729
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0705415027883772
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
