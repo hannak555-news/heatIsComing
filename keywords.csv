@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1544489634743848
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1538512115067325
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
-'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.15350502991013984
+'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1535050299101398
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1532115384327743
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,1,0.1522986316738147
@@ -65,13 +65,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.0970464541727271
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0875941074046969
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.080029876335912
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.07445499129399237
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0705415027883772
