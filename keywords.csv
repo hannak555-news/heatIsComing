@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.137864393166406
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1366827755008295
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
@@ -57,12 +56,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.11618035917570507
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1077841528053911
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1048373182390236
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
-'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.09171706604681804
+'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
