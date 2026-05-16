@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.080029876335912
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.08002987633591199
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
