@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2745277531655345
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2709432656246881
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2593926694995593
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2276575543266695
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2257095735815814
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
-'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.14371725542361885
+'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1437172554236188
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1435016055689157
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
