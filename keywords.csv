@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2276575543266695
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2257095735815814
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.202479266749405
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.18114956082790334
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1729945178601991
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1685370382054371
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
-'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.08002987633591199
+'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0800298763359119
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
