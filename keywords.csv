@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1458097458279336
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1453953507748118
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.12889015895374356
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1282893823326876
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0800298763359119
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.07574496242769449
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0757449624276944
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
