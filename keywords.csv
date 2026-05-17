@@ -63,11 +63,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.08911172050317007
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0800298763359119
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.07574496242769449
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
