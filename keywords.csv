@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2709432656246881
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.23830171019070434
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2383017101907043
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2276575543266695
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2172636529988896
@@ -60,10 +60,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1077841528053911
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.1056364696019365
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1048373182390236
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.08911172050317007
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0800298763359119
