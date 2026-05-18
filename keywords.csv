@@ -4,6 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2276575543266695
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2172636529988896
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,2,0.2149559723322647
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
@@ -17,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1596886043809813
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1582422674497232
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1564097835401021
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.122620736267578
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.11950851011068198
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1195085101106819
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
