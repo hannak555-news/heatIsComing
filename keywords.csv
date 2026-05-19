@@ -59,11 +59,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1077841528053911
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1008851114630568
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.08979099916164603
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.089790999161646
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0888218057209188
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.08590235974359828
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0800298763359119
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
