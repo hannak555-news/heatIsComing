@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
+'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.16620977833014608
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
-'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1628931686237013
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.160745088132141
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.160340338663164
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.13261480722556632
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1326148072255663
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1282893823326876
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
