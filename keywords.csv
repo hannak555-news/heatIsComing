@@ -29,8 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1473453701811692
-'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.14691073192274248
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1468331519515587
+'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1437172554236188
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1435016055689157
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.143001141301682
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.137864393166406
