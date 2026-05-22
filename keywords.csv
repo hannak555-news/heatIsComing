@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.182712621482425
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.166209778330146
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.16372552895812
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.160745088132141
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1535115634155569
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1532115384327743
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.15090976675725915
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1473453701811692
@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.0859023597435982
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0761159147197895
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.07579856486278098
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0757985648627809
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0757449624276944
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
