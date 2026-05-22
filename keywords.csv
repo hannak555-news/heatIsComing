@@ -43,14 +43,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.137864393166406
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
-'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.13628928786368938
+'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1326148072255663
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1282893823326876
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.122620736267578
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1077841528053911
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.089790999161646
