@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.182712621482425
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.166209778330146
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1564097835401021
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.15575577326006126
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1551613400836058
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1544489634743848
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1538512115067325
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.03660054755
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0324309729605596
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.026393994580812416
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0263939945808124
