@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1768474046064943
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.166209778330146
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.160745088132141
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1532115384327743
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1509097667572591
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.15032033891552016
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1473453701811692
