@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.160745088132141
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.15986504517950045
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1564097835401021
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1561835170468768
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1557557732600612
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1551613400836058
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.054725735354009174
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0547257353540091
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
