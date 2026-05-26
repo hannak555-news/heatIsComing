@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.160745088132141
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.15986504517950045
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1564097835401021
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1557557732600612
@@ -53,11 +53,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,2,0.1220466043872465
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1195085101106819
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1077841528053911
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.10653419859407962
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
