@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1564097835401021
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1557557732600612
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1551613400836058
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1544489634743848
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.1538512115067325
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1532115384327743
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1326148072255663
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.13203715407106492
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1282893823326876
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
-'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.039901137401091046
+'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.039901137401091
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.03660054755
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0263939945808124
