@@ -31,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14392186744430432
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.14392186744430432
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1439218674443043
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1439218674443043
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1437172554236188
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1435016055689157
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.089790999161646
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.0859023597435982
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0819640170944831
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0757985648627809
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0744549912939923
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0734657683255036
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.06966941453031064
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.064998557511821
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
