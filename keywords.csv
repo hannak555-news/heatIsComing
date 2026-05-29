@@ -44,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.13361706578205848
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1326148072255663
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
@@ -61,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.0859023597435982
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0764723642873991
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0757985648627809
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
