@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.17133570219819913
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1713357021981991
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.166209778330146
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0764723642873991
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0757985648627809
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0744549912939923
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0696694145303106
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.06515152464428924
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.064998557511821
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
