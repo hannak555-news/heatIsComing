@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1336170657820584
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1326148072255663
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.11317263114173134
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0744549912939923
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0696694145303106
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.06515152464428924
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0651515246442892
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.064998557511821
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
