@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.17133570219819913
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.166209778330146
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1620472453668653
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
