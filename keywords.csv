@@ -69,14 +69,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0744549912939923
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0696694145303106
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.064998557511821
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0624961872697577
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.05921900235076401
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.055528810947645814
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0555288109476458
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0547257353540091
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
