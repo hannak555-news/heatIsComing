@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2988365799138371
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2544626394593066
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2276575543266695
-'globale Erwärmung',de,Causes,#F39C12,#b4b02b,3,0.21779769158062412
+'globale Erwärmung',de,Causes,#F39C12,#b4b02b,3,0.2177976915806241
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2075096036620986
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.201392557271052
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1986216849431211
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1976027173262982
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1935092661776691
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1713357021981991
