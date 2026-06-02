@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1713357021981991
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1602885441406249
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1583624464636322
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.136359161401895
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.13624526251953117
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.059219002350764
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0555288109476458
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.05539878888504785
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0553987888850478
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0547257353540091
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
