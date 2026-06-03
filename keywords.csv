@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1935092661776691
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
+'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.18633016766785815
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1713357021981991
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1583624464636322
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
-'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,1,0.1532115384327743
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1503203389155201
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1336170657820584
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
-'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.13158164895322708
+'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.1282893823326876
