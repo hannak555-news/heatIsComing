@@ -11,6 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1935092661776691
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.18660882732765866
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.18660882732765866
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1713357021981991
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
@@ -29,8 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1460676477619827
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1439218674443043
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1439218674443043
 'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.1437172554236188
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.143001141301682
@@ -59,7 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.09664678147047161
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0966467814704716
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
