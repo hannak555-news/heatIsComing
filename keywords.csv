@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1866088273276586
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1866088273276586
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1713357021981991
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1828682441411965
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.06487882513336377
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0648788251333637
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0632867425998934
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
