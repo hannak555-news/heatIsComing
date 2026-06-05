@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1336170657820584
-'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.13244736372915952
+'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1324473637291595
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
@@ -69,13 +69,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0745329177081291
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0648788251333637
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0632867425998934
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0555288109476458
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0553987888850478
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.05379373120990939
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0503361519981494
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
