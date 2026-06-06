@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1935092661776691
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1866088273276586
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1866088273276586
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1828682441411965
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1583624464636322
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.143001141301682
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.13746950107224726
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.136359161401895
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
