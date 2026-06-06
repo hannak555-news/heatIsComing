@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2633740431888919
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2544626394593066
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
-'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.22847284220165295
+'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2284728422016529
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,3,0.2177976915806241
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2075096036620986
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1828682441411965
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.1617282953791144
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1583624464636322
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.143001141301682
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.13746950107224726
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.136359161401895
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
