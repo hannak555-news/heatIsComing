@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0648788251333637
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.06335298005190973
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0633529800519097
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
@@ -83,5 +83,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
-'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0352661017909273
+'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0311763065222882
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0263939945808124
