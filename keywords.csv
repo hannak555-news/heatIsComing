@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2988365799138371
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2633740431888919
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2544626394593066
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.24658736247978888
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2284728422016529
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,3,0.2177976915806241
