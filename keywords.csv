@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
-'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1598650451795004
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1583624464636322
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1434108906091415
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
+'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.13813600840257534
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.136359161401895
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.03968935879327155
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0396893587932715
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0311763065222882
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0263939945808124
