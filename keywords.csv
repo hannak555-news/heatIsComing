@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.11580847314160142
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1158084731416014
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
@@ -79,9 +79,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0503361519981494
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0465168750509077
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.03968935879327155
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0311763065222882
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0263939945808124
