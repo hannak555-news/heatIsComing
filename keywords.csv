@@ -55,10 +55,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.1158084731416014
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0966467814704716
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.091717066046818
@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.06933986566220687
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0648788251333637
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0633529800519097
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
