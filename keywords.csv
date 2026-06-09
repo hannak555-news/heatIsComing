@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.16411263903954193
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1641126390395419
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1503203389155201
@@ -67,10 +67,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.06933986566220687
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0648788251333637
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0633529800519097
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0613124804582113
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0555288109476458
