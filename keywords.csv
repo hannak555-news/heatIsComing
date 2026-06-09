@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2988365799138371
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.29946113792676154
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2544626394593066
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2465873624797888
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1221510301064297
-'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.12189925701777027
+'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
