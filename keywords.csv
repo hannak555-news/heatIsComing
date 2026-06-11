@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1828682441411965
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.1823442288167451
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.16900051272906516
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1690005127290651
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
@@ -56,10 +56,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1137801438294191
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.09731318225500624
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0966467814704716
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
