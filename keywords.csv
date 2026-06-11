@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.136359161401895
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1362452625195311
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1336170657820584
@@ -55,11 +54,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.11580847314160142
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.09731318225500624
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0966467814704716
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
