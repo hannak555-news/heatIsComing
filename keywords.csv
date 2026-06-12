@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2994611379267615
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2465873624797888
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.24497114674914747
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2348839871767742
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2284728422016529
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,2,0.2075096036620986
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1957739947807226
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1935092661776691
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.11580847314160142
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1158084731416014
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
