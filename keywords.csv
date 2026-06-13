@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2348839871767742
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.22133587163709048
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.22133587163709048
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2191590508714049
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1957739947807226
@@ -73,12 +73,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0555288109476458
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0553987888850478
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0537937312099093
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0503361519981494
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.04734950430549893
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0396893587932715
