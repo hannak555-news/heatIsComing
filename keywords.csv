@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2465873624797888
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.22369639319116716
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2236963931911671
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2191590508714049
@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.1828682441411965
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1697076805976853
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1697076805976853
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1690005127290651
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
+'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.16697095427726327
+'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.16697095427726327
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1503203389155201
