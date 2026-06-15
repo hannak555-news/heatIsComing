@@ -56,8 +56,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1158084731416014
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1065341985940796
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.0991427874413313
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0966467814704716
