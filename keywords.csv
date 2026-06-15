@@ -10,9 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2191590508714049
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1957739947807226
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.19353061252001702
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1935092661776691
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,1,0.1916753986062502
+'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.1887459266832388
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
@@ -51,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1221510301064297
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
-'Hitzewelle',de,Hazard,#E74C3C,#ff3300,1,0.1215742308572863
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1158084731416014
