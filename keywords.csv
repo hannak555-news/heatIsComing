@@ -7,7 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.2191590508714049
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.21023235340129492
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2102323534012949
+'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,2,0.1992573369477759
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1957739947807226
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
@@ -64,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
-'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.0754203787620893
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
