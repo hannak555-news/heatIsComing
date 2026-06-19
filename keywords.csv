@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2163843431183734
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.20445770844432293
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,2,0.1992573369477759
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.0991427874413313
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0966467814704716
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.08244979424990086
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
