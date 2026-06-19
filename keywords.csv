@@ -47,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1324473637291595
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
+'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.13111803134044703
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
@@ -63,8 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
-'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.089844654518173
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.08244979424990086
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
