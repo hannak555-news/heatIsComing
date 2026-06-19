@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.26648334125101875
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2465873624797888
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1953047832406941
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.1935092661776691
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.1887459266832388
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1324473637291595
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
-'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.13111803134044703
+'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
