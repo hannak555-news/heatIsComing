@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.22640407094794085
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2264040709479408
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2236963931911671
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
@@ -57,10 +57,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.1158084731416014
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.0991427874413313
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
