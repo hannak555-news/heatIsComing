@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2465873624797888
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2358387510203479
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.22640407094794085
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2236963931911671
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.2213358716370904
@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.09162476152842289
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0916247615284228
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
