@@ -23,11 +23,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.15564494809067342
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.1503203389155201
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
-'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.14926921779973115
+'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1492692177997311
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1473453701811692
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1466110417436702
@@ -60,8 +61,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.0991427874413313
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0916247615284228
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.0558970763633591
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0538500330441232
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0516389954545453
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
