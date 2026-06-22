@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2465873624797888
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273687864852193
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2236963931911671
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2209441053057496
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2163843431183734
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0538500330441232
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0473495043054989
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.043894031136363504
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.0438940311363635
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0427857291984269
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
