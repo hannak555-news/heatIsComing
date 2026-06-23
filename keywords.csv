@@ -63,9 +63,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.0991427874413313
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0973131822550062
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0916247615284228
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.08316624991675525
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
@@ -82,6 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0427857291984269
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0396893587932715
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.03627501500000001
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.036275015
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0240850603936905
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.0238002189623531
