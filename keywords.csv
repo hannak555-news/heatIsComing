@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273687864852193
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2209441053057496
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2163843431183734
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,2,0.1992573369477759
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.19590470626001028
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.19706689483243559
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1959047062600102
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1953047832406941
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.1887459266832388
