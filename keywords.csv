@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,2,0.1992573369477759
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.1975574580921589
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.19706689483243559
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970668948324355
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.1959047062600102
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1953047832406941
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
@@ -80,8 +80,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.0438940311363635
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0427857291984269
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0425
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0396893587932715
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.03627501500000001
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0240850603936905
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.0238002189623531
