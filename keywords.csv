@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
-'Tropentage',de,Hazard,#E74C3C,#ff3300,2,0.18092254308750472
+'Tropentage',de,Hazard,#E74C3C,#ff3300,2,0.1809225430875047
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1689586455636142
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1381360084025753
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,2,0.1376890305522906
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.136359161401895
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1221510301064297
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.116180359175705
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
