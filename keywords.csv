@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273687864852193
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2209441053057496
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.21811555004075533
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,2,0.1992573369477759
@@ -27,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1531223936854971
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1497126166254876
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1492692177997311
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1473453701811692
