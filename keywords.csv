@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.2830868108915269
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.2830868108915269
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.26378461028742595
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3128480015305251
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3128480015305251
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2465873624797888
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
