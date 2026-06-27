@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273093726033455
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2209441053057496
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2181155500407553
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.21811555004075528
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.20155974075459
@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0916247615284228
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.08367162184480702
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.083671621844807
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
