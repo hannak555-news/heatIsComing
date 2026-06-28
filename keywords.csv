@@ -13,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.20155974075459
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,3,0.199888757278386
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970111801530247
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.1887459266832388
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1336170657820584
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0396893587932715
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
-'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.036367869818662864
+'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0363678698186628
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.036275015
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0240850603936905
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.0238002189623531
