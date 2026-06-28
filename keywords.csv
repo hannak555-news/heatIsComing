@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273093726033455
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2209441053057496
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.21811555004075528
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.2181155500407552
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.20155974075459
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
 'Tropentage',de,Hazard,#E74C3C,#ff3300,2,0.1809225430875047
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
+'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1689586455636142
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1336170657820584
-'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1324473637291595
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
