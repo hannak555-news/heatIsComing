@@ -1,84 +1,85 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Donald Trump,Donald Trump,PER,-0.0848708487084871,0.11070110701107014,de,27.099999999999994
+Carsten Schneider,Carsten Schneider,PER,-0.1933962264150943,0.23584905660377356,de,10.600000000000001
 El Niño,El Niño,PER,-0.13483146067415727,0.05617977528089886,de,8.900000000000002
-Carsten Schneider,Carsten Schneider,PER,-0.1534090909090909,0.28409090909090906,de,8.8
 Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,8.8
 Friederike Otto,Friederike Otto,PER,0.0,0.32258064516129037,de,6.199999999999999
+Helene Fischer,Helene Fischer,PER,0.41999999999999993,0.0,de,5.0
+Angela Merkel,Angela Merkel,PER,0.0,0.2173913043478261,de,4.6
 Billy Talent,Billy Talent,PER,-0.15217391304347827,0.0,de,4.6
-Burkhard Bohne,Burkhard Bohne,PER,0.7567567567567568,0.0,de,3.6999999999999997
 Javier Milei,Javier Milei,PER,-0.5405405405405406,0.0,de,3.6999999999999997
+Burkhard Bohne,Burkhard Bohne,PER,0.7567567567567568,0.0,de,3.6999999999999997
 Narendra Modi,Narendra Modi,PER,0.0,0.7142857142857143,de,3.5
 Gesundheitsrisiko Hitze,Gesundheitsrisiko Hitze,PER,-0.8823529411764705,0.0,de,3.4000000000000004
-Hitze ernst,Hitze ernst,PER,-0.38235294117647056,0.0,de,3.4000000000000004
-Angela Merkel,Angela Merkel,PER,0.0,0.35714285714285715,de,2.8
-Frank Schätzing,Frank Schätzing,PER,0.4821428571428572,0.17857142857142858,de,2.8
+Hitze ernst,Hitze ernst,PER,-0.3823529411764705,0.0,de,3.4000000000000004
 Filippo Grandi,Filippo Grandi,PER,0.35714285714285715,0.0,de,2.8
 Claudia Acklin,Claudia Acklin,PER,-0.35714285714285715,0.0,de,2.8
 Andreas Kraus,Andreas Kraus,PER,0.0,0.0,de,2.8
 António Guterres,António Guterres,PER,-0.3035714285714286,0.35714285714285715,de,2.8
 herrlich warm,herrlich warm,PER,0.16071428571428575,0.0,de,2.8
+Ute Bonde,Ute Bonde,PER,0.0,0.0,de,2.8
+Armin Willingmann,Armin Willingmann,PER,0.0,0.0,de,2.8
+Frank Schätzing,Frank Schätzing,PER,0.4821428571428572,0.17857142857142858,de,2.8
 Bill Gates,Bill Gates,PER,0.25925925925925924,0.0,de,2.7
 Kai Wegner,Kai Wegner,PER,0.5384615384615384,0.0,de,2.6
+Boris Becker,Boris Becker,PER,-1.1538461538461537,0.0,de,2.6
 Markus Steilemann,Markus Steilemann,PER,-0.18181818181818177,0.0,de,2.2
-Cem Özdemir,Cem Özdemir,PER,0.0,0.0,de,1.9
-Heike Hübener,Heike Hübener,PER,-0.5263157894736842,0.0,de,1.9
-Wolfgang Ammer,Wolfgang Ammer,PER,0.49122807017543857,0.0,de,1.9
-Gabriele Hässig,Gabriele Hässig,PER,0.0,0.0,de,1.9
-Andreas Jahn,Andreas Jahn,PER,0.0,0.0,de,1.9
-Claas Nendel,Claas Nendel,PER,1.0526315789473684,0.0,de,1.9
-Jonathan Franzen,Jonathan Franzen,PER,-0.5263157894736842,0.5263157894736842,de,1.9
 Finanzvorstand Elvermann,Finanzvorstand Elvermann,PER,0.0,0.0,de,1.9
-Jochen Wegner,Jochen Wegner,PER,0.5263157894736842,0.5263157894736842,de,1.9
-Ingmar Jung,Ingmar Jung,PER,0.0,0.0,de,1.9
-Katrin Böhning-Gaese,Katrin Böhning-Gaese,PER,0.0,0.0,de,1.9
-Chari Hawkins,Chari Hawkins,PER,0.12280701754385964,0.0,de,1.9
 Isabel Cademartori,Isabel Cademartori,PER,0.0,0.0,de,1.9
-Armin Willingmann,Armin Willingmann,PER,0.0,0.0,de,1.9
-Oisín McKenna,Oisín McKenna,PER,0.5263157894736842,0.0,de,1.9
-Bettina Steiner,Bettina Steiner,PER,0.0,1.0526315789473684,de,1.9
-Ute Bonde,Ute Bonde,PER,0.0,0.0,de,1.9
-Hannover Rück,Hannover Rück,PER,-0.3684210526315789,0.0,de,1.9
-Gabriel Boric,Gabriel Boric,PER,-0.2982456140350877,0.17543859649122806,de,1.9
-Antonio Piolanti,Antonio Piolanti,PER,0.2631578947368421,0.2631578947368421,de,1.9
+Andreas Jahn,Andreas Jahn,PER,0.0,0.0,de,1.9
+Heike Hübener,Heike Hübener,PER,-0.5263157894736842,0.0,de,1.9
 Matthias Quent,Matthias Quent,PER,0.0,0.0,de,1.9
-Neuhausen ob Eck,Neuhausen ob Eck,PER,-0.3684210526315789,0.0,de,1.9
-Gesundheitsminister Hildenbrand,Gesundheitsminister Hildenbrand,PER,0.0,0.0,de,1.9
 tropisch-feuchter Hitze,tropisch-feuchter Hitze,PER,0.0,0.0,de,1.9
-Was Ausflügler,Was Ausflügler,PER,0.0,0.0,de,1.9
-Manuel Oberhuber,Manuel Oberhuber,PER,0.0,0.0,de,1.9
+Antonio Piolanti,Antonio Piolanti,PER,0.2631578947368421,0.2631578947368421,de,1.9
+Gabriele Hässig,Gabriele Hässig,PER,0.0,0.0,de,1.9
+Wolfgang Ammer,Wolfgang Ammer,PER,0.49122807017543857,0.0,de,1.9
+Gabriel Boric,Gabriel Boric,PER,-0.2982456140350877,0.17543859649122806,de,1.9
+Cem Özdemir,Cem Özdemir,PER,0.0,0.0,de,1.9
+Oisín McKenna,Oisín McKenna,PER,0.5263157894736842,0.0,de,1.9
 Park Gyeong-je,Park Gyeong-je,PER,-1.0526315789473684,0.0,de,1.9
-Marco Manitta ,Marco Manitta ,PER,-1.0526315789473684,0.0,de,1.9
+Ingmar Jung,Ingmar Jung,PER,0.0,0.0,de,1.9
+Neuhausen ob Eck,Neuhausen ob Eck,PER,-0.3684210526315789,0.0,de,1.9
+Chari Hawkins,Chari Hawkins,PER,0.12280701754385964,0.0,de,1.9
+Klimaangepasste Städte,Klimaangepasste Städte,PER,0.0,0.0,de,1.9
+Gesundheitsminister Hildenbrand,Gesundheitsminister Hildenbrand,PER,0.0,0.0,de,1.9
+Bettina Steiner,Bettina Steiner,PER,0.0,1.0526315789473684,de,1.9
 Michaela Kaniber,Michaela Kaniber,PER,0.0,0.0,de,1.9
+Was Ausflügler,Was Ausflügler,PER,0.0,0.0,de,1.9
+Marco Manitta ,Marco Manitta ,PER,-1.0526315789473684,0.0,de,1.9
+Fête de la musique,Fête de la musique,PER,0.3684210526315789,0.5263157894736842,de,1.9
+Katrin Böhning-Gaese,Katrin Böhning-Gaese,PER,0.0,0.0,de,1.9
+Jochen Wegner,Jochen Wegner,PER,0.5263157894736842,0.5263157894736842,de,1.9
+Claas Nendel,Claas Nendel,PER,1.0526315789473684,0.0,de,1.9
+Hannover Rück,Hannover Rück,PER,-0.3684210526315789,0.0,de,1.9
+Manuel Oberhuber,Manuel Oberhuber,PER,0.0,0.0,de,1.9
+Jonathan Franzen,Jonathan Franzen,PER,-0.5263157894736842,0.5263157894736842,de,1.9
+Helene Fischer Konzert,Helene Fischer Konzert,PER,0.7777777777777777,0.0,de,1.8
 Was Hitze,Was Hitze,PER,-1.1111111111111112,0.0,de,1.8
 Abwärme von Motoren,Abwärme von Motoren,PER,-0.7777777777777777,0.0,de,1.8
-Simon Stiell,Simon Stiell,PER,0.0,0.0,de,1.8
-Boris Becker,Boris Becker,PER,-1.1111111111111112,0.0,de,1.8
+Judith Gerlach,Judith Gerlach,PER,0.19444444444444442,0.2777777777777778,de,1.8
 Melbourne-Champion Jannik Sinner,Melbourne-Champion Jannik Sinner,PER,0.0,0.0,de,1.8
 Niedersachsens Tourismusbranche,Niedersachsens Tourismusbranche,PER,-1.027777777777778,0.0,de,1.8
+Simon Stiell,Simon Stiell,PER,0.0,0.0,de,1.8
 Brasiliens Widersprüchlichkeit,Brasiliens Widersprüchlichkeit,PER,0.0,0.0,de,1.6
 Hans-Josef Fell,Hans-Josef Fell,PER,0.0,0.0,de,1.2000000000000002
 Nadine Göppert,Nadine Göppert,PER,0.0,0.0,de,1.1
-Andreas Jung,Andreas Jung,PER,0.0,0.0,de,1.0
+Ponguleti Srinivasa Reddy,Ponguleti Srinivasa Reddy,PER,-0.15000000000000002,0.0,de,1.0
+Österreichs Wälder,Österreichs Wälder,PER,0.0,0.0,de,1.0
+Alexander Zverev,Alexander Zverev,PER,1.0,0.0,de,1.0
+Temperaturen j,Temperaturen j,PER,0.0,0.0,de,1.0
+Was Hessenforst,Was Hessenforst,PER,0.0,0.0,de,1.0
+Warnstufe Orange,Warnstufe Orange,PER,0.0,0.0,de,1.0
+Gunther Graupner,Gunther Graupner,PER,0.0,0.0,de,1.0
+Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1.0
 van Vuuren,van Vuuren,PER,0.0,0.0,de,1.0
-Markus Lanz,Markus Lanz,PER,-0.15000000000000002,0.0,de,1.0
-Agapostemon subtilior,Agapostemon subtilior,PER,0.0,0.0,de,1.0
-Manfred W,Manfred W,PER,-1.0,0.0,de,1.0
-Marcel Schmid,Marcel Schmid,PER,0.0,0.0,de,1.0
-Kathrin Schmid,Kathrin Schmid,PER,0.0,0.0,de,1.0
 Anneliese Dreweck,Anneliese Dreweck,PER,-1.0,0.0,de,1.0
-Michael Mitter,Michael Mitter,PER,0.0,0.0,de,1.0
-Madelein Ostwald,Madelein Ostwald,PER,0.0,0.0,de,1.0
-Liveblog USA,Liveblog USA,PER,0.0,0.0,de,1.0
-Alois Rainer,Alois Rainer,PER,0.0,0.0,de,1.0
-Klaus Tschabuschnig,Klaus Tschabuschnig,PER,0.7,0.0,de,1.0
-Horst Sproßmann,Horst Sproßmann,PER,0.0,0.0,de,1.0
-Alexandra Horvath,Alexandra Horvath,PER,0.0,0.0,de,1.0
-Sarah Danzer,Sarah Danzer,PER,0.0,0.0,de,1.0
+Marco Kopiere,Marco Kopiere,PER,-0.5666666666666667,0.3333333333333333,de,1.0
+Gefahr von Waldbränden,Gefahr von Waldbränden,PER,0.0,0.0,de,1.0
 Herbert Netter,Herbert Netter,PER,0.0,0.0,de,1.0
+Sarah Danzer,Sarah Danzer,PER,0.0,0.0,de,1.0
+Alexandra Horvath,Alexandra Horvath,PER,0.0,0.0,de,1.0
 Blütenstaub gelblich,Blütenstaub gelblich,PER,0.0,0.0,de,1.0
 Claus Leggewie,Claus Leggewie,PER,1.0,0.0,de,1.0
-Gefahr von Waldbränden,Gefahr von Waldbränden,PER,0.0,0.0,de,1.0
-Marco Kopiere,Marco Kopiere,PER,-0.5666666666666667,0.3333333333333333,de,1.0
 Norbert Tot,Norbert Tot,PER,0.7,0.0,de,1.0
 Microsofts Klimaziele,Microsofts Klimaziele,PER,0.0,0.0,de,1.0
 Niederösterreichs Grundwasserreserven,Niederösterreichs Grundwasserreserven,PER,0.0,0.0,de,1.0
@@ -86,50 +87,47 @@ Borkenkäfer ausgeschwärmt,Borkenkäfer ausgeschwärmt,PER,0.0,0.0,de,1.0
 Gartenschau Oberhessen,Gartenschau Oberhessen,PER,0.0,1.0,de,1.0
 Heidi Radvilas,Heidi Radvilas,PER,0.0,0.0,de,1.0
 Theodore Keeping,Theodore Keeping,PER,0.0,0.0,de,1.0
-Benjamin von Brackel,Benjamin von Brackel,PER,0.0,0.0,de,1.0
 Österreichs Wasserreichtum,Österreichs Wasserreichtum,PER,0.7,0.0,de,1.0
-Ferraris Elektroauto,Ferraris Elektroauto,PER,1.0,0.0,de,1.0
-Cai Rienäcker,Cai Rienäcker,PER,0.0,0.0,de,1.0
-Gunther Graupner,Gunther Graupner,PER,0.0,0.0,de,1.0
+Charité-Professor Grunga,Charité-Professor Grunga,PER,0.85,0.0,de,1.0
+Klaus Tschabuschnig,Klaus Tschabuschnig,PER,0.7,0.0,de,1.0
+Markus Lanz,Markus Lanz,PER,-0.15000000000000002,0.0,de,1.0
+Andreas Jung,Andreas Jung,PER,0.0,0.0,de,1.0
+Alois Rainer,Alois Rainer,PER,0.0,0.0,de,1.0
+Marcel Schmid,Marcel Schmid,PER,0.0,0.0,de,1.0
+Was Sommerhitze,Was Sommerhitze,PER,0.0,0.0,de,1.0
+Franziska Brantner,Franziska Brantner,PER,0.0,0.0,de,1.0
+Franziska Hoppen,Franziska Hoppen,PER,0.0,0.0,de,1.0
+Hitze pur,Hitze pur,PER,-0.7,0.0,de,1.0
 Englands Penis-Riese,Englands Penis-Riese,PER,0.0,0.0,de,1.0
-Onaran Gabriele Hässig,Onaran Gabriele Hässig,PER,0.0,0.0,de,1.0
-Lea Schön,Lea Schön,PER,1.0,0.0,de,1.0
-Hans-Peter Hutter,Hans-Peter Hutter,PER,0.0,0.0,de,1.0
-Gianni Infantino,Gianni Infantino,PER,0.0,0.0,de,1.0
-© Paulina Filz,© Paulina Filz,PER,0.0,0.0,de,1.0
-Klaus Reinhardt,Klaus Reinhardt,PER,0.0,0.0,de,1.0
-Henrike Strauch,Henrike Strauch,PER,0.0,0.0,de,1.0
-Wirtschaftsministerin Reiche,Wirtschaftsministerin Reiche,PER,0.7,0.0,de,1.0
-Bundeswirtschaftsministerin Katherina Reiche,Bundeswirtschaftsministerin Katherina Reiche,PER,0.7,0.0,de,1.0
-Mariah Blake,Mariah Blake,PER,-1.0,0.0,de,1.0
 Paul Roundy,Paul Roundy,PER,1.0,0.0,de,1.0
-Martin Schneider,Martin Schneider,PER,0.0,0.0,de,1.0
 Katharina Ditschke,Katharina Ditschke,PER,0.0,0.0,de,1.0
 Leila Boucheligua,Leila Boucheligua,PER,0.0,0.0,de,1.0
+Hinrich Knoke,Hinrich Knoke,PER,0.0,0.0,de,1.0
+Lars Rathing,Lars Rathing,PER,0.0,0.0,de,1.0
 Robert Koch-Instituts,Robert Koch-Instituts,PER,0.0,0.0,de,1.0
 Was Baden-Württembergs,Was Baden-Württembergs,PER,0.0,0.0,de,1.0
 Oliver Hildenbrand,Oliver Hildenbrand,PER,1.0,0.0,de,1.0
 Thomas Rinderer,Thomas Rinderer,PER,0.0,0.0,de,1.0
 Alarmstufe lila,Alarmstufe lila,PER,-0.35,0.5,de,1.0
-Hitze pur,Hitze pur,PER,-0.7,0.0,de,1.0
+Deutschlands Krankenhäuser,Deutschlands Krankenhäuser,PER,0.0,0.0,de,1.0
+Cai Rienäcker,Cai Rienäcker,PER,0.0,0.0,de,1.0
 Patrice Aminati,Patrice Aminati,PER,0.7,0.0,de,1.0
 Christoph Maria Herbst,Christoph Maria Herbst,PER,0.7,0.0,de,1.0
-Carsten Schneiders,Carsten Schneiders,PER,0.0,0.0,de,1.0
-Daniel Rinz,Daniel Rinz,PER,-1.0,0.0,de,1.0
-Österreichs Wälder,Österreichs Wälder,PER,0.0,0.0,de,1.0
+Veranstalter loben,Veranstalter loben,PER,1.0,0.0,de,1.0
+Heiße Tage,Heiße Tage,PER,0.0,0.0,de,1.0
+Wolfgang Österle,Wolfgang Österle,PER,0.0,0.0,de,1.0
+Hochsommerliche Temperaturen und Tropennächte,Hochsommerliche Temperaturen und Tropennächte,PER,0.7,0.0,de,1.0
+Andreas Meyer-Feist,Andreas Meyer-Feist,PER,0.0,0.0,de,1.0
+ses Figueretes,ses Figueretes,PER,0.0,0.0,de,1.0
+Grad Celsius,Grad Celsius,PER,0.0,0.0,de,1.0
+Höchstwert von,Höchstwert von,PER,0.0,0.0,de,1.0
+Alarmstufe Rot,Alarmstufe Rot,PER,0.0,0.0,de,1.0
+Mariah Blake,Mariah Blake,PER,-1.0,0.0,de,1.0
+Bundeswirtschaftsministerin Katherina Reiche,Bundeswirtschaftsministerin Katherina Reiche,PER,0.7,0.0,de,1.0
+Wirtschaftsministerin Reiche,Wirtschaftsministerin Reiche,PER,0.7,0.0,de,1.0
+Henrike Strauch,Henrike Strauch,PER,0.0,0.0,de,1.0
 Dieter Kosslick,Dieter Kosslick,PER,0.0,0.0,de,1.0
-Judith Gerlach,Judith Gerlach,PER,0.35,0.5,de,1.0
-Ponguleti Srinivasa Reddy,Ponguleti Srinivasa Reddy,PER,-0.15000000000000002,0.0,de,1.0
-Temperaturen j,Temperaturen j,PER,0.0,0.0,de,1.0
-Was Hessenforst,Was Hessenforst,PER,0.0,0.0,de,1.0
-Alexander Zverev,Alexander Zverev,PER,1.0,0.0,de,1.0
-Warnstufe Orange,Warnstufe Orange,PER,0.0,0.0,de,1.0
-Was Sommerhitze,Was Sommerhitze,PER,0.0,0.0,de,1.0
-Charité-Professor Grunga,Charité-Professor Grunga,PER,0.85,0.0,de,1.0
-Franziska Hoppen,Franziska Hoppen,PER,0.0,0.0,de,1.0
-Schulhöfe entsiegeln,Schulhöfe entsiegeln,PER,-0.7,0.0,de,1.0
 Laura Siegemund,Laura Siegemund,PER,0.0,0.0,de,1.0
-Somewhere Else Together,Somewhere Else Together,PER,0.0,0.0,de,1.0
 Eva Lys,Eva Lys,PER,0.0,0.0,de,1.0
 Knut Sierk,Knut Sierk,PER,0.0,0.0,de,1.0
 Forstministerin Kaniber,Forstministerin Kaniber,PER,0.0,0.0,de,1.0
@@ -137,15 +135,24 @@ Experten gera,Experten gera,PER,-0.7,0.0,de,1.0
 Modehauses Jacques Esterel,Modehauses Jacques Esterel,PER,0.0,0.0,de,1.0
 Cap Ferret,Cap Ferret,PER,0.0,0.0,de,1.0
 Markus Übel,Markus Übel,PER,-1.0,0.0,de,1.0
-Franziska Brantner,Franziska Brantner,PER,0.0,0.0,de,1.0
+Horst Sproßmann,Horst Sproßmann,PER,0.0,0.0,de,1.0
 Konrad Adenauer,Konrad Adenauer,PER,1.0,0.0,de,1.0
 Helmut Kohl,Helmut Kohl,PER,1.0,0.0,de,1.0
-Andreas Amann,Andreas Amann,PER,0.0,0.0,de,1.0
-Wiebke Hederich,Wiebke Hederich,PER,1.0,0.0,de,1.0
-Petersberger Klimadialog,Petersberger Klimadialog,PER,-0.7,0.0,de,1.0
-Korinna Schumann,Korinna Schumann,PER,0.7,0.0,de,1.0
-Mark Carney,Mark Carney,PER,0.0,0.0,de,1.0
-Heinrich Strößenreuther,Heinrich Strößenreuther,PER,0.0,0.0,de,1.0
+Somewhere Else Together,Somewhere Else Together,PER,0.0,0.0,de,1.0
+Daniel Rinz,Daniel Rinz,PER,-1.0,0.0,de,1.0
+Martin Schneider,Martin Schneider,PER,0.0,0.0,de,1.0
+Carsten Schneiders,Carsten Schneiders,PER,0.0,0.0,de,1.0
+Onaran Gabriele Hässig,Onaran Gabriele Hässig,PER,0.0,0.0,de,1.0
+Lea Schön,Lea Schön,PER,1.0,0.0,de,1.0
+Hans-Peter Hutter,Hans-Peter Hutter,PER,0.0,0.0,de,1.0
+Gianni Infantino,Gianni Infantino,PER,0.0,0.0,de,1.0
+Marie Pfeiff,Marie Pfeiff,PER,0.0,1.0,de,1.0
+© Paulina Filz,© Paulina Filz,PER,0.0,0.0,de,1.0
+Klaus Reinhardt,Klaus Reinhardt,PER,0.0,0.0,de,1.0
+Benjamin von Brackel,Benjamin von Brackel,PER,0.0,0.0,de,1.0
+Clara Herrmann,Clara Herrmann,PER,0.7,0.0,de,1.0
+Kathrin Schmid,Kathrin Schmid,PER,0.0,0.0,de,1.0
+vollgelaufene Keller leerpumpen,vollgelaufene Keller leerpumpen,PER,-0.85,0.0,de,1.0
 sturem Verbrennerverbot,sturem Verbrennerverbot,PER,0.0,0.0,de,1.0
 Sabine Henkel,Sabine Henkel,PER,0.0,0.0,de,1.0
 Prabowo Subianto,Prabowo Subianto,PER,0.0,0.0,de,1.0
@@ -155,11 +162,11 @@ Hedwig Richter,Hedwig Richter,PER,-0.7,0.0,de,1.0
 Theodor Storm,Theodor Storm,PER,0.0,0.0,de,1.0
 August Wollkleidung,August Wollkleidung,PER,-0.7,0.0,de,1.0
 Weihnachtslotterie „El Gordo“,Weihnachtslotterie „El Gordo“,PER,0.0,0.0,de,1.0
+Korinna Schumann,Korinna Schumann,PER,0.7,0.0,de,1.0
 Uta Eser,Uta Eser,PER,0.0,0.0,de,1.0
-Jeanne Turczynski,Jeanne Turczynski,PER,0.0,0.0,de,1.0
 Dry January,Dry January,PER,1.0,0.0,de,1.0
-vollgelaufene Keller leerpumpen,vollgelaufene Keller leerpumpen,PER,-0.85,0.0,de,1.0
 Haut-Experte Rolf Stehr,Haut-Experte Rolf Stehr,PER,0.3333333333333333,0.0,de,1.0
+Agapostemon subtilior,Agapostemon subtilior,PER,0.0,0.0,de,1.0
 Agora Energi,Agora Energi,PER,0.0,0.0,de,1.0
 Jesus Christus,Jesus Christus,PER,0.0,0.0,de,1.0
 Donald Trumps,Donald Trumps,PER,0.0,0.0,de,1.0
@@ -168,10 +175,14 @@ Barbara Barkhausen,Barbara Barkhausen,PER,0.0,0.0,de,1.0
 Frank Dancevic,Frank Dancevic,PER,0.0,0.0,de,1.0
 Santiago de Chile,Santiago de Chile,PER,-0.7,0.0,de,1.0
 Kaveh Madani,Kaveh Madani,PER,-0.06666666666666665,0.5,de,1.0
+Feuchtgebiete verschw,Feuchtgebiete verschw,PER,0.0,0.0,de,1.0
+Martina Feldmayer,Martina Feldmayer,PER,0.0,0.0,de,1.0
+Trumps Irrweg,Trumps Irrweg,PER,1.0,0.0,de,1.0
+Jeff Bezos,Jeff Bezos,PER,0.0,0.0,de,1.0
+Heinrich Strößenreuther,Heinrich Strößenreuther,PER,0.0,0.0,de,1.0
+Mark Carney,Mark Carney,PER,0.0,0.0,de,1.0
 Keywan Riahi,Keywan Riahi,PER,0.5,0.5,de,1.0
 Andreas Walter,Andreas Walter,PER,0.0,0.0,de,1.0
-Vera Künzel,Vera Künzel,PER,0.5,0.5,de,1.0
-Masoud Pezeshkian ,Masoud Pezeshkian ,PER,0.7,0.0,de,1.0
 Premier Lecornu,Premier Lecornu,PER,0.0,0.0,de,1.0
 Sébastien Lecornu,Sébastien Lecornu,PER,-0.7,0.0,de,1.0
 Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1.0
@@ -195,41 +206,41 @@ Ottmar Edenhofer,Ottmar Edenhofer,PER,0.7,0.0,de,1.0
 Heiße Ziegelsteine,Heiße Ziegelsteine,PER,0.0,0.0,de,1.0
 UN-Chef Guterres,UN-Chef Guterres,PER,0.0,0.0,de,1.0
 Teheran  ,Teheran  ,PER,0.7,0.0,de,1.0
-Feuchtgebiete verschw,Feuchtgebiete verschw,PER,0.0,0.0,de,1.0
-Martina Feldmayer,Martina Feldmayer,PER,0.0,0.0,de,1.0
-Trumps Irrweg,Trumps Irrweg,PER,1.0,0.0,de,1.0
-lieben Bäume,lieben Bäume,PER,1.0,0.0,de,1.0
-Christian Herold ,Christian Herold ,PER,0.7,0.0,de,1.0
-Christian Herold,Christian Herold,PER,0.7,0.0,de,1.0
-Meteorologe Baur,Meteorologe Baur,PER,0.0,0.0,de,1.0
-Norbert Totschnig,Norbert Totschnig,PER,0.0,0.0,de,1.0
+Masoud Pezeshkian ,Masoud Pezeshkian ,PER,0.7,0.0,de,1.0
+Vera Künzel,Vera Künzel,PER,0.5,0.5,de,1.0
+Michael Bloomberg,Michael Bloomberg,PER,0.0,0.0,de,1.0
+Sam Altman inves,Sam Altman inves,PER,0.0,0.0,de,1.0
+Naomi Osakas,Naomi Osakas,PER,0.0,0.0,de,1.0
 Charité-Allergologin Margitta Worm,Charité-Allergologin Margitta Worm,PER,0.7,0.0,de,1.0
-Markus Kelle,Markus Kelle,PER,0.0,0.0,de,1.0
 Christian Gaebler,Christian Gaebler,PER,0.0,0.0,de,1.0
 Jens Eberl,Jens Eberl,PER,0.0,0.0,de,1.0
 Umweltminister Schneider,Umweltminister Schneider,PER,-0.7,0.0,de,1.0
 Schneiders Klimaschutzprogramm,Schneiders Klimaschutzprogramm,PER,1.0,0.0,de,1.0
 Katherina Reiche,Katherina Reiche,PER,0.7,0.0,de,1.0
-Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-1.0,1.0,de,1.0
+Wiebke Hederich,Wiebke Hederich,PER,1.0,0.0,de,1.0
 Anna Küch,Anna Küch,PER,0.0,0.0,de,1.0
 Chaud  ,Chaud  ,PER,0.0,0.0,de,1.0
 Kreta blutrot,Kreta blutrot,PER,0.0,0.0,de,1.0
 James Whitlow Delano,James Whitlow Delano,PER,0.0,0.0,de,1.0
 James Whitlow,James Whitlow,PER,0.0,0.0,de,1.0
 Moritz Pompl,Moritz Pompl,PER,0.0,0.0,de,1.0
-Clara Herrmann,Clara Herrmann,PER,0.7,0.0,de,1.0
+Mark Gurman von Bloomberg,Mark Gurman von Bloomberg,PER,-1.0,1.0,de,1.0
 Saharastaub färbt,Saharastaub färbt,PER,0.0,0.0,de,1.0
 Japans Wetteramt,Japans Wetteramt,PER,0.0,0.0,de,1.0
 Michael Stang,Michael Stang,PER,0.0,0.0,de,1.0
 Karsten Schneider,Karsten Schneider,PER,0.0,0.0,de,1.0
-Andreas Kegel,Andreas Kegel,PER,0.0,0.0,de,1.0
-Stadtmitte Königstein,Stadtmitte Königstein,PER,0.7,0.0,de,1.0
-Jeff Bezos,Jeff Bezos,PER,0.0,0.0,de,1.0
-Sepp Müller,Sepp Müller,PER,0.9,0.0,de,1.0
-Michael Bloomberg,Michael Bloomberg,PER,0.0,0.0,de,1.0
-Sam Altman inves,Sam Altman inves,PER,0.0,0.0,de,1.0
-Naomi Osakas,Naomi Osakas,PER,0.0,0.0,de,1.0
+Jeanne Turczynski,Jeanne Turczynski,PER,0.0,0.0,de,1.0
+Petersberger Klimadialog,Petersberger Klimadialog,PER,-0.7,0.0,de,1.0
+Schulhöfe entsiegeln,Schulhöfe entsiegeln,PER,-0.7,0.0,de,1.0
+Andreas Amann,Andreas Amann,PER,0.0,0.0,de,1.0
+Michael Mitter,Michael Mitter,PER,0.0,0.0,de,1.0
+Liveblog USA,Liveblog USA,PER,0.0,0.0,de,1.0
+Manfred W,Manfred W,PER,-1.0,0.0,de,1.0
+Madelein Ostwald,Madelein Ostwald,PER,0.0,0.0,de,1.0
+Markus Kelle,Markus Kelle,PER,0.0,0.0,de,1.0
+Norbert Totschnig,Norbert Totschnig,PER,0.0,0.0,de,1.0
 Naomi Osaka,Naomi Osaka,PER,0.0,0.0,de,1.0
+Meteorologe Baur,Meteorologe Baur,PER,0.0,0.0,de,1.0
 Jannik Sinner,Jannik Sinner,PER,-1.0,0.0,de,1.0
 Dieter Reiter,Dieter Reiter,PER,0.0,0.0,de,1.0
 Irans Umweltkrisen,Irans Umweltkrisen,PER,0.0,0.0,de,1.0
@@ -249,4 +260,10 @@ Abbas Araghtschi,Abbas Araghtschi,PER,0.0,0.0,de,1.0
 Rafael Grossi,Rafael Grossi,PER,0.0,0.0,de,1.0
 Lasse Petersdotter,Lasse Petersdotter,PER,0.0,0.0,de,1.0
 Clemens Steinwender,Clemens Steinwender,PER,0.0,0.0,de,1.0
-Veranstalter loben,Veranstalter loben,PER,1.0,0.0,de,1.0
+Sepp Müller,Sepp Müller,PER,0.9,0.0,de,1.0
+Stadtmitte Königstein,Stadtmitte Königstein,PER,0.7,0.0,de,1.0
+lieben Bäume,lieben Bäume,PER,1.0,0.0,de,1.0
+Andreas Kegel,Andreas Kegel,PER,0.0,0.0,de,1.0
+Christian Herold ,Christian Herold ,PER,0.7,0.0,de,1.0
+Christian Herold,Christian Herold,PER,0.7,0.0,de,1.0
+Konzert von Helene Fischer,Konzert von Helene Fischer,PER,0.0,1.0,de,1.0
