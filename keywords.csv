@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.23602019054176343
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2360201905417634
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273093726033455
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2209441053057496
@@ -65,12 +65,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.0991427874413313
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.083671621844807
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0711413574292419
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.07112087856808595
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
