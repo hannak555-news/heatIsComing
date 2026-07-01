@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2891663245098871
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.2887431375937359
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2838689590583141
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.26693786332413527
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2669378633241352
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.259504331771662
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
@@ -38,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
+'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.14091849025410982
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1381360084025753
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
@@ -68,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.0762604804175
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
-'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.073321784256172
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.0711413574292419
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
