@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2891663245098871
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.2887431375937359
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2838689590583141
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.26693786332413527
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.259504331771662
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2360201905417634
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273093726033455
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.2181155500407552
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.16984103261061556
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1689586455636142
