@@ -21,13 +21,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
+'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.16984103261061556
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1689586455636142
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
-'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1560088121622215
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Tropentage',de,Hazard,#E74C3C,#ff3300,2,0.153934176624379
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
