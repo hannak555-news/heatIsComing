@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2891663245098871
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.2887431375937359
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.28809272583340406
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2838689590583141
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2669378633241352
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
@@ -38,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
-'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.14091849025410982
+'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1409184902541098
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.1397227455740025
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1381360084025753
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
