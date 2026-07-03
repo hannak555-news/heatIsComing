@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.31973018195839337
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3197301819583933
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.2887431375937359
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2838689590583141
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
@@ -61,9 +61,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.10058772068876796
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0992311822991593
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.0991427874413313
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
