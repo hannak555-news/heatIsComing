@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2838689590583141
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.259504331771662
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2527161162582982
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.234440176625551
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2318542788255149
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2273093726033455
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2044577084443229
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.1042276258274413
-'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.10058772068876796
+'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.0992311822991593
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
