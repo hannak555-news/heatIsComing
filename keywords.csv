@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3197301819583933
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2930148409163277
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.2887431375937359
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2838689590583141
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.259504331771662
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2527161162582982
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,3,0.2422670622220467
