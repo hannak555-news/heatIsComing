@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3504668053785317
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.32681449337313884
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3197301819583933
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2930148409163277
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.2887431375937359
@@ -8,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.259504331771662
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.2449711467491474
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,3,0.2422670622220467
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.234440176625551
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2318542788255149
