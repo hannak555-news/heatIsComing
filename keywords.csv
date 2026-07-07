@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.259504331771662
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.234440176625551
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2318542788255149
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,3,0.2205717278887397
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.2114978974044456
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,3,0.199888757278386
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970111801530247
@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.0438940311363635
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674064
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0363678698186628
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
