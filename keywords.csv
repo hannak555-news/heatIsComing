@@ -15,13 +15,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,3,0.2205717278887397
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.2114978974044456
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,3,0.199888757278386
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970111801530247
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.1699060886866281
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1173202138148556
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.11447276633463697
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1030010721169712
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
