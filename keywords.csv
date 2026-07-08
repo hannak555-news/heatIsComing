@@ -60,8 +60,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1173202138148556
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
+'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.11447276633463697
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.10300107211697121
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1030010721169712
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0984372021703612
@@ -83,5 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0363678698186628
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.03098377775
-'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,1,0.0240850603936905
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.0238002189623531
