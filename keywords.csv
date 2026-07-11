@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3618143843671679
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3592430250371816
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3592430250371816
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.32856640932433306
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3253582783009979
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.2930148409163277
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2838689590583141
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2698745701951791
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
@@ -82,6 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0363678698186628
-'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.036237643975142994
+'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.03098377775
