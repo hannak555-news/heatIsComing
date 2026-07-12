@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2698745701951791
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.263397243365324
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2463082981520851
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.24684072985784378
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.241929458369549
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,3,0.2205717278887397
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.13084406513072214
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1308440651307221
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1306348439032233
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
