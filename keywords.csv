@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2698745701951791
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.263397243365324
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.24684072985784378
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2468407298578437
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.241929458369549
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.23962795064201448
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,3,0.2205717278887397
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.2114978974044456
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970111801530247
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.193530612520017
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1880283717037177
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
