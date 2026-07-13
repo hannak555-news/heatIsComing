@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2468407298578437
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.241929458369549
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.2396279506420144
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.22790620097559694
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,2,0.2114978974044456
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1993137856255794
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970111801530247
