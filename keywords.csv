@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,2,0.2032744788153127
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970111801530247
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.19238833743691489
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1923883374369148
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
@@ -56,10 +56,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1221510301064297
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
+'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1205179622107614
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
-'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1141117111397952
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.1113674703611137
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1039010462994255
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
