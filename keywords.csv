@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
-'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.11027145335487501
+'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.110271453354875
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1039010462994255
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1003222417426272
@@ -69,9 +69,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0948123648069466
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0885934819533251
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.083671621844807
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0824497942499008
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.07023234011241568
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
