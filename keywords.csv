@@ -15,14 +15,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.2396279506420144
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2279062009755969
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
-'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.1970111801530247
+'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.21696370267552556
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1923883374369148
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
-'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.17195046841758066
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.1699060886866281
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
