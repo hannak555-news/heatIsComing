@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
+'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.17195046841758066
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.1699060886866281
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
@@ -57,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1221510301064297
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1205179622107614
-'Sommernächte',de,Hazard,#E74C3C,#ff3300,1,0.1194410569618596
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.110271453354875
@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04798746735965894
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0479874673596589
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
