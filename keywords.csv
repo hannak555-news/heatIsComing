@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2988811423541738
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2813111102849724
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2698745701951791
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.26864934304571225
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.2686493430457122
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2514888851995669
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2468407298578437
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2279062009755969
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1923883374369148
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.19431042407944207
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
