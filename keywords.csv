@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2988811423541738
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2698745701951791
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.2686493430457122
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.26406613874222656
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2640661387422265
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2514888851995669
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2468407298578437
@@ -68,11 +68,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0948123648069466
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.083671621844807
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.0753044596603263
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0702323401124156
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.06400879071127735
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
