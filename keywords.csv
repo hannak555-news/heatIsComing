@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.3943067606842014
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3743055369325515
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3569693106529558
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.35303594400887706
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.35303594400887706
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.3251747491595711
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2988811423541738
@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2640661387422265
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2514888851995669
-'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2468407298578437
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2279062009755969
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
+'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.21071471037916711
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2074651204675257
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
