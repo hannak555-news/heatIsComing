@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.3509339213310899
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2793447046659022
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.271278523273775
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2698745701951791
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.2686493430457122
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2514888851995669
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.22940789793089253
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2294078979308925
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2279062009755969
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
