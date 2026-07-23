@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
-'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,3,0.21670318527636365
+'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,3,0.2167031852763636
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2107147103791671
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2074651204675257
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
@@ -32,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
+'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.15595124850125425
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1492692177997311
@@ -46,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
-'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,1,0.1348667907501387
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
