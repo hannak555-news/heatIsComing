@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
-'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.15595124850125425
+'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1492692177997311
@@ -67,8 +67,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0948123648069466
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.083671621844807
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.07112087856808595
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0702323401124156
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
