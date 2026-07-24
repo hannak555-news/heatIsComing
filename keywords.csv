@@ -48,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.13421597935451166
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
@@ -61,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.110271453354875
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1039010462994255
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1003222417426272
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
