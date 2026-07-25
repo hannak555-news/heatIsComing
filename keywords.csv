@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1466110417436702
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.14344990916189382
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1409184902541098
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1381360084025753
@@ -56,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1221510301064297
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1205179622107614
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
