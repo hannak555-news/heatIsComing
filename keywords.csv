@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.3509339213310899
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.32793057360046696
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3279305736004669
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.281954145225219
@@ -58,7 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,1,0.12442821453169
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
-'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1205179622107614
+'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.11708599787914718
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.110271453354875
