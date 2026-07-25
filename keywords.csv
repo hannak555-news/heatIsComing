@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,1,0.1466110417436702
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.14344990916189382
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1434499091618938
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1409184902541098
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,2,0.1381360084025753
@@ -75,9 +75,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.0544074721045857
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0479874673596589
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.04624635128889784
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
