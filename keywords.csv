@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.3943067606842014
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3655162018354282
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3640251723017597
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.3509339213310899
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3391564230149423
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.281954145225219
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0462463512888978
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571006
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
