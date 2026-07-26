@@ -75,9 +75,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0479874673596589
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0462463512888978
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571006
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
