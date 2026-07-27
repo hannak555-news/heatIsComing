@@ -54,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
+'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.12808079535164374
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
@@ -61,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1170859978791471
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
-'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.110271453354875
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1003222417426272
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
