@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.12593364245133487
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1170859978791471
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1003222417426272
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0948123648069466
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.08059051008590461
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
