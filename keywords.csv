@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4015579274692049
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.3943067606842014
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3655162018354282
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3640251723017597
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.13072395048123311
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1307239504812331
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
