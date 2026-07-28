@@ -16,13 +16,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
-'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,3,0.2167031852763636
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2107147103791671
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2074651204675257
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
+'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.18419791748490905
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.1699060886866281
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1296348541914451
-'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.12808079535164374
+'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1224730806034282
