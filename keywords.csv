@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
-'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.18419791748490905
+'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.1699060886866281
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0263362110875
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.022385779424375
