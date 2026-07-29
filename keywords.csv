@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.40963178449506277
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4015579274692049
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.3943067606842014
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3640251723017597
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
-'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.3509339213310899
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.281954145225219
@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
-'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.15684308775484695
+'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
