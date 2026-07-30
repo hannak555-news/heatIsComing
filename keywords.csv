@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.29153619165832456
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.281954145225219
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2793447046659022
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2553159274196319
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,2,0.2463396473177397
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.01902791251071875
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0190279125107187
