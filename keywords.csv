@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2553159274196319
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,2,0.2463396473177397
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2294078979308925
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2107147103791671
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2074651204675257
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.19514771824125862
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.03930939859556313
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.0393093985955631
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
