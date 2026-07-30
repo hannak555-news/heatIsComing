@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.29153619165832456
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2915361916583245
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.281954145225219
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.2637846102874259
@@ -77,10 +77,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.0462463512888978
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.040247078659674
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.03930939859556313
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
