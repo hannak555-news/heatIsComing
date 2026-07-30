@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
-'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.15525235851291397
+'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1492692177997311
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0385231915148213
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0340359849742807
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.022385779424375
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.01902791251071875
