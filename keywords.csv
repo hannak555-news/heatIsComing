@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.2107147103791671
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2074651204675257
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.19514771824125862
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.1951477182412586
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.18970622981675167
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
