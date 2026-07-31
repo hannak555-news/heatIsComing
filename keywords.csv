@@ -45,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1449337803886008
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1434499091618938
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.14108471338573325
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1409184902541098
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
@@ -66,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0961385608459607
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0805905100859046
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
