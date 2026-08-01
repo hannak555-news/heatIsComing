@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,3,0.163935572142189
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
+'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.15642919348668757
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
-'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1361853587238341
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.06045274678287301
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.060452746782873
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571
