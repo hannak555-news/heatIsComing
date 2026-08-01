@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4096317844950627
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4015579274692049
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.3943067606842014
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3640251723017597
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3798407469110412
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.3259860905624938
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,3,0.163935572142189
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
-'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.15642919348668757
+'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1564291934866875
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
