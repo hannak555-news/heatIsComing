@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1255228743898862
-'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.12319371333031068
+'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1231937133303106
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1170859978791471
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
@@ -69,12 +69,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0805905100859046
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0702323401124156
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.06045274678287301
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571
