@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
-'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.30249372743266517
+'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.29479794604503806
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.2915361916583245
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.281954145225219
