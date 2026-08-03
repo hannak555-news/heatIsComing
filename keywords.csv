@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
-'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,1,0.0752282798633823
+'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.07980437379296587
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0702323401124156
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
