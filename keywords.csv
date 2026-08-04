@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.281954145225219
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2553159274196319
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
+'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.22617658050506978
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2169637026755255
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2093887002200787
-'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.1951477182412586
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1897062298167516
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.062895948076678
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.05822664353706606
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.058226643537066
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.051384834765442
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
