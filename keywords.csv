@@ -58,11 +58,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1307239504812331
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
+'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.12629315501545685
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1255228743898862
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1231937133303106
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
-'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1170859978791471
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
