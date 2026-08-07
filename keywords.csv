@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2265113800633658
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2112934714563448
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2093887002200787
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1897062298167516
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
@@ -30,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.1689586455636142
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
