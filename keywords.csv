@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.18326110024422815
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,3,0.163935572142189
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1568825427876097
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1564291934866875
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1492692177997311
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1434499091618938
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1409184902541098
