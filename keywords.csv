@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4096317844950627
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,3,0.3943067606842014
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3798407469110412
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3626503697124605
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3168980457141634
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
