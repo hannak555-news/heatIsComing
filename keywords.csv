@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4096317844950627
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3798407469110412
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3626503697124605
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3168980457141634
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.3138491194174972
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.17798039518706688
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1779803951870668
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.1699060886866281
