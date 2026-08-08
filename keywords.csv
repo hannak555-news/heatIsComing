@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.353035944008877
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3168980457141634
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.31384911941749727
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.3138491194174972
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2112934714563448
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.2093887002200787
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1897062298167516
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.17798039518706688
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.1699060886866281
