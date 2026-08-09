@@ -20,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.188376372835812
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
+'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.18564534262508425
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
-'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1409184902541098
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
