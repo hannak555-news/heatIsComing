@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4096317844950627
+'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3798407469110412
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
-'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.17943353093622305
+'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.179433530936223
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1779803951870668
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1748082037705581
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
