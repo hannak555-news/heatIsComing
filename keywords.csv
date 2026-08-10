@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3626503697124605
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.34370894014123626
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3168980457141634
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.3138491194174972
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.3028319585123699
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
