@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3631566624075454
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.3626503697124605
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.34370894014123626
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.3437089401412362
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3168980457141634
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
@@ -73,9 +73,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0702323401124156
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605603373701206
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.058226643537066
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.051384834765442
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.049492647006506095
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
