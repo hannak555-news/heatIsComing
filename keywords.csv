@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1669709542772632
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.16408060222813858
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.1640806022281385
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,3,0.163935572142189
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1568825427876097
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
-'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1362892878636893
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1231937133303106
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.117035840969447
+'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.11644595468413589
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
