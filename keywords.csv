@@ -51,9 +51,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
+'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.13659447661024293
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
-'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.131581648953227
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1307239504812331
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.09993052482402995
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0999305248240299
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0969263317646025
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
