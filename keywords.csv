@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.2262452953836339
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
 'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2170187033066871
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2112934714563448
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.2036535202437735
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2003370482049744
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.19838879008341131
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1897062298167516
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
