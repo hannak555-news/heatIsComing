@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.2262452953836339
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
-'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,3,0.2173075944656209
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2112934714563448
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.2036535202437735
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2003370482049744
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1856453426250842
 'globale Erwärmung',de,Causes,#F39C12,#b4b02b,2,0.1851286528435304
+'Erschöpfung Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.18471190529577777
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
