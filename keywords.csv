@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2112934714563448
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.2036535202437735
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.2003370482049744
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1983887900834113
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1897062298167516
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.17103656597422823
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
