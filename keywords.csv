@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
-'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.293420897947948
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
+'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.2743746682557558
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2574078697355144
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.2262452953836339
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.17103656597422823
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1710365659742282
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
