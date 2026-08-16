@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.1640806022281385
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,3,0.163935572142189
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1568825427876097
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.13961852689391774
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
