@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.2743746682557558
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2574078697355144
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.24682640534423883
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,2,0.2262452953836339
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2112934714563448
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.2036535202437735
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.1897062298167516
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
 'Hitzschlag',de,Impacts,#9B59B6,#cc99ff,2,0.1863301676678581
 'extreme Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.1856453426250842
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1415608528367949
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.13961852689391774
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.1396185268939177
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,1,0.1374695010722472
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
