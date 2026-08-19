@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
-'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.41317772295816174
+'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4131777229581617
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3965299375918681
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.3965299375918681
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3798407469110412
@@ -66,9 +66,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0999305248240299
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0969263317646025
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.08539100610042542
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0702323401124156
