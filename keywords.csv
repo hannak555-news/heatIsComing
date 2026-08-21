@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2574078697355144
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
+'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.24864170982880218
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2468264053442388
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
-'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2112934714563448
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,2,0.2036535202437735
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1923086360760888
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,3,0.163935572142189
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1629404779090481
-'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.16260038636946825
+'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1626003863694682
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1564291934866875
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
