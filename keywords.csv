@@ -27,9 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1825533638436268
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.17984750409555325
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.1798475040955532
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.179433530936223
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1779803951870668
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.15128333590900678
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
