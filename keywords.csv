@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.29215348412005077
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2921534841200507
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2574078697355144
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1825533638436268
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.17984750409555325
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.179433530936223
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1779803951870668
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
@@ -71,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0853910061004254
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.0702323401124156
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0614062494853998
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
