@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4216270449689829
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.4189878327776108
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.411942676043997
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.411942676043997
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.3798407469110412
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
