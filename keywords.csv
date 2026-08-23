@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.15128333590900678
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1512833359090067
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
@@ -73,12 +73,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0638311489173535
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0614062494853998
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.051384834765442
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.049492647006506
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.04574122225571
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0393093985955631
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
