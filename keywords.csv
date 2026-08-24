@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.48383842558824186
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4216270449689829
-'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.4189878327776108
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.411942676043997
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.411942676043997
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.179433530936223
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
-'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.17310576220720747
+'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1731057622072074
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1710365659742282
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
