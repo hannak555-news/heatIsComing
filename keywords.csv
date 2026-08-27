@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2468264053442388
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.21036599414222332
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1923086360760888
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.1396185268939177
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,1,0.1320371540710649
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
