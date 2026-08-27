@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.4838384255882418
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.44646633600103375
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.44646633600103375
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4216270449689829
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.411942676043997
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.411942676043997
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2468264053442388
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
-'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.21036599414222332
+'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.2103659941422233
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1923086360760888
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
