@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.4838384255882418
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.44646633600103375
-'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.44646633600103375
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.4464663360010337
+'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,3,0.4464663360010337
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4216270449689829
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1825533638436268
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.1798475040955532
-'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.179433530936223
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1731057622072074
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
+'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.15326956629578953
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1512833359090067
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
