@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.12859083552265568
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1285908355226556
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1262931550154568
@@ -78,9 +78,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.049492647006506
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0438271245506257
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0393093985955631
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.037403070868031844
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0247167371818722
