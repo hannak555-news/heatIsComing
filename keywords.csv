@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3351613765815712
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
+'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.29829274382064175
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2921534841200507
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
-'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.28748040726987567
-'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2574078697355144
+'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2874804072698756
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
