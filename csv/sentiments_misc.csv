@@ -1,899 +1,772 @@
 ,phrase,label,sentiment,subjectivity,language,count
-“,“,MISC,-0.04073033707865181,1.601123595505618,de,488.79999999999706
+“,“,MISC,-0.00668449197860984,1.6042780748663101,de,522.4999999999962
 "Link
 ","Link
-",MISC,,,de,268.3000000000011
+",MISC,,,de,269.20000000000107
 Hitzewelle“,Hitzewelle“,MISC,,,de,42.39999999999996
-Wetter“,Wetter“,MISC,,,de,35.099999999999994
-Google,Google,MISC,,,de,32.79999999999998
-Trockenheit“,Trockenheit“,MISC,,,de,31.59999999999998
-Berliner,Berliner,MISC,,,de,29.599999999999987
-deutschen,deutschen,MISC,,,de,28.299999999999994
-deutsche,deutsche,MISC,,,de,25.499999999999993
+Wetter“,Wetter“,MISC,,,de,35.89999999999999
+Google,Google,MISC,,,de,33.59999999999998
+Trockenheit“,Trockenheit“,MISC,,,de,32.49999999999998
+Berliner,Berliner,MISC,,,de,30.499999999999986
+deutschen,deutschen,MISC,,,de,30.09999999999999
+deutsche,deutsche,MISC,,,de,28.19999999999999
+Deutsche,Deutsche,MISC,,,de,18.2
+Hitze“,Hitze“,MISC,,,de,17.400000000000002
 Saharastaub,Saharastaub,MISC,-0.11471861471861466,0.0,de,17.200000000000003
-Hitze“,Hitze“,MISC,,,de,16.500000000000004
 Schweizer,Schweizer,MISC,,,de,15.900000000000004
+französischen,französischen,MISC,,,de,15.100000000000003
 Münchner,Münchner,MISC,,,de,14.800000000000004
-Deutsche,Deutsche,MISC,,,de,14.800000000000002
 French Open,French Open,MISC,,,de,14.600000000000005
 europäischen,europäischen,MISC,,,de,14.300000000000004
 Zeit,Zeit,MISC,,,de,14.200000000000003
 Klimawandel“,Klimawandel“,MISC,,,de,13.200000000000003
+Temperaturanstieg,Temperaturanstieg,MISC,,,de,12.500000000000004
 Deutschen,Deutschen,MISC,,,de,12.500000000000002
-französischen,französischen,MISC,,,de,12.400000000000002
-Hitzewelle,Hitzewelle,MISC,-0.0341981132075472,0.023584905660377378,de,11.800000000000002
 Klimaschutz“,Klimaschutz“,MISC,,,de,11.800000000000002
+Hitzewelle,Hitzewelle,MISC,-0.03348729792147809,0.023094688221709028,de,11.800000000000002
 europäische,europäische,MISC,,,de,10.800000000000002
 Pfingsten,Pfingsten,MISC,,,de,10.500000000000002
 Hitzewelle des Jahres,Hitzewelle des Jahres,MISC,,,de,9.9
-Temperaturanstieg,Temperaturanstieg,MISC,,,de,9.800000000000002
 Deutscher,Deutscher,MISC,,,de,9.800000000000002
-…,…,MISC,0.012463343108504409,0.0,de,9.8
+…,…,MISC,0.011691884456671256,0.0,de,9.8
+hessischen,hessischen,MISC,,,de,9.700000000000003
 spanische,spanische,MISC,,,de,9.200000000000001
 ePaper,ePaper,MISC,,,de,9.100000000000001
-hessischen,hessischen,MISC,,,de,8.800000000000002
 Rekordhitze,Rekordhitze,MISC,0.35,0.5,de,8.800000000000002
 sächsischen,sächsischen,MISC,,,de,8.200000000000001
 hessische,hessische,MISC,,,de,8.1
+El Niño,El Niño,MISC,-0.17283950617283947,0.03086419753086419,de,8.000000000000002
 ’s,’s,MISC,,,de,7.900000000000001
+spanischen,spanischen,MISC,,,de,7.300000000000001
+d…,d…,MISC,-0.12068965517241378,0.0,de,7.300000000000001
 französische,französische,MISC,,,de,7.300000000000001
 CO₂-Emissionen,CO₂-Emissionen,MISC,,,de,7.200000000000001
+sozialen,sozialen,MISC,,,de,7.1000000000000005
 S…,S…,MISC,,,de,7.1000000000000005
 World Weather Attribution,World Weather Attribution,MISC,,,de,7.1
-Sachsen,Sachsen,MISC,0.005791505791505797,0.0,de,6.999999999999999
+Tour de France,Tour de France,MISC,,,de,7.000000000000001
+Sachsen,Sachsen,MISC,0.005607476635514024,0.0,de,6.999999999999999
+Wiener,Wiener,MISC,,,de,6.9
 WM,WM,MISC,,,de,6.8999999999999995
-Hitze,Hitze,MISC,0.007981755986316992,0.011402508551881418,de,6.800000000000001
+Hitze,Hitze,MISC,0.007534983853606028,0.010764262648008612,de,6.800000000000001
 CO2,CO2,MISC,,,de,6.6000000000000005
-d…,d…,MISC,-0.12068965517241378,0.0,de,6.4
-Sommertage,Sommertage,MISC,,,de,6.4
-Berliner Senat,Berliner Senat,MISC,,,de,6.4
+Greenpeace,Greenpeace,MISC,0.1328125,0.3125,de,6.4
 Southside-Festival,Southside-Festival,MISC,-0.04741379310344826,0.0,de,6.4
-spanischen,spanischen,MISC,,,de,6.4
+Berliner Senat,Berliner Senat,MISC,,,de,6.4
+Sommertage,Sommertage,MISC,,,de,6.4
 britische,britische,MISC,,,de,6.3
-El Niño,El Niño,MISC,-0.3299663299663299,0.03367003367003366,de,6.200000000000001
-sozialen,sozialen,MISC,,,de,6.2
 österreichischen,österreichischen,MISC,,,de,6.1000000000000005
-Wiener,Wiener,MISC,,,de,6.1000000000000005
 Tages,Tages,MISC,,,de,5.8
 Fußball-WM,Fußball-WM,MISC,,,de,5.7
-brandenburgischen,brandenburgischen,MISC,,,de,5.5
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,5.5
-griechischen,griechischen,MISC,,,de,5.5
 Der Klimawandel,Der Klimawandel,MISC,,,de,5.5
 österreichische,österreichische,MISC,,,de,5.5
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,5.5
+griechischen,griechischen,MISC,,,de,5.5
+Klimawandels“,Klimawandels“,MISC,,,de,5.5
+brandenburgischen,brandenburgischen,MISC,,,de,5.5
 brasilianischen,brasilianischen,MISC,,,de,5.400000000000001
+Hamburger,Hamburger,MISC,,,de,5.4
 COP30,COP30,MISC,1.9,0.5,de,5.4
 Wettervorhersage“,Wettervorhersage“,MISC,,,de,5.4
-Hamburger,Hamburger,MISC,,,de,5.4
-Tour de France,Tour de France,MISC,,,de,5.2
 Kommunen,Kommunen,MISC,0.0,0.0,de,4.8
-Waldbrände in Europa,Waldbrände in Europa,MISC,,,de,4.6
+Londoner,Londoner,MISC,,,de,4.6
+Die Gefahr von Waldbränden,Die Gefahr von Waldbränden,MISC,,,de,4.6
+Amazon,Amazon,MISC,,,de,4.6
+Konferenz in Berlin,Konferenz in Berlin,MISC,,,de,4.6
+Waldbrände in Südeuropa,Waldbrände in Südeuropa,MISC,,,de,4.6
+deutscher,deutscher,MISC,,,de,4.6
 Die Hitzewelle,Die Hitzewelle,MISC,,,de,4.6
 rheinland-pfälzischen,rheinland-pfälzischen,MISC,,,de,4.6
-Londoner,Londoner,MISC,,,de,4.6
-Amazon,Amazon,MISC,,,de,4.6
-Klimawandels“,Klimawandels“,MISC,,,de,4.6
-Konferenz in Berlin,Konferenz in Berlin,MISC,,,de,4.6
-nan,nan,MISC,-0.05263157894736843,0.17543859649122806,de,4.5
-Juni-Rekord,Juni-Rekord,MISC,0.0,0.0,de,4.5
+Waldbrände in Europa,Waldbrände in Europa,MISC,,,de,4.6
 Ostern,Ostern,MISC,-0.3684210526315789,0.0,de,4.5
-26.06.2026,26.06.2026,MISC,,,de,4.5
 Zürcher,Zürcher,MISC,,,de,4.5
+Juni-Rekord,Juni-Rekord,MISC,0.0,0.0,de,4.5
+26.06.2026,26.06.2026,MISC,,,de,4.5
+nan,nan,MISC,-0.05263157894736843,0.17543859649122806,de,4.5
 bayerische,bayerische,MISC,,,de,4.4
 Die Hitze,Die Hitze,MISC,,,de,4.3999999999999995
 japanischen,japanischen,MISC,,,de,4.3
 Super-El-Niño,Super-El-Niño,MISC,,,de,3.8000000000000003
-Die Gefahr von Waldbränden,Die Gefahr von Waldbränden,MISC,,,de,3.6999999999999997
+Ortsbesuch,Ortsbesuch,MISC,,,de,3.6999999999999997
 stern+,stern+,MISC,,,de,3.6999999999999997
-Heat Dome“,Heat Dome“,MISC,,,de,3.6999999999999997
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,3.6999999999999997
-Euro,Euro,MISC,,,de,3.6999999999999997
-stern+statt,stern+statt,MISC,,,de,3.6999999999999997
-imageBROKER,imageBROKER,MISC,,,de,3.6999999999999997
-Sommerwetter“,Sommerwetter“,MISC,,,de,3.6999999999999997
 Tag,Tag,MISC,2.0999999999999996,0.0,de,3.6999999999999997
-z…,z…,MISC,0.18421052631578946,0.2368421052631579,de,3.6999999999999997
-amerikanische,amerikanische,MISC,,,de,3.6999999999999997
-Greenpeace,Greenpeace,MISC,0.1847826086956522,0.0,de,3.6999999999999997
-Waldbrände in Patagonien,Waldbrände in Patagonien,MISC,,,de,3.6999999999999997
+Klimaanlagen-Nutzung,Klimaanlagen-Nutzung,MISC,,,de,3.6999999999999997
 dpa,dpa,MISC,,,de,3.6999999999999997
+Hitze super,Hitze super,MISC,,,de,3.6999999999999997
+stern+statt,stern+statt,MISC,,,de,3.6999999999999997
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,3.6999999999999997
+z…,z…,MISC,0.18421052631578946,0.2368421052631579,de,3.6999999999999997
+Heat Dome“,Heat Dome“,MISC,,,de,3.6999999999999997
+Euro,Euro,MISC,,,de,3.6999999999999997
+amerikanische,amerikanische,MISC,,,de,3.6999999999999997
+Trump,Trump,MISC,0.0,0.0,de,3.6999999999999997
+Sommerwetter“,Sommerwetter“,MISC,,,de,3.6999999999999997
+Sommerliches Wetter,Sommerliches Wetter,MISC,,,de,3.6999999999999997
 Jahr 2030,Jahr 2030,MISC,,,de,3.6999999999999997
 Copernicus-Klimabericht,Copernicus-Klimabericht,MISC,,,de,3.6999999999999997
-Klimaanlagen-Nutzung,Klimaanlagen-Nutzung,MISC,,,de,3.6999999999999997
+imageBROKER,imageBROKER,MISC,,,de,3.6999999999999997
 A…,A…,MISC,,,de,3.6999999999999997
-Waldbrände in Südeuropa,Waldbrände in Südeuropa,MISC,,,de,3.6999999999999997
-Trump,Trump,MISC,0.0,0.0,de,3.6999999999999997
-Ostermontag,Ostermontag,MISC,,,de,3.6999999999999997
-Sommerliches Wetter,Sommerliches Wetter,MISC,,,de,3.6999999999999997
-Ortsbesuch,Ortsbesuch,MISC,,,de,3.6999999999999997
-Tag in Deutschland,Tag in Deutschland,MISC,,,de,3.6999999999999997
 britischen,britischen,MISC,,,de,3.6999999999999997
-Hitze super,Hitze super,MISC,,,de,3.6999999999999997
-Der menschengemachte Klimawandel,Der menschengemachte Klimawandel,MISC,,,de,3.6
+Tag in Deutschland,Tag in Deutschland,MISC,,,de,3.6999999999999997
+Waldbrände in Patagonien,Waldbrände in Patagonien,MISC,,,de,3.6999999999999997
+Ostermontag,Ostermontag,MISC,,,de,3.6999999999999997
+Tennis-Turnier,Tennis-Turnier,MISC,,,de,3.6
 bayerischen,bayerischen,MISC,,,de,3.6
+DTM,DTM,MISC,,,de,3.6
 Internet,Internet,MISC,,,de,3.6
+Der menschengemachte Klimawandel,Der menschengemachte Klimawandel,MISC,,,de,3.6
 Tag des Jahres,Tag des Jahres,MISC,,,de,3.5999999999999996
 Hohe Temperaturen,Hohe Temperaturen,MISC,,,de,3.5
-Tennis-Turnier,Tennis-Turnier,MISC,,,de,3.5
-DTM,DTM,MISC,,,de,3.5
 indische,indische,MISC,,,de,3.5
+Droht der Erde,Droht der Erde,MISC,,,de,3.4000000000000004
 n…,n…,MISC,,,de,3.4000000000000004
 Wa…,Wa…,MISC,,,de,3.4000000000000004
-Droht der Erde,Droht der Erde,MISC,,,de,3.4000000000000004
 griechische,griechische,MISC,,,de,3.0
 CO2-Emissionen,CO2-Emissionen,MISC,,,de,2.9
-Fo…,Fo…,MISC,,,de,2.8
-baden-württembergischen,baden-württembergischen,MISC,,,de,2.8
-e…,e…,MISC,,,de,2.8
-Waldbrände in Bayern,Waldbrände in Bayern,MISC,,,de,2.8
-Deutschem,Deutschem,MISC,,,de,2.8
-Juni-Hitzewelle,Juni-Hitzewelle,MISC,,,de,2.8
-PortaSplit,PortaSplit,MISC,,,de,2.8
-Internationaler Tag des Waldes,Internationaler Tag des Waldes,MISC,,,de,2.8
-japanische,japanische,MISC,,,de,2.8
-Sommerurlaub,Sommerurlaub,MISC,1.263157894736842,0.0,de,2.8
-deutscher,deutscher,MISC,,,de,2.8
-Iran-Krieg,Iran-Krieg,MISC,,,de,2.8
-EU-Klimadienst Copernicus,EU-Klimadienst Copernicus,MISC,,,de,2.8
-TCL,TCL,MISC,,,de,2.8
-Löschen von Waldbränden,Löschen von Waldbränden,MISC,,,de,2.8
-Juni-Mittel der Jahre 1991,Juni-Mittel der Jahre 1991,MISC,,,de,2.8
-Festes de la Terra,Festes de la Terra,MISC,,,de,2.8
-Unsere Liebe Frau vom Schnee,Unsere Liebe Frau vom Schnee,MISC,,,de,2.8
-Tag lang Sonne,Tag lang Sonne,MISC,,,de,2.8
-Saharastaub“,Saharastaub“,MISC,,,de,2.8
-Wetter-Vorhersage,Wetter-Vorhersage,MISC,,,de,2.8
-kanadischen,kanadischen,MISC,,,de,2.8
-Das Wettermuster,Das Wettermuster,MISC,,,de,2.8
-DWD-Vorhersage,DWD-Vorhersage,MISC,,,de,2.8
-Der letzte Regen,Der letzte Regen,MISC,,,de,2.8
-Millio…,Millio…,MISC,,,de,2.8
-Prime Day,Prime Day,MISC,,,de,2.8
-Tage des Jahres,Tage des Jahres,MISC,,,de,2.8
-Paarungsrausch,Paarungsrausch,MISC,,,de,2.8
-Krieg,Krieg,MISC,,,de,2.8
-Wassersparen,Wassersparen,MISC,,,de,2.8
-Deutschland ächzt am Wochenende,Deutschland ächzt am Wochenende,MISC,,,de,2.8
-Qual,Qual,MISC,,,de,2.8
-Rekordwerten,Rekordwerten,MISC,,,de,2.8
 Greenpeace-Aktivisten,Greenpeace-Aktivisten,MISC,-0.8947368421052632,0.0,de,2.8
-Das Jahr 2025,Das Jahr 2025,MISC,,,de,2.8
-Bordbistro,Bordbistro,MISC,,,de,2.8
-Tag alte Temperaturrekord,Tag alte Temperaturrekord,MISC,,,de,2.8
-Garten-Experte,Garten-Experte,MISC,,,de,2.8
-Temperaturrekord für Berlin,Temperaturrekord für Berlin,MISC,,,de,2.8
-Super-El Niño,Super-El Niño,MISC,,,de,2.8
-Sonnenschein,Sonnenschein,MISC,0.5,0.0,de,2.8
+Krieg,Krieg,MISC,,,de,2.8
+Internationaler Tag des Waldes,Internationaler Tag des Waldes,MISC,,,de,2.8
+Millio…,Millio…,MISC,,,de,2.8
+Tage des Jahres,Tage des Jahres,MISC,,,de,2.8
+Waldbrandgefahr,Waldbrandgefahr,MISC,0.0,0.0,de,2.8
+Iran-Krieg,Iran-Krieg,MISC,,,de,2.8
 Unwetter in der Ägäis,Unwetter in der Ägäis,MISC,,,de,2.8
-Umfrage,Umfrage,MISC,0.0,0.0,de,2.8
-NINA,NINA,MISC,,,de,2.8
+Saharastaub“,Saharastaub“,MISC,,,de,2.8
+Super-El Niño,Super-El Niño,MISC,,,de,2.8
+kanadischen,kanadischen,MISC,,,de,2.8
+TCL,TCL,MISC,,,de,2.8
+DWD-Vorhersage,DWD-Vorhersage,MISC,,,de,2.8
+Sonnenschein,Sonnenschein,MISC,0.5,0.0,de,2.8
 UPDATE startest du jeden Morgen,UPDATE startest du jeden Morgen,MISC,,,de,2.8
-sozialer,sozialer,MISC,,,de,2.7
+Der letzte Regen,Der letzte Regen,MISC,,,de,2.8
+Sommerurlaub,Sommerurlaub,MISC,1.263157894736842,0.0,de,2.8
+Festes de la Terra,Festes de la Terra,MISC,,,de,2.8
+Pariser Abkommen,Pariser Abkommen,MISC,,,de,2.8
+Wetter-Vorhersage,Wetter-Vorhersage,MISC,,,de,2.8
+Tag lang Sonne,Tag lang Sonne,MISC,,,de,2.8
+Juni-Hitzewelle,Juni-Hitzewelle,MISC,,,de,2.8
+Unsere Liebe Frau vom Schnee,Unsere Liebe Frau vom Schnee,MISC,,,de,2.8
+e…,e…,MISC,,,de,2.8
+Juni-Mittel der Jahre 1991,Juni-Mittel der Jahre 1991,MISC,,,de,2.8
+Das Jahr 2025,Das Jahr 2025,MISC,,,de,2.8
+Deutschem,Deutschem,MISC,,,de,2.8
+Fo…,Fo…,MISC,,,de,2.8
+japanische,japanische,MISC,,,de,2.8
+baden-württembergischen,baden-württembergischen,MISC,,,de,2.8
+Tag alte Temperaturrekord,Tag alte Temperaturrekord,MISC,,,de,2.8
+Löschen von Waldbränden,Löschen von Waldbränden,MISC,,,de,2.8
+Waldbrände in Bayern,Waldbrände in Bayern,MISC,,,de,2.8
+deutschen Grenze,deutschen Grenze,MISC,,,de,2.8
+Rekordwerten,Rekordwerten,MISC,,,de,2.8
+PortaSplit,PortaSplit,MISC,,,de,2.8
+EU-Klimadienst Copernicus,EU-Klimadienst Copernicus,MISC,,,de,2.8
+Wassersparen,Wassersparen,MISC,,,de,2.8
+Qual,Qual,MISC,,,de,2.8
+NINA,NINA,MISC,,,de,2.8
+Complexity Science Hub,Complexity Science Hub,MISC,,,de,2.8
+Umfrage,Umfrage,MISC,0.0,0.0,de,2.8
+Temperaturrekord für Berlin,Temperaturrekord für Berlin,MISC,,,de,2.8
+Garten-Experte,Garten-Experte,MISC,,,de,2.8
+Prime Day,Prime Day,MISC,,,de,2.8
+Das Wettermuster,Das Wettermuster,MISC,,,de,2.8
+Kabinettsklausur,Kabinettsklausur,MISC,,,de,2.8
+Paarungsrausch,Paarungsrausch,MISC,,,de,2.8
+Deutschland ächzt am Wochenende,Deutschland ächzt am Wochenende,MISC,,,de,2.8
+Bordbistro,Bordbistro,MISC,,,de,2.8
 Kieler Woche,Kieler Woche,MISC,,,de,2.7
-All…,All…,MISC,,,de,2.7
-sächsische,sächsische,MISC,,,de,2.7
-Klimakrise“,Klimakrise“,MISC,,,de,2.7
-nächsten Jahr,nächsten Jahr,MISC,,,de,2.7
-s…,s…,MISC,,,de,2.7
 Gletsc…,Gletsc…,MISC,,,de,2.7
+s…,s…,MISC,,,de,2.7
+sächsische,sächsische,MISC,,,de,2.7
 Hitzestress,Hitzestress,MISC,0.30434782608695654,0.0,de,2.7
-Notfälle“,Notfälle“,MISC,,,de,2.7
-Messungen,Messungen,MISC,,,de,2.7
-Wetterextreme“,Wetterextreme“,MISC,,,de,2.7
 Gesundheit“,Gesundheit“,MISC,,,de,2.7
-Rekord-Temperaturen,Rekord-Temperaturen,MISC,,,de,2.7
+All…,All…,MISC,,,de,2.7
 Deut…,Deut…,MISC,,,de,2.7
 Spiele,Spiele,MISC,,,de,2.7
-NRW-Analyse,NRW-Analyse,MISC,,,de,2.6
-Kurs,Kurs,MISC,,,de,2.6
-Hitzeinseln,Hitzeinseln,MISC,0.0,2.0,de,2.6
-Bundesl…,Bundesl…,MISC,,,de,2.6
-Dresdner Höfe,Dresdner Höfe,MISC,,,de,2.6
-Special Olympics,Special Olympics,MISC,,,de,2.6
-TTS-Player,TTS-Player,MISC,0.0,0.0,de,2.6
-Kokushobi”,Kokushobi”,MISC,,,de,2.6
-Rh…,Rh…,MISC,,,de,2.6
-Sächsische,Sächsische,MISC,,,de,2.6
-Senatsve…,Senatsve…,MISC,,,de,2.6
-Tag mit Temperaturen,Tag mit Temperaturen,MISC,,,de,2.6
+Dresdner Höfe,Dresdner Höfe,MISC,,,de,2.7
+Wetterextreme“,Wetterextreme“,MISC,,,de,2.7
+Klimakrise“,Klimakrise“,MISC,,,de,2.7
+Messungen,Messungen,MISC,,,de,2.7
+sozialer,sozialer,MISC,,,de,2.7
+Rekord-Temperaturen,Rekord-Temperaturen,MISC,,,de,2.7
+Notfälle“,Notfälle“,MISC,,,de,2.7
+nächsten Jahr,nächsten Jahr,MISC,,,de,2.7
 Australian Open,Australian Open,MISC,0.0,0.0,de,2.6
-UNO-Umweltprogramms,UNO-Umweltprogramms,MISC,,,de,2.0
+Rh…,Rh…,MISC,,,de,2.6
+Bundesl…,Bundesl…,MISC,,,de,2.6
+NRW-Analyse,NRW-Analyse,MISC,,,de,2.6
+Hitzeinseln,Hitzeinseln,MISC,0.0,2.0,de,2.6
+TTS-Player,TTS-Player,MISC,0.0,0.0,de,2.6
+Sächsische,Sächsische,MISC,,,de,2.6
+Kurs,Kurs,MISC,,,de,2.6
+Special Olympics,Special Olympics,MISC,,,de,2.6
+Kokushobi”,Kokushobi”,MISC,,,de,2.6
+Adobe Firefly,Adobe Firefly,MISC,,,de,2.6
+Tag mit Temperaturen,Tag mit Temperaturen,MISC,,,de,2.6
+Senatsve…,Senatsve…,MISC,,,de,2.6
 UNO-Aktionsplan,UNO-Aktionsplan,MISC,,,de,2.0
+UNO-Umweltprogramms,UNO-Umweltprogramms,MISC,,,de,2.0
 W…,W…,MISC,0.0,2.0,de,1.9
-Ver­kehrs­mi­nis­te­r,Ver­kehrs­mi­nis­te­r,MISC,,,de,1.9
-EPA,EPA,MISC,,,de,1.9
-Lü…,Lü…,MISC,,,de,1.9
-Im vergangenen Jahr,Im vergangenen Jahr,MISC,,,de,1.9
-Fußball-WM in den USA,Fußball-WM in den USA,MISC,,,de,1.9
-For­sche­r,For­sche­r,MISC,,,de,1.9
-Klimaschutzziel,Klimaschutzziel,MISC,,,de,1.9
-Nachbarn,Nachbarn,MISC,,,de,1.9
-Infotainment-Plattform Android Auto,Infotainment-Plattform Android Auto,MISC,,,de,1.9
-Milliarden Liter Benzin,Milliarden Liter Benzin,MISC,,,de,1.9
-Österreichische,Österreichische,MISC,,,de,1.9
-Klimawandel-Initiative,Klimawandel-Initiative,MISC,,,de,1.9
-Wetterbericht“,Wetterbericht“,MISC,,,de,1.9
-Vorjahres,Vorjahres,MISC,,,de,1.9
-Deutschland ächzt unter der Hitze,Deutschland ächzt unter der Hitze,MISC,,,de,1.9
-Härtetest,Härtetest,MISC,,,de,1.9
-argentinische,argentinische,MISC,,,de,1.9
-Klimaschutz-Aktion,Klimaschutz-Aktion,MISC,,,de,1.9
-Hamburger Halbmarathon,Hamburger Halbmarathon,MISC,,,de,1.9
+TU,TU,MISC,0.0,0.0,de,1.9
 di…,di…,MISC,,,de,1.9
-Verkehrswende»-Volksbegehren,Verkehrswende»-Volksbegehren,MISC,,,de,1.9
-Karlsruhe,Karlsruhe,MISC,,,de,1.9
-Weltklimas,Weltklimas,MISC,,,de,1.9
-Warme Luft,Warme Luft,MISC,,,de,1.9
-Milchige Sonne,Milchige Sonne,MISC,,,de,1.9
-Waldschäden,Waldschäden,MISC,,,de,1.9
-Der stille Killer,Der stille Killer,MISC,,,de,1.9
-Erderhitzung,Erderhitzung,MISC,,,de,1.9
-Wetter-Wende,Wetter-Wende,MISC,,,de,1.9
-Soziale,Soziale,MISC,,,de,1.9
-milchig-trüb,milchig-trüb,MISC,,,de,1.9
-Farbspiele,Farbspiele,MISC,,,de,1.9
-"Heiß, heißer","Heiß, heißer",MISC,,,de,1.9
-Wahlsonntag,Wahlsonntag,MISC,,,de,1.9
-Homeoffice,Homeoffice,MISC,-1.4,0.0,de,1.9
-Heizungsgesetzes,Heizungsgesetzes,MISC,,,de,1.9
-Kohlendioxid-Emissionen,Kohlendioxid-Emissionen,MISC,,,de,1.9
-Laufevent“,Laufevent“,MISC,,,de,1.9
-Hitze in Deutschland“,Hitze in Deutschland“,MISC,,,de,1.9
-Das Klassenzimmer,Das Klassenzimmer,MISC,,,de,1.9
-Bei Rekordtemperaturen“,Bei Rekordtemperaturen“,MISC,,,de,1.9
-Chinas 5-Jahres-Plan,Chinas 5-Jahres-Plan,MISC,,,de,1.9
-Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,1.9
-Österreichischen,Österreichischen,MISC,,,de,1.9
-Schü­le­r,Schü­le­r,MISC,,,de,1.9
-Alternativmedien,Alternativmedien,MISC,,,de,1.9
-CO₂-Zertifikaten,CO₂-Zertifikaten,MISC,,,de,1.9
-Bürger,Bürger,MISC,,,de,1.9
-schweizerischen,schweizerischen,MISC,,,de,1.9
-Woc…,Woc…,MISC,,,de,1.9
-Tag im Mai,Tag im Mai,MISC,,,de,1.9
-Die Toten,Die Toten,MISC,,,de,1.9
-Chile,Chile,MISC,0.0,0.0,de,1.9
-polnischer,polnischer,MISC,,,de,1.9
-Worst-Case-Szenario,Worst-Case-Szenario,MISC,,,de,1.9
-Gesetz starkgemacht,Gesetz starkgemacht,MISC,,,de,1.9
-Zahl der Toten,Zahl der Toten,MISC,,,de,1.9
-Vorläufige Wetterbilanz“,Vorläufige Wetterbilanz“,MISC,,,de,1.9
-Rotes Kreuz,Rotes Kreuz,MISC,,,de,1.9
-Im Jahr…,Im Jahr…,MISC,,,de,1.9
-Rheins,Rheins,MISC,0.0,0.0,de,1.9
-CO₂,CO₂,MISC,,,de,1.9
-Hitzewelle im Juni,Hitzewelle im Juni,MISC,,,de,1.9
-Irankrieg,Irankrieg,MISC,,,de,1.9
-Harley-Parade,Harley-Parade,MISC,,,de,1.9
-Die Trockenheit,Die Trockenheit,MISC,,,de,1.9
-ersten Waldbrand-Wochenende des Jahres,ersten Waldbrand-Wochenende des Jahres,MISC,,,de,1.9
-Heizungsgesetz,Heizungsgesetz,MISC,,,de,1.9
-Waldbrandgefahr,Waldbrandgefahr,MISC,0.0,0.0,de,1.9
-Special,Special,MISC,,,de,1.9
-Temp…,Temp…,MISC,,,de,1.9
 Kreditversicherer Allianz Trade,Kreditversicherer Allianz Trade,MISC,,,de,1.9
-DWD-Wetterstation,DWD-Wetterstation,MISC,,,de,1.9
-K…,K…,MISC,,,de,1.9
-märkische,märkische,MISC,,,de,1.9
-Sommertag …,Sommertag …,MISC,,,de,1.9
-Me…,Me…,MISC,,,de,1.9
-portugiesischen,portugiesischen,MISC,,,de,1.9
-Belastung,Belastung,MISC,,,de,1.9
-Xiaomi GentleAir,Xiaomi GentleAir,MISC,,,de,1.9
+Waldbrände in Frankreich“,Waldbrände in Frankreich“,MISC,,,de,1.9
+Tag im Mai,Tag im Mai,MISC,,,de,1.9
+Chinas 5-Jahres-Plan,Chinas 5-Jahres-Plan,MISC,,,de,1.9
 Jahre 2…,Jahre 2…,MISC,,,de,1.9
-Fraktionschefin Dröge,Fraktionschefin Dröge,MISC,,,de,1.9
-Rettungsdienste,Rettungsdienste,MISC,0.0,0.0,de,1.9
-Waldbrandgefahr“,Waldbrandgefahr“,MISC,,,de,1.9
-Fenster auf Kipp,Fenster auf Kipp,MISC,,,de,1.9
-Sonne Gesundheitsrisiko,Sonne Gesundheitsrisiko,MISC,,,de,1.9
-Kosslick,Kosslick,MISC,0.0,0.0,de,1.9
-Tag nach dem Temperaturrekord,Tag nach dem Temperaturrekord,MISC,,,de,1.9
-Klimakrise,Klimakrise,MISC,0.0,0.0,de,1.9
-Wetteraussichten“,Wetteraussichten“,MISC,,,de,1.9
-TurboCool-Nebelventilator-Serie,TurboCool-Nebelventilator-Serie,MISC,,,de,1.9
-Trierer Stadtlauf,Trierer Stadtlauf,MISC,,,de,1.9
-Polarkreis,Polarkreis,MISC,-0.19298245614035087,0.0,de,1.9
-09.07.2026,09.07.2026,MISC,,,de,1.9
-Unser Tipp,Unser Tipp,MISC,,,de,1.9
-Widerstand,Widerstand,MISC,,,de,1.9
-Extreme Hitzewelle“,Extreme Hitzewelle“,MISC,,,de,1.9
-Die Gefahr für Waldbrände,Die Gefahr für Waldbrände,MISC,,,de,1.9
-Zei…,Zei…,MISC,,,de,1.9
-RKI,RKI,MISC,,,de,1.9
-Meerestemperaturen,Meerestemperaturen,MISC,,,de,1.9
-Rekordtemperatur“,Rekordtemperatur“,MISC,,,de,1.9
-Jedes Jahr sterben Hunderte Menschen,Jedes Jahr sterben Hunderte Menschen,MISC,,,de,1.9
-Keine vier Jahre später,Keine vier Jahre später,MISC,,,de,1.9
-G…,G…,MISC,,,de,1.9
-Müll…,Müll…,MISC,,,de,1.9
-Regengüsse,Regengüsse,MISC,,,de,1.9
-Wetter-Alarm in der Ägäis,Wetter-Alarm in der Ägäis,MISC,,,de,1.9
-Hause,Hause,MISC,-0.7,0.0,de,1.9
-Hausgelse,Hausgelse,MISC,,,de,1.9
-Hitzewelle im Anmarsch,Hitzewelle im Anmarsch,MISC,,,de,1.9
-Tour-Etappe,Tour-Etappe,MISC,,,de,1.9
-Smart Home-Unternehmen SwitchBot,Smart Home-Unternehmen SwitchBot,MISC,,,de,1.9
-App Store,App Store,MISC,,,de,1.9
-InGreen City Awards,InGreen City Awards,MISC,,,de,1.9
-Gefährliches Wetter,Gefährliches Wetter,MISC,,,de,1.9
 Jugendsportspiele,Jugendsportspiele,MISC,,,de,1.9
-Vier Jahre später,Vier Jahre später,MISC,,,de,1.9
-Das Jahr 2026,Das Jahr 2026,MISC,,,de,1.9
+Schü­le­r,Schü­le­r,MISC,,,de,1.9
+Wahlsonntag,Wahlsonntag,MISC,,,de,1.9
+Farbspiele,Farbspiele,MISC,,,de,1.9
+Rheins,Rheins,MISC,0.0,0.0,de,1.9
+Feuerwolken,Feuerwolken,MISC,,,de,1.9
+Österreichischen,Österreichischen,MISC,,,de,1.9
+Vorläufige Wetterbilanz“,Vorläufige Wetterbilanz“,MISC,,,de,1.9
+milchig-trüb,milchig-trüb,MISC,,,de,1.9
+Infotainment-Plattform Android Auto,Infotainment-Plattform Android Auto,MISC,,,de,1.9
+Zahl der Toten,Zahl der Toten,MISC,,,de,1.9
+Woc…,Woc…,MISC,,,de,1.9
+Milliarden Liter Benzin,Milliarden Liter Benzin,MISC,,,de,1.9
+Brand-Evakuierten,Brand-Evakuierten,MISC,,,de,1.9
+Klimaschutzziel,Klimaschutzziel,MISC,,,de,1.9
+Harley-Parade,Harley-Parade,MISC,,,de,1.9
+Ver­kehrs­mi­nis­te­r,Ver­kehrs­mi­nis­te­r,MISC,,,de,1.9
+Keine vier Jahre später,Keine vier Jahre später,MISC,,,de,1.9
+Karlsruhe,Karlsruhe,MISC,,,de,1.9
+Trierer Stadtlauf,Trierer Stadtlauf,MISC,,,de,1.9
+Wetteraussichten“,Wetteraussichten“,MISC,,,de,1.9
+For­sche­r,For­sche­r,MISC,,,de,1.9
+Weltklimas,Weltklimas,MISC,,,de,1.9
+CO₂-Zertifikaten,CO₂-Zertifikaten,MISC,,,de,1.9
+CO₂,CO₂,MISC,,,de,1.9
+Bei Rekordtemperaturen“,Bei Rekordtemperaturen“,MISC,,,de,1.9
+Deu…,Deu…,MISC,,,de,1.9
+Anbaumethoden,Anbaumethoden,MISC,,,de,1.9
+Nachbarn,Nachbarn,MISC,,,de,1.9
+Härtetest,Härtetest,MISC,,,de,1.9
+Rotes Kreuz,Rotes Kreuz,MISC,,,de,1.9
+Hamburger Halbmarathon,Hamburger Halbmarathon,MISC,,,de,1.9
+Die Toten,Die Toten,MISC,,,de,1.9
+Fußball-WM in den USA,Fußball-WM in den USA,MISC,,,de,1.9
+Kosslick,Kosslick,MISC,0.0,0.0,de,1.9
+Sonne Gesundheitsrisiko,Sonne Gesundheitsrisiko,MISC,,,de,1.9
+Temperaturrekord,Temperaturrekord,MISC,0.0,0.0,de,1.9
+Deutschland ächzt unter der Hitze,Deutschland ächzt unter der Hitze,MISC,,,de,1.9
+Heizungsgesetzes,Heizungsgesetzes,MISC,,,de,1.9
+EPA,EPA,MISC,,,de,1.9
+Hitzewelle im Juni,Hitzewelle im Juni,MISC,,,de,1.9
+Laufevent“,Laufevent“,MISC,,,de,1.9
+Waldbrandgefahr“,Waldbrandgefahr“,MISC,,,de,1.9
+Im vergangenen Jahr,Im vergangenen Jahr,MISC,,,de,1.9
+Vorjahres,Vorjahres,MISC,,,de,1.9
+Wetterbericht“,Wetterbericht“,MISC,,,de,1.9
+Soziale,Soziale,MISC,,,de,1.9
+Erderhitzung,Erderhitzung,MISC,,,de,1.9
+Worst-Case-Szenario,Worst-Case-Szenario,MISC,,,de,1.9
+Lü…,Lü…,MISC,,,de,1.9
+Klimawandels,Klimawandels,MISC,0.3684210526315789,0.0,de,1.9
+Klimawandel-Initiative,Klimawandel-Initiative,MISC,,,de,1.9
+Gesetz starkgemacht,Gesetz starkgemacht,MISC,,,de,1.9
+portugiesischen,portugiesischen,MISC,,,de,1.9
+Milchige Sonne,Milchige Sonne,MISC,,,de,1.9
+Warme Luft,Warme Luft,MISC,,,de,1.9
+Extreme Hitzewelle“,Extreme Hitzewelle“,MISC,,,de,1.9
+Gefährliches Wetter,Gefährliches Wetter,MISC,,,de,1.9
+Waldschäden,Waldschäden,MISC,,,de,1.9
+Gefahr von Waldbränden“,Gefahr von Waldbränden“,MISC,,,de,1.9
+Hitzewelle im Anmarsch,Hitzewelle im Anmarsch,MISC,,,de,1.9
+Belastung,Belastung,MISC,,,de,1.9
+Im Jahr…,Im Jahr…,MISC,,,de,1.9
 widersprü…,widersprü…,MISC,,,de,1.9
 Kriegs im Iran,Kriegs im Iran,MISC,,,de,1.9
 Das Jahr 2024,Das Jahr 2024,MISC,,,de,1.9
+Irankrieg,Irankrieg,MISC,,,de,1.9
 N…,N…,MISC,,,de,1.9
 indischen,indischen,MISC,,,de,1.9
+i…,i…,MISC,,,de,1.9
 Nachhaltigkeitsberichte,Nachhaltigkeitsberichte,MISC,,,de,1.9
-Drei-Länder-WM,Drei-Länder-WM,MISC,,,de,1.9
-DWD-Prognose,DWD-Prognose,MISC,,,de,1.9
-Hitzewellen,Hitzewellen,MISC,-0.14925373134328354,0.0,de,1.9
-Hitze-Wochenende Ende Juni,Hitze-Wochenende Ende Juni,MISC,,,de,1.9
+Hausgelse,Hausgelse,MISC,,,de,1.9
 a…,a…,MISC,,,de,1.9
+Tour-Etappe,Tour-Etappe,MISC,,,de,1.9
+Chile,Chile,MISC,0.0,0.0,de,1.9
 H…,H…,MISC,,,de,1.9
 Br…,Br…,MISC,,,de,1.9
+Sommertag …,Sommertag …,MISC,,,de,1.9
+Das Jahr 2026,Das Jahr 2026,MISC,,,de,1.9
+Special,Special,MISC,,,de,1.9
+G…,G…,MISC,,,de,1.9
+Die Trockenheit,Die Trockenheit,MISC,,,de,1.9
+RKI,RKI,MISC,,,de,1.9
+märkische,märkische,MISC,,,de,1.9
+Xiaomi GentleAir,Xiaomi GentleAir,MISC,,,de,1.9
+Fraktionschefin Dröge,Fraktionschefin Dröge,MISC,,,de,1.9
+Meerestemperaturen,Meerestemperaturen,MISC,,,de,1.9
+09.07.2026,09.07.2026,MISC,,,de,1.9
+Polarkreis,Polarkreis,MISC,-0.19298245614035087,0.0,de,1.9
+Klimakrise,Klimakrise,MISC,0.0,0.0,de,1.9
+Tag nach dem Temperaturrekord,Tag nach dem Temperaturrekord,MISC,,,de,1.9
+Hitz…,Hitz…,MISC,,,de,1.9
+Vier Jahre später,Vier Jahre später,MISC,,,de,1.9
+TurboCool-Nebelventilator-Serie,TurboCool-Nebelventilator-Serie,MISC,,,de,1.9
+Heizungsgesetz,Heizungsgesetz,MISC,,,de,1.9
+Jedes Jahr sterben Hunderte Menschen,Jedes Jahr sterben Hunderte Menschen,MISC,,,de,1.9
+ersten Waldbrand-Wochenende des Jahres,ersten Waldbrand-Wochenende des Jahres,MISC,,,de,1.9
+Hitze-Wochenende Ende Juni,Hitze-Wochenende Ende Juni,MISC,,,de,1.9
+App Store,App Store,MISC,,,de,1.9
+Smart Home-Unternehmen SwitchBot,Smart Home-Unternehmen SwitchBot,MISC,,,de,1.9
+CDU-Politikerin,CDU-Politikerin,MISC,,,de,1.9
+Der stille Killer,Der stille Killer,MISC,,,de,1.9
+Drei-Länder-WM,Drei-Länder-WM,MISC,,,de,1.9
+DWD-Prognose,DWD-Prognose,MISC,,,de,1.9
 Carbon Neutrality Expo 2026,Carbon Neutrality Expo 2026,MISC,,,de,1.9
+Fenster auf Kipp,Fenster auf Kipp,MISC,,,de,1.9
+InGreen City Awards,InGreen City Awards,MISC,,,de,1.9
+Homeoffice,Homeoffice,MISC,-1.4,0.0,de,1.9
+Zei…,Zei…,MISC,,,de,1.9
 Brandbrief,Brandbrief,MISC,,,de,1.9
-Temperaturrekord,Temperaturrekord,MISC,0.0,0.0,de,1.9
+Kohlendioxid-Emissionen,Kohlendioxid-Emissionen,MISC,,,de,1.9
+Müll…,Müll…,MISC,,,de,1.9
+Temp…,Temp…,MISC,,,de,1.9
+schweizerischen,schweizerischen,MISC,,,de,1.9
+polnischer,polnischer,MISC,,,de,1.9
+Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,1.9
+Hause,Hause,MISC,-0.3684210526315789,0.0,de,1.9
+Wetter-Alarm in der Ägäis,Wetter-Alarm in der Ägäis,MISC,,,de,1.9
+K…,K…,MISC,,,de,1.9
+Verkehrswende»-Volksbegehren,Verkehrswende»-Volksbegehren,MISC,,,de,1.9
+Unser Tipp,Unser Tipp,MISC,,,de,1.9
+Widerstand,Widerstand,MISC,,,de,1.9
+Die Gefahr für Waldbrände,Die Gefahr für Waldbrände,MISC,,,de,1.9
+Hitzewellen,Hitzewellen,MISC,-0.13986013986013981,0.0,de,1.9
+DWD-Wetterstation,DWD-Wetterstation,MISC,,,de,1.9
+Hitze in Deutschland“,Hitze in Deutschland“,MISC,,,de,1.9
+Wetter-Wende,Wetter-Wende,MISC,,,de,1.9
+steirische,steirische,MISC,,,de,1.9
+Alternativmedien,Alternativmedien,MISC,,,de,1.9
+Rekordtemperatur“,Rekordtemperatur“,MISC,,,de,1.9
+Bürger,Bürger,MISC,,,de,1.9
+Me…,Me…,MISC,,,de,1.9
+Österreichische,Österreichische,MISC,,,de,1.9
+Regengüsse,Regengüsse,MISC,,,de,1.9
+Rettungsdienste,Rettungsdienste,MISC,0.0,0.0,de,1.9
+"Heiß, heißer","Heiß, heißer",MISC,,,de,1.9
+Das Klassenzimmer,Das Klassenzimmer,MISC,,,de,1.9
 Wi…,Wi…,MISC,,,de,1.9
-Jahr 2021,Jahr 2021,MISC,,,de,1.9
-Au…,Au…,MISC,,,de,1.9
-R…,R…,MISC,,,de,1.9
+SPD-Ministerien,SPD-Ministerien,MISC,,,de,1.9
+Brandgeruch von Waldbränden,Brandgeruch von Waldbränden,MISC,,,de,1.9
+Klimaschutz-Aktion,Klimaschutz-Aktion,MISC,,,de,1.9
+Swiss Re,Swiss Re,MISC,,,de,1.9
+Dieses Jahr,Dieses Jahr,MISC,,,de,1.9
+Feuerwerk bei Rhein,Feuerwerk bei Rhein,MISC,,,de,1.9
+TCL P09F4CW1,TCL P09F4CW1,MISC,,,de,1.9
 Blutregen“,Blutregen“,MISC,,,de,1.9
 Harry“,Harry“,MISC,,,de,1.9
-Pariser Abkommen,Pariser Abkommen,MISC,,,de,1.9
-Dieses Jahr,Dieses Jahr,MISC,,,de,1.9
-Schaumweins,Schaumweins,MISC,,,de,1.9
-Feuerwolken,Feuerwolken,MISC,,,de,1.9
-Zürichs Hausberg,Zürichs Hausberg,MISC,,,de,1.9
-Leitfaden,Leitfaden,MISC,,,de,1.9
-Wenig Schnee,Wenig Schnee,MISC,,,de,1.9
-deutschen Grenze,deutschen Grenze,MISC,,,de,1.9
-Feuerwerk bei Rhein,Feuerwerk bei Rhein,MISC,,,de,1.9
-Jahr 2025,Jahr 2025,MISC,,,de,1.9
-INTERVIEW,INTERVIEW,MISC,,,de,1.9
-TCL P09F4CW1,TCL P09F4CW1,MISC,,,de,1.9
 Der Wasserverbrauch,Der Wasserverbrauch,MISC,,,de,1.9
-Wasserverbrauch“,Wasserverbrauch“,MISC,,,de,1.9
 BTU,BTU,MISC,,,de,1.9
-Alpen-Hexenkraut im Jahr 2100,Alpen-Hexenkraut im Jahr 2100,MISC,,,de,1.9
-Eisbären,Eisbären,MISC,,,de,1.9
-Mens…,Mens…,MISC,,,de,1.9
-Portfolio,Portfolio,MISC,,,de,1.9
-UN-Bericht,UN-Bericht,MISC,,,de,1.9
-chilenische,chilenische,MISC,,,de,1.9
-Swiss Re,Swiss Re,MISC,,,de,1.9
-Anbaumethoden,Anbaumethoden,MISC,,,de,1.9
-unterfränkische,unterfränkische,MISC,,,de,1.9
 Hitzeaktionsplan“,Hitzeaktionsplan“,MISC,,,de,1.9
+Au…,Au…,MISC,,,de,1.9
+Leitfaden,Leitfaden,MISC,,,de,1.9
+Portfolio,Portfolio,MISC,,,de,1.9
+unterfränkische,unterfränkische,MISC,,,de,1.9
+Jahr 2021,Jahr 2021,MISC,,,de,1.9
+chilenische,chilenische,MISC,,,de,1.9
+Wasserverbrauch“,Wasserverbrauch“,MISC,,,de,1.9
+UN-Bericht,UN-Bericht,MISC,,,de,1.9
+Bränden,Bränden,MISC,0.0,0.0,de,1.9
 Potsdam-Instituts,Potsdam-Instituts,MISC,,,de,1.9
-SPD-Ministerien,SPD-Ministerien,MISC,,,de,1.9
-Zeit für Freibad,Zeit für Freibad,MISC,,,de,1.8
-Stiller Killer,Stiller Killer,MISC,,,de,1.8
-Unabhängigkeitstag,Unabhängigkeitstag,MISC,,,de,1.8
-ma…,ma…,MISC,,,de,1.8
-Freistaat“,Freistaat“,MISC,,,de,1.8
-V…,V…,MISC,,,de,1.8
-Berlins Koalition,Berlins Koalition,MISC,,,de,1.8
-Christopher Street Day,Christopher Street Day,MISC,,,de,1.8
-Dackel-Glück,Dackel-Glück,MISC,,,de,1.8
-Unabhängigkeitserklärung der Vereinigten Staaten,Unabhängigkeitserklärung der Vereinigten Staaten,MISC,,,de,1.8
-Hohe Temperaturen“,Hohe Temperaturen“,MISC,,,de,1.8
-h…,h…,MISC,,,de,1.8
-Klima-Kiste,Klima-Kiste,MISC,,,de,1.8
-Elektrolyt-Getränke,Elektrolyt-Getränke,MISC,,,de,1.8
-Das heiße Wetter,Das heiße Wetter,MISC,,,de,1.8
-Stiller Killer“,Stiller Killer“,MISC,,,de,1.8
-Fördergelder für Wärmepumpen,Fördergelder für Wärmepumpen,MISC,,,de,1.8
-Hit…,Hit…,MISC,,,de,1.8
-Was Hitze,Was Hitze,MISC,,,de,1.8
-Tour de France 2026,Tour de France 2026,MISC,,,de,1.8
-ORF.at,ORF.at,MISC,0.0,2.0,de,1.8
-Temperaturen,Temperaturen,MISC,0.0,0.0,de,1.8
-Wohnen“,Wohnen“,MISC,,,de,1.8
-Fußball-WM in Mexiko,Fußball-WM in Mexiko,MISC,,,de,1.8
+CSH,CSH,MISC,,,de,1.9
+Wenig Schnee,Wenig Schnee,MISC,,,de,1.9
+Eisbären,Eisbären,MISC,,,de,1.9
+Schaumweins,Schaumweins,MISC,,,de,1.9
+argentinische,argentinische,MISC,,,de,1.9
+Zürichs Hausberg,Zürichs Hausberg,MISC,,,de,1.9
+indonesischen,indonesischen,MISC,,,de,1.9
+AMooRe“,AMooRe“,MISC,,,de,1.9
+Jahr 2025,Jahr 2025,MISC,,,de,1.9
+Mens…,Mens…,MISC,,,de,1.9
+INTERVIEW,INTERVIEW,MISC,,,de,1.9
+Katastrophe für die Bienen,Katastrophe für die Bienen,MISC,,,de,1.9
+Alpen-Hexenkraut im Jahr 2100,Alpen-Hexenkraut im Jahr 2100,MISC,,,de,1.9
+R…,R…,MISC,,,de,1.9
 niedersächsischen,niedersächsischen,MISC,,,de,1.8
-Wetterdienst,Wetterdienst,MISC,0.3181818181818181,0.0,de,1.8
-NRW-Landesverwaltung,NRW-Landesverwaltung,MISC,,,de,1.8
 Sonne am Samstag und Sonntag,Sonne am Samstag und Sonntag,MISC,,,de,1.8
-Corona-Zeit,Corona-Zeit,MISC,,,de,1.8
-Heiße Tage,Heiße Tage,MISC,,,de,1.8
-Jahr 1848,Jahr 1848,MISC,,,de,1.8
-Hitzefolgen“,Hitzefolgen“,MISC,,,de,1.8
-schleswig-holsteinischen,schleswig-holsteinischen,MISC,,,de,1.8
+ma…,ma…,MISC,,,de,1.8
 australischen,australischen,MISC,,,de,1.8
-Hitze-Wochenende,Hitze-Wochenende,MISC,,,de,1.8
+CO2-Ausstoß,CO2-Ausstoß,MISC,,,de,1.8
 schleierhafte Wolkentuch,schleierhafte Wolkentuch,MISC,,,de,1.8
+NZZ-Daten,NZZ-Daten,MISC,,,de,1.8
+Unabhängigkeitserklärung der Vereinigten Staaten,Unabhängigkeitserklärung der Vereinigten Staaten,MISC,,,de,1.8
+Hitze-Wochenende,Hitze-Wochenende,MISC,,,de,1.8
+Stiller Killer“,Stiller Killer“,MISC,,,de,1.8
+Heiße Tage,Heiße Tage,MISC,,,de,1.8
+Hit…,Hit…,MISC,,,de,1.8
+Hitzefolgen“,Hitzefolgen“,MISC,,,de,1.8
+Fördergelder für Wärmepumpen,Fördergelder für Wärmepumpen,MISC,,,de,1.8
+Freistaat“,Freistaat“,MISC,,,de,1.8
+Was Hitze,Was Hitze,MISC,,,de,1.8
+Stiller Killer,Stiller Killer,MISC,,,de,1.8
+Zeit für Freibad,Zeit für Freibad,MISC,,,de,1.8
+schleswig-holsteinischen,schleswig-holsteinischen,MISC,,,de,1.8
+Berlins Koalition,Berlins Koalition,MISC,,,de,1.8
+V…,V…,MISC,,,de,1.8
 Meteorologen in Sorge,Meteorologen in Sorge,MISC,,,de,1.8
-Lan…,Lan…,MISC,,,de,1.8
-Filipiñana“,Filipiñana“,MISC,,,de,1.8
-TU,TU,MISC,0.0,0.0,de,1.8
-preußischen,preußischen,MISC,,,de,1.8
-Jahreshoch“,Jahreshoch“,MISC,,,de,1.8
+Corona-Zeit,Corona-Zeit,MISC,,,de,1.8
+Hohe Temperaturen“,Hohe Temperaturen“,MISC,,,de,1.8
 Klimakonferenz in Brasilien,Klimakonferenz in Brasilien,MISC,,,de,1.8
 Kieler,Kieler,MISC,,,de,1.8
-Leipziger,Leipziger,MISC,,,de,1.8
-NZZ-Daten,NZZ-Daten,MISC,,,de,1.8
+preußischen,preußischen,MISC,,,de,1.8
+Jahreshoch“,Jahreshoch“,MISC,,,de,1.8
+Tour de France 2026,Tour de France 2026,MISC,,,de,1.8
+Jahr 1848,Jahr 1848,MISC,,,de,1.8
+Christopher Street Day,Christopher Street Day,MISC,,,de,1.8
+Wetterdienst,Wetterdienst,MISC,0.3181818181818181,0.0,de,1.8
+NRW-Landesverwaltung,NRW-Landesverwaltung,MISC,,,de,1.8
+h…,h…,MISC,,,de,1.8
+Filipiñana“,Filipiñana“,MISC,,,de,1.8
+Elektrolyt-Getränke,Elektrolyt-Getränke,MISC,,,de,1.8
+Klima-Kiste,Klima-Kiste,MISC,,,de,1.8
+Lan…,Lan…,MISC,,,de,1.8
+Dackel-Glück,Dackel-Glück,MISC,,,de,1.8
+Fußball-WM in Mexiko,Fußball-WM in Mexiko,MISC,,,de,1.8
 Klub-WM,Klub-WM,MISC,,,de,1.8
+Leipziger,Leipziger,MISC,,,de,1.8
+ORF.at,ORF.at,MISC,0.0,2.0,de,1.8
+Unabhängigkeitstag,Unabhängigkeitstag,MISC,,,de,1.8
+jedes Jahr …,jedes Jahr …,MISC,,,de,1.8
 Rhein-Main-Region,Rhein-Main-Region,MISC,,,de,1.8
+Temperaturen,Temperaturen,MISC,0.0,0.0,de,1.8
+Wohnen“,Wohnen“,MISC,,,de,1.8
+Das heiße Wetter,Das heiße Wetter,MISC,,,de,1.8
 Pariser Klimaabkommen,Pariser Klimaabkommen,MISC,,,de,1.7
 TTS Player,TTS Player,MISC,,,de,1.6
 Zeit der Glühwürmchen,Zeit der Glühwürmchen,MISC,,,de,1.6
 Re…,Re…,MISC,,,de,1.3
 The King's Foundation,The King's Foundation,MISC,,,de,1.3
-Olympischer Spiele,Olympischer Spiele,MISC,,,de,1.2
-Kernfusion,Kernfusion,MISC,,,de,1.2
 DfB-Elf,DfB-Elf,MISC,,,de,1.2
-Klimaschutz-Optionen,Klimaschutz-Optionen,MISC,,,de,1.1
+Kernfusion,Kernfusion,MISC,,,de,1.2
+Olympischer Spiele,Olympischer Spiele,MISC,,,de,1.2
 Deutschland sucht nach Wegen,Deutschland sucht nach Wegen,MISC,,,de,1.1
-Hitzwelle“,Hitzwelle“,MISC,,,de,1.0
-U-Bahn-Tunnel,U-Bahn-Tunnel,MISC,,,de,1.0
-Tempe­raturen,Tempe­raturen,MISC,,,de,1.0
-Wie aus heißer Luft,Wie aus heißer Luft,MISC,,,de,1.0
-Rote Emma“,Rote Emma“,MISC,,,de,1.0
-Westeuropa so heiß,Westeuropa so heiß,MISC,,,de,1.0
-Erwärmung,Erwärmung,MISC,,,de,1.0
-Capri-)Sonne,Capri-)Sonne,MISC,,,de,1.0
-Vivantes-Kinderrettungsstellen,Vivantes-Kinderrettungsstellen,MISC,,,de,1.0
-Wassercent»-Erhöhung,Wassercent»-Erhöhung,MISC,,,de,1.0
-Ernte-Management,Ernte-Management,MISC,,,de,1.0
-Hitzeschutz“,Hitzeschutz“,MISC,,,de,1.0
-Exper…,Exper…,MISC,,,de,1.0
-E…,E…,MISC,,,de,1.0
-Unser Land,Unser Land,MISC,-0.18421052631578946,0.0,de,1.0
+Klimaschutz-Optionen,Klimaschutz-Optionen,MISC,,,de,1.1
+Hitzewelle in Deutschland“,Hitzewelle in Deutschland“,MISC,,,de,1.0
+Hitzeperiode,Hitzeperiode,MISC,-0.7,0.0,de,1.0
+yurchello108,yurchello108,MISC,,,de,1.0
+MunitionslagernZwei Waldbrände,MunitionslagernZwei Waldbrände,MISC,,,de,1.0
+stock.adobe.com,stock.adobe.com,MISC,0.0,0.0,de,1.0
+Rekord-Hitzewelle,Rekord-Hitzewelle,MISC,0.0,0.0,de,1.0
+Intensivmediziner,Intensivmediziner,MISC,,,de,1.0
+Zwei Männer sterben beim Baden in Berlin“,Zwei Männer sterben beim Baden in Berlin“,MISC,,,de,1.0
+Jungfernheideteich in…,Jungfernheideteich in…,MISC,,,de,1.0
+picture alliance/dpa/Se,picture alliance/dpa/Se,MISC,,,de,1.0
+Klimaanlagen-Diskussion,Klimaanlagen-Diskussion,MISC,,,de,1.0
+Leitstelle …,Leitstelle …,MISC,,,de,1.0
+Kühltechnik,Kühltechnik,MISC,,,de,1.0
 flächendec…,flächendec…,MISC,,,de,1.0
-Mein Tipp gegen die Hitze,Mein Tipp gegen die Hitze,MISC,,,de,1.0
-Aha-Erlebnis,Aha-Erlebnis,MISC,,,de,1.0
-Ein…,Ein…,MISC,,,de,1.0
-Adobe Firefly,Adobe Firefly,MISC,,,de,1.0
-Wochenende a…,Wochenende a…,MISC,,,de,1.0
-Erster hessischer Großelterntag,Erster hessischer Großelterntag,MISC,,,de,1.0
-Rettung …,Rettung …,MISC,,,de,1.0
-hessischer,hessischer,MISC,,,de,1.0
-Verfassung +++ Lkw-Fahrverbot,Verfassung +++ Lkw-Fahrverbot,MISC,,,de,1.0
-Hitzewelle in Europa,Hitzewelle in Europa,MISC,-0.35,0.0,de,1.0
-Wie das Land,Wie das Land,MISC,,,de,1.0
-Essen“,Essen“,MISC,,,de,1.0
-Auf Todesscheinen,Auf Todesscheinen,MISC,,,de,1.0
-Rekordtag,Rekordtag,MISC,0.0,0.0,de,1.0
-Hitze in Kliniken“,Hitze in Kliniken“,MISC,,,de,1.0
-Rufe nach Aufnahme von Hitzeschutz,Rufe nach Aufnahme von Hitzeschutz,MISC,,,de,1.0
-Rhein-Niedrigwasser,Rhein-Niedrigwasser,MISC,0.0,0.0,de,1.0
-Hitze-Aktionsplan,Hitze-Aktionsplan,MISC,,,de,1.0
-European Project on OsteoArthritis,European Project on OsteoArthritis,MISC,,,de,1.0
-Samstag u…,Samstag u…,MISC,,,de,1.0
-The race must go on,The race must go on,MISC,,,de,1.0
-Hitze-Wochenende ,Hitze-Wochenende ,MISC,,,de,1.0
-Dürre in Europa,Dürre in Europa,MISC,0.0,0.0,de,1.0
-ORF-Wetterredaktion,ORF-Wetterredaktion,MISC,,,de,1.0
-Hitzerekord-Wochenende,Hitzerekord-Wochenende,MISC,,,de,1.0
-Mittag“,Mittag“,MISC,,,de,1.0
-Die Gesundheit und Sicherheit,Die Gesundheit und Sicherheit,MISC,,,de,1.0
-Ironman Germany am Sonntag,Ironman Germany am Sonntag,MISC,,,de,1.0
-Entwarnung“,Entwarnung“,MISC,,,de,1.0
-Hitzestress und Niedrigwasser“,Hitzestress und Niedrigwasser“,MISC,,,de,1.0
-Langstrecken-Triathleten,Langstrecken-Triathleten,MISC,,,de,1.0
-Exp…,Exp…,MISC,,,de,1.0
-Spielplätze hitzefest,Spielplätze hitzefest,MISC,,,de,1.0
+Hitzesongs“,Hitzesongs“,MISC,,,de,1.0
+CSD,CSD,MISC,,,de,1.0
 KI-generiert,KI-generiert,MISC,,,de,1.0
-Hitzegipfel,Hitzegipfel,MISC,,,de,1.0
-STANDARD,STANDARD,MISC,,,de,1.0
-Blitze,Blitze,MISC,,,de,1.0
+Leider nein …,Leider nein …,MISC,,,de,1.0
+Aha-Erlebnis,Aha-Erlebnis,MISC,,,de,1.0
+Mein Tipp gegen die Hitze,Mein Tipp gegen die Hitze,MISC,,,de,1.0
+Exper…,Exper…,MISC,,,de,1.0
+AGES-Zählung,AGES-Zählung,MISC,,,de,1.0
+Weltkrieg,Weltkrieg,MISC,,,de,1.0
+Langstrecken-Triathleten,Langstrecken-Triathleten,MISC,,,de,1.0
+Mad Men,Mad Men,MISC,,,de,1.0
+Ironman Germany am Sonntag,Ironman Germany am Sonntag,MISC,,,de,1.0
+ORF-Wetterredaktion,ORF-Wetterredaktion,MISC,,,de,1.0
+Der brennende Hürtgenwald,Der brennende Hürtgenwald,MISC,,,de,1.0
+Tag am Meer“,Tag am Meer“,MISC,,,de,1.0
+nordrhein-westfälischen,nordrhein-westfälischen,MISC,,,de,1.0
+Manche Songs,Manche Songs,MISC,,,de,1.0
+So gehen Altenheime,So gehen Altenheime,MISC,,,de,1.0
+Meteorologen,Meteorologen,MISC,0.0,0.0,de,1.0
+Engelsflügel,Engelsflügel,MISC,,,de,1.0
+belgische,belgische,MISC,,,de,1.0
+Temperaturrekord i…,Temperaturrekord i…,MISC,,,de,1.0
+Feuers in der Eifel,Feuers in der Eifel,MISC,,,de,1.0
+Unte…,Unte…,MISC,,,de,1.0
+Temperaturrekord für Brandenburg,Temperaturrekord für Brandenburg,MISC,-0.3684210526315789,0.0,de,1.0
+me…,me…,MISC,,,de,1.0
+Rheinromantik,Rheinromantik,MISC,,,de,1.0
+Der Temperaturrekord für Brandenburg,Der Temperaturrekord für Brandenburg,MISC,,,de,1.0
+Höchstwert erreic…,Höchstwert erreic…,MISC,,,de,1.0
+Temperaturrekord für Hessen,Temperaturrekord für Hessen,MISC,,,de,1.0
+AfD-Demokratiekongress,AfD-Demokratiekongress,MISC,,,de,1.0
+Ein Überblick“,Ein Überblick“,MISC,,,de,1.0
+ka…,ka…,MISC,,,de,1.0
+Dem bösen,Dem bösen,MISC,,,de,1.0
+Fähren,Fähren,MISC,,,de,1.0
+Özdemir,Özdemir,MISC,,,de,1.0
+Smart Home,Smart Home,MISC,,,de,1.0
+soziale,soziale,MISC,,,de,1.0
+Waldbrände im Jahr 2025,Waldbrände im Jahr 2025,MISC,,,de,1.0
+Vorjahr,Vorjahr,MISC,0.0,1.0,de,1.0
+Weiße Fenster gegen Hitze,Weiße Fenster gegen Hitze,MISC,,,de,1.0
+Wie das Land,Wie das Land,MISC,,,de,1.0
+Hitze-Aktionsplan,Hitze-Aktionsplan,MISC,,,de,1.0
+Nacht he…,Nacht he…,MISC,,,de,1.0
+High-Deck-Siedlung,High-Deck-Siedlung,MISC,,,de,1.0
+Die Symptome von Sonnenstich und Hitzschlag,Die Symptome von Sonnenstich und Hitzschlag,MISC,,,de,1.0
+Zeit werd…,Zeit werd…,MISC,,,de,1.0
+Die bitte Wahrheit,Die bitte Wahrheit,MISC,,,de,1.0
+Anpassungsbedarf“,Anpassungsbedarf“,MISC,,,de,1.0
+Sturm“,Sturm“,MISC,,,de,1.0
+ver…,ver…,MISC,,,de,1.0
+Die Auslastung …,Die Auslastung …,MISC,,,de,1.0
+Vieh“,Vieh“,MISC,,,de,1.0
+Extremwetter in Europa“,Extremwetter in Europa“,MISC,,,de,1.0
+Diese Hitzewelle,Diese Hitzewelle,MISC,,,de,1.0
+Entwarnung“,Entwarnung“,MISC,,,de,1.0
+Extremtemperaturen“,Extremtemperaturen“,MISC,,,de,1.0
+Gratwanderung für Regierung,Gratwanderung für Regierung,MISC,,,de,1.0
+Wil…,Wil…,MISC,,,de,1.0
+Der grüne Apfel,Der grüne Apfel,MISC,,,de,1.0
+Äpfel kriegen Sonnenbrand,Äpfel kriegen Sonnenbrand,MISC,,,de,1.0
+Rote Emma“,Rote Emma“,MISC,,,de,1.0
+Wassercent»-Erhöhung,Wassercent»-Erhöhung,MISC,,,de,1.0
+Dürre in Europa,Dürre in Europa,MISC,0.0,0.0,de,1.0
+Ubimet,Ubimet,MISC,,,de,1.0
+Brände“,Brände“,MISC,,,de,1.0
+Rhein-Niedrigwasser,Rhein-Niedrigwasser,MISC,0.0,0.0,de,1.0
+Grünen-Politikerin Dröge,Grünen-Politikerin Dröge,MISC,-1.0,0.0,de,1.0
+Rufe nach Aufnahme von Hitzeschutz,Rufe nach Aufnahme von Hitzeschutz,MISC,,,de,1.0
+Verfassung +++ Lkw-Fahrverbot,Verfassung +++ Lkw-Fahrverbot,MISC,,,de,1.0
+nordrhein-westfälische,nordrhein-westfälische,MISC,,,de,1.0
+Hitzestress und Niedrigwasser“,Hitzestress und Niedrigwasser“,MISC,,,de,1.0
+Jahr zuvo…,Jahr zuvo…,MISC,,,de,1.0
+Split-Klimagerät,Split-Klimagerät,MISC,,,de,1.0
+ADAC-Pannenhelfer,ADAC-Pannenhelfer,MISC,,,de,1.0
+Tag eins,Tag eins,MISC,,,de,1.0
+Bund“,Bund“,MISC,,,de,1.0
 Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,1.0
-Traktor-Kabinen,Traktor-Kabinen,MISC,,,de,1.0
+Bra…,Bra…,MISC,,,de,1.0
+Emissionshandel“,Emissionshandel“,MISC,,,de,1.0
+Feuerwehrleu…,Feuerwehrleu…,MISC,,,de,1.0
+Echo,Echo,MISC,,,de,1.0
+Brandherd,Brandherd,MISC,,,de,1.0
+Hitzestress helfe…,Hitzestress helfe…,MISC,,,de,1.0
+PODCAST,PODCAST,MISC,,,de,1.0
+Blitze,Blitze,MISC,,,de,1.0
+Rot-Grün,Rot-Grün,MISC,,,de,1.0
+Heiße Stunden statt heißer Tage,Heiße Stunden statt heißer Tage,MISC,,,de,1.0
 Kuhstall,Kuhstall,MISC,,,de,1.0
 Jugendzeltlager“,Jugendzeltlager“,MISC,,,de,1.0
 Insti…,Insti…,MISC,,,de,1.0
-2026 g,2026 g,MISC,,,de,1.0
+Sonne und Hitze,Sonne und Hitze,MISC,,,de,1.0
 PV,PV,MISC,,,de,1.0
-Niedrigwasser-Krise,Niedrigwasser-Krise,MISC,,,de,1.0
+Kraftakt,Kraftakt,MISC,,,de,1.0
 Böige Winde lassen die Feuer,Böige Winde lassen die Feuer,MISC,,,de,1.0
-Niedrigwasser-Krise“,Niedrigwasser-Krise“,MISC,,,de,1.0
 Triathlon“,Triathlon“,MISC,,,de,1.0
-Dem bösen,Dem bösen,MISC,,,de,1.0
-Risiko,Risiko,MISC,0.0,0.2857142857142857,de,1.0
-Engelsflügel,Engelsflügel,MISC,,,de,1.0
-Aufträge für …,Aufträge für …,MISC,,,de,1.0
-PODCAST,PODCAST,MISC,,,de,1.0
-Hitzestress helfe…,Hitzestress helfe…,MISC,,,de,1.0
-WHO-Chef Tedros,WHO-Chef Tedros,MISC,,,de,1.0
+Feuerwehrleute kämpfen am Chiemsee,Feuerwehrleute kämpfen am Chiemsee,MISC,,,de,1.0
+Helfer,Helfer,MISC,,,de,1.0
+Nordost…,Nordost…,MISC,,,de,1.0
 Die Hitzewelle in Europa,Die Hitzewelle in Europa,MISC,,,de,1.0
+Die gefährliche Illusion,Die gefährliche Illusion,MISC,,,de,1.0
+Ein Schlafforscher,Ein Schlafforscher,MISC,,,de,1.0
+schwerer</li><li,schwerer</li><li,MISC,,,de,1.0
+beson…,beson…,MISC,,,de,1.0
+Die Gefahr steige,Die Gefahr steige,MISC,,,de,1.0
+Dusch-Trick,Dusch-Trick,MISC,,,de,1.0
+Guter Schlaf bei Hitze,Guter Schlaf bei Hitze,MISC,,,de,1.0
+Nur im Jahr 2003,Nur im Jahr 2003,MISC,,,de,1.0
 DWD-Bilanz“,DWD-Bilanz“,MISC,,,de,1.0
-oberösterreichischen,oberösterreichischen,MISC,,,de,1.0
+b…,b…,MISC,0.0,0.0,de,1.0
 Höchstwert…,Höchstwert…,MISC,,,de,1.0
-Frankfurter,Frankfurter,MISC,,,de,1.0
 Tagesspiegel-Leserinnen,Tagesspiegel-Leserinnen,MISC,,,de,1.0
 gesam…,gesam…,MISC,,,de,1.0
 Messstatio…,Messstatio…,MISC,,,de,1.0
-Nordost…,Nordost…,MISC,,,de,1.0
-Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1.0
-Helfer,Helfer,MISC,,,de,1.0
-Feuerwehrleute kämpfen am Chiemsee,Feuerwehrleute kämpfen am Chiemsee,MISC,,,de,1.0
-Geröll und Sand,Geröll und Sand,MISC,,,de,1.0
-Bra…,Bra…,MISC,,,de,1.0
-Feuerwehrleu…,Feuerwehrleu…,MISC,,,de,1.0
-CSU-Abgeor…,CSU-Abgeor…,MISC,,,de,1.0
-Brandherd,Brandherd,MISC,,,de,1.0
-picture alliance/dpa/Se,picture alliance/dpa/Se,MISC,,,de,1.0
-Pommes“,Pommes“,MISC,,,de,1.0
-CSD,CSD,MISC,,,de,1.0
-MunitionslagernZwei Waldbrände,MunitionslagernZwei Waldbrände,MISC,,,de,1.0
-Temperaturrekord für Brandenburg,Temperaturrekord für Brandenburg,MISC,-0.3684210526315789,0.0,de,1.0
-Unte…,Unte…,MISC,,,de,1.0
-Bio-Tierhaltung“,Bio-Tierhaltung“,MISC,,,de,1.0
-Risiken,Risiken,MISC,0.0,0.5263157894736842,de,1.0
-Die gefährliche Seite des Sommers,Die gefährliche Seite des Sommers,MISC,,,de,1.0
-elf Tagen da…,elf Tagen da…,MISC,,,de,1.0
-Temperaturrekord i…,Temperaturrekord i…,MISC,,,de,1.0
-Leitstelle …,Leitstelle …,MISC,,,de,1.0
-Meteorologen,Meteorologen,MISC,0.0,0.0,de,1.0
-So gehen Altenheime,So gehen Altenheime,MISC,,,de,1.0
-Temperatur-Rekorde,Temperatur-Rekorde,MISC,0.0,0.0,de,1.0
-Manche Songs,Manche Songs,MISC,,,de,1.0
-kommunistischen,kommunistischen,MISC,,,de,1.0
-Tag am Meer“,Tag am Meer“,MISC,,,de,1.0
-Hitzesongs“,Hitzesongs“,MISC,,,de,1.0
-08.08.2026,08.08.2026,MISC,,,de,1.0
-Todesopfer auf 31 ,Todesopfer auf 31 ,MISC,,,de,1.0
-Uni live“,Uni live“,MISC,,,de,1.0
-Fallout,Fallout,MISC,,,de,1.0
-Der Temperaturrekord für Brandenburg,Der Temperaturrekord für Brandenburg,MISC,,,de,1.0
-Hitzewelle in Deutschland“,Hitzewelle in Deutschland“,MISC,,,de,1.0
-Dürre in Deutschland,Dürre in Deutschland,MISC,,,de,1.0
-Hitzeperiode,Hitzeperiode,MISC,-0.7,0.0,de,1.0
-Rekord-Hitzewelle,Rekord-Hitzewelle,MISC,0.0,0.0,de,1.0
-Obdachlose und Hitze,Obdachlose und Hitze,MISC,,,de,1.0
-Tag in der prallen Sonne,Tag in der prallen Sonne,MISC,,,de,1.0
-Jungfernheideteich in…,Jungfernheideteich in…,MISC,,,de,1.0
-Zwei Männer sterben beim Baden in Berlin“,Zwei Männer sterben beim Baden in Berlin“,MISC,,,de,1.0
-yurchello108,yurchello108,MISC,,,de,1.0
-Höchstwert erreic…,Höchstwert erreic…,MISC,,,de,1.0
-stock.adobe.com,stock.adobe.com,MISC,0.0,0.0,de,1.0
-Nike-Schuhen,Nike-Schuhen,MISC,,,de,1.0
-Klimaanlagen-Diskussion,Klimaanlagen-Diskussion,MISC,,,de,1.0
-Kühltechnik,Kühltechnik,MISC,,,de,1.0
-RPG-Klassiker,RPG-Klassiker,MISC,,,de,1.0
-AfD-Demokratiekongress,AfD-Demokratiekongress,MISC,,,de,1.0
-Temperaturrekord für Hessen,Temperaturrekord für Hessen,MISC,,,de,1.0
-leiden unter der Hitze,leiden unter der Hitze,MISC,,,de,1.0
-Nervt total,Nervt total,MISC,,,de,1.0
-WM Gucken,WM Gucken,MISC,,,de,1.0
-Temperaturrekord für Juni,Temperaturrekord für Juni,MISC,,,de,1.0
-Bestpreis,Bestpreis,MISC,,,de,1.0
-Alexa,Alexa,MISC,,,de,1.0
-Prime-Day-Bestpreis,Prime-Day-Bestpreis,MISC,,,de,1.0
-Ein Schreibtisch am Fenster,Ein Schreibtisch am Fenster,MISC,,,de,1.0
-Heat Dome,Heat Dome,MISC,,,de,1.0
-DATENANALYSE,DATENANALYSE,MISC,,,de,1.0
-UNO-Konferenz zur Wüstenbildung,UNO-Konferenz zur Wüstenbildung,MISC,,,de,1.0
-Höchstwert des Vorjahres,Höchstwert des Vorjahres,MISC,,,de,1.0
-Wetterlage,Wetterlage,MISC,,,de,1.0
-ver…,ver…,MISC,,,de,1.0
-COP17,COP17,MISC,,,de,1.0
-Grad i…,Grad i…,MISC,,,de,1.0
-US-Politik,US-Politik,MISC,,,de,1.0
-UNCCD,UNCCD,MISC,,,de,1.0
-schwedischen,schwedischen,MISC,,,de,1.0
-Mittwoch …,Mittwoch …,MISC,,,de,1.0
-Klimamodellen,Klimamodellen,MISC,,,de,1.0
-Obstbaubetriebe“,Obstbaubetriebe“,MISC,,,de,1.0
-Wasserkühlung,Wasserkühlung,MISC,,,de,1.0
-Orange Hitzewarnungen,Orange Hitzewarnungen,MISC,,,de,1.0
-Arbeitsrecht und Hitze,Arbeitsrecht und Hitze,MISC,,,de,1.0
-Wie heiß,Wie heiß,MISC,,,de,1.0
-US-amerikanische,US-amerikanische,MISC,,,de,1.0
-le…,le…,MISC,,,de,1.0
-Anzahl der Tage,Anzahl der Tage,MISC,,,de,1.0
-Zeit der Glühwürmchen“,Zeit der Glühwürmchen“,MISC,,,de,1.0
-"Haus
-","Haus
-",MISC,,,de,1.0
-SPD-Vorschlag,SPD-Vorschlag,MISC,,,de,1.0
-SPD-Minister im Bund,SPD-Minister im Bund,MISC,,,de,1.0
-Hitzewelle im Liveticker,Hitzewelle im Liveticker,MISC,,,de,1.0
-Grad Cels…,Grad Cels…,MISC,,,de,1.0
-Hitze und Dürre,Hitze und Dürre,MISC,,,de,1.0
-Samstag g…,Samstag g…,MISC,,,de,1.0
-Beachvolleyball-Landesmeisterschaft,Beachvolleyball-Landesmeisterschaft,MISC,,,de,1.0
-Großes Volkspark-Jubiläum,Großes Volkspark-Jubiläum,MISC,,,de,1.0
-"WWF
-","WWF
-",MISC,,,de,1.0
-Landeswasserverbandsta…,Landeswasserverbandsta…,MISC,,,de,1.0
-Die Gefahr für Waldbrände in Kärnten,Die Gefahr für Waldbrände in Kärnten,MISC,,,de,1.0
-Grundwasser-Stände,Grundwasser-Stände,MISC,,,de,1.0
-Apfelernte“,Apfelernte“,MISC,,,de,1.0
-Die Pegelstände am Rhein,Die Pegelstände am Rhein,MISC,,,de,1.0
-Extreme Hitze“,Extreme Hitze“,MISC,,,de,1.0
-Beschwerden über zu heiße Arbeitsbedin…,Beschwerden über zu heiße Arbeitsbedin…,MISC,,,de,1.0
-Das Wetter in Bayern“,Das Wetter in Bayern“,MISC,,,de,1.0
-Grundw…,Grundw…,MISC,,,de,1.0
-23.06.2026,23.06.2026,MISC,,,de,1.0
-Das fordern die Zürcher Schüler,Das fordern die Zürcher Schüler,MISC,,,de,1.0
-Zwei Kinder,Zwei Kinder,MISC,,,de,1.0
-Verbot“,Verbot“,MISC,,,de,1.0
-Feuersaison 2026,Feuersaison 2026,MISC,,,de,1.0
-beispielsweis…,beispielsweis…,MISC,,,de,1.0
-Erderhitzung und Flächenbrände“,Erderhitzung und Flächenbrände“,MISC,,,de,1.0
-Currywurst mit Pommes,Currywurst mit Pommes,MISC,,,de,1.0
-Gegensteu…,Gegensteu…,MISC,,,de,1.0
-heiß zum Lernen,heiß zum Lernen,MISC,,,de,1.0
-Kür,Kür,MISC,,,de,1.0
-deu…,deu…,MISC,,,de,1.0
-Deutschland sucht den Bundeskanzler,Deutschland sucht den Bundeskanzler,MISC,,,de,1.0
-Historische Hitzewelle“,Historische Hitzewelle“,MISC,,,de,1.0
-Rekordbrände in Belgien,Rekordbrände in Belgien,MISC,,,de,1.0
-Hitzeschutzplan,Hitzeschutzplan,MISC,,,de,1.0
-Spartipps“,Spartipps“,MISC,,,de,1.0
-Niedrigere Hopfenernte,Niedrigere Hopfenernte,MISC,,,de,1.0
-Google Gemini KI,Google Gemini KI,MISC,,,de,1.0
-Hitzeschutzplan“,Hitzeschutzplan“,MISC,,,de,1.0
-Wir werden mit Sicherheit,Wir werden mit Sicherheit,MISC,,,de,1.0
-Attributionsstudie“,Attributionsstudie“,MISC,,,de,1.0
-Besucherinnen u…,Besucherinnen u…,MISC,,,de,1.0
-Ökosysteme in Gefahr,Ökosysteme in Gefahr,MISC,,,de,1.0
-BAUERNREGEL,BAUERNREGEL,MISC,,,de,1.0
-Katholische,Katholische,MISC,,,de,1.0
-WWF-Bodenreport“,WWF-Bodenreport“,MISC,,,de,1.0
-Halbmarathon-Organisator,Halbmarathon-Organisator,MISC,,,de,1.0
-Resümee,Resümee,MISC,,,de,1.0
-Verbote,Verbote,MISC,,,de,1.0
-WWF-Bodenreports 2026,WWF-Bodenreports 2026,MISC,,,de,1.0
-Hitze und Kälte,Hitze und Kälte,MISC,,,de,1.0
-Temperaturanstiege,Temperaturanstiege,MISC,,,de,1.0
-paa…,paa…,MISC,,,de,1.0
-kons…,kons…,MISC,,,de,1.0
-Alarmstufe Orange,Alarmstufe Orange,MISC,,,de,1.0
-JD Vance’ Rolle,JD Vance’ Rolle,MISC,,,de,1.0
-Öl first,Öl first,MISC,,,de,1.0
-"Justin Sullivan/Getty Images
-","Justin Sullivan/Getty Images
-",MISC,,,de,1.0
-K.-o.-Runde …,K.-o.-Runde …,MISC,,,de,1.0
-CSH,CSH,MISC,,,de,1.0
+Der Großteil der besonders von Hitze,Der Großteil der besonders von Hitze,MISC,,,de,1.0
+UmdenkeN,UmdenkeN,MISC,,,de,1.0
 Ihr seid,Ihr seid,MISC,,,de,1.0
-Soziales“,Soziales“,MISC,,,de,1.0
-Guten Morgen,Guten Morgen,MISC,,,de,1.0
-Kraftakt,Kraftakt,MISC,,,de,1.0
-Grillverbote,Grillverbote,MISC,,,de,1.0
-Freizeitunfälle“,Freizeitunfälle“,MISC,,,de,1.0
-Berliner Wasserbetriebe“,Berliner Wasserbetriebe“,MISC,,,de,1.0
-Intensivmediziner,Intensivmediziner,MISC,,,de,1.0
-AGES-Zählung,AGES-Zählung,MISC,,,de,1.0
-Freitag k…,Freitag k…,MISC,,,de,1.0
-Hitzet…,Hitzet…,MISC,,,de,1.0
-nan Bund,nan Bund,MISC,,,de,1.0
-Rheinromantik,Rheinromantik,MISC,,,de,1.0
-me…,me…,MISC,,,de,1.0
-Feuers in der Eifel,Feuers in der Eifel,MISC,,,de,1.0
-Oracle,Oracle,MISC,,,de,1.0
-K.-o.-Runde,K.-o.-Runde,MISC,,,de,1.0
-Fitness,Fitness,MISC,,,de,1.0
-Extreme Temperaturen“,Extreme Temperaturen“,MISC,,,de,1.0
-Guter Schlaf bei Hitze,Guter Schlaf bei Hitze,MISC,,,de,1.0
-Urlaub,Urlaub,MISC,0.0,0.0,de,1.0
-Extremhitze-Wochenende,Extremhitze-Wochenende,MISC,,,de,1.0
-Beipackzettel,Beipackzettel,MISC,,,de,1.0
-Null Acht Neun,Null Acht Neun,MISC,,,de,1.0
-Vieh“,Vieh“,MISC,,,de,1.0
-Heiße Stunden statt heißer Tage,Heiße Stunden statt heißer Tage,MISC,,,de,1.0
-Junis,Junis,MISC,,,de,1.0
-Am Samstag,Am Samstag,MISC,,,de,1.0
-Deutschen Städtetages,Deutschen Städtetages,MISC,,,de,1.0
-beson…,beson…,MISC,,,de,1.0
-Städtetag-Vize,Städtetag-Vize,MISC,0.0,0.0,de,1.0
-Bibliotheksräume,Bibliotheksräume,MISC,,,de,1.0
-ZDF-Moderator,ZDF-Moderator,MISC,,,de,1.0
-Was die Hitze für Tiere und Getreide,Was die Hitze für Tiere und Getreide,MISC,,,de,1.0
-He…,He…,MISC,,,de,1.0
-WWA,WWA,MISC,,,de,1.0
-Complexity Science Hub,Complexity Science Hub,MISC,,,de,1.0
-Rechenzentren,Rechenzentren,MISC,0.0,0.0,de,1.0
-belgische,belgische,MISC,,,de,1.0
-CO₂-Anstieg,CO₂-Anstieg,MISC,,,de,1.0
-Elektrolyte-Haushalt,Elektrolyte-Haushalt,MISC,,,de,1.0
-Löschflugzeug-Perspektive,Löschflugzeug-Perspektive,MISC,,,de,1.0
+WHO-Chef Tedros,WHO-Chef Tedros,MISC,,,de,1.0
+Messbeginn im Jahr 1850,Messbeginn im Jahr 1850,MISC,,,de,1.0
+Adenauer-Benz Typ 300,Adenauer-Benz Typ 300,MISC,,,de,1.0
+Wasserentnahmeverbot“,Wasserentnahmeverbot“,MISC,,,de,1.0
 Hitze in Hamburg“,Hitze in Hamburg“,MISC,,,de,1.0
 kommende Jahr,kommende Jahr,MISC,,,de,1.0
 normal wär…,normal wär…,MISC,,,de,1.0
 DWD-Klimatologin,DWD-Klimatologin,MISC,,,de,1.0
-Bayerische,Bayerische,MISC,,,de,1.0
+beispielsweis…,beispielsweis…,MISC,,,de,1.0
 Ich liebe den Klimawandel,Ich liebe den Klimawandel,MISC,,,de,1.0
-Pro Pflanze,Pro Pflanze,MISC,,,de,1.0
 Weltmeisterschaft…,Weltmeisterschaft…,MISC,,,de,1.0
 Hitzewelle in NRW“,Hitzewelle in NRW“,MISC,,,de,1.0
-Wasserentnahmeverbot“,Wasserentnahmeverbot“,MISC,,,de,1.0
 Gefährliches Wetter“,Gefährliches Wetter“,MISC,,,de,1.0
-Messbeginn im Jahr 1850,Messbeginn im Jahr 1850,MISC,,,de,1.0
+Elektrolyte-Haushalt,Elektrolyte-Haushalt,MISC,,,de,1.0
+Erderhitzung und Flächenbrände“,Erderhitzung und Flächenbrände“,MISC,,,de,1.0
 CO₂ ,CO₂ ,MISC,,,de,1.0
 EU-Klimaziel,EU-Klimaziel,MISC,,,de,1.0
 Wolken und Regen,Wolken und Regen,MISC,,,de,1.0
 Gefahr für di…,Gefahr für di…,MISC,,,de,1.0
+"Justin Sullivan/Getty Images
+","Justin Sullivan/Getty Images
+",MISC,,,de,1.0
+Öl first,Öl first,MISC,,,de,1.0
+JD Vance’ Rolle,JD Vance’ Rolle,MISC,,,de,1.0
 Do…,Do…,MISC,,,de,1.0
-Liveblog,Liveblog,MISC,,,de,1.0
-nordrhein-westfälischen,nordrhein-westfälischen,MISC,,,de,1.0
-Video,Video,MISC,,,de,1.0
-Leider nein …,Leider nein …,MISC,,,de,1.0
-Weltkrieg,Weltkrieg,MISC,,,de,1.0
-burgenländischen,burgenländischen,MISC,,,de,1.0
+Feuersaison 2026,Feuersaison 2026,MISC,,,de,1.0
+Kür,Kür,MISC,,,de,1.0
+Grad Ce…,Grad Ce…,MISC,,,de,1.0
+Pariser Klimaabkommen 2015,Pariser Klimaabkommen 2015,MISC,,,de,1.0
 Sole,Sole,MISC,,,de,1.0
 Bayerisches,Bayerisches,MISC,,,de,1.0
 Dämmung,Dämmung,MISC,,,de,1.0
+WWF-Bodenreport“,WWF-Bodenreport“,MISC,,,de,1.0
+Resümee,Resümee,MISC,,,de,1.0
 Wasserverbot“,Wasserverbot“,MISC,,,de,1.0
 im Jahr 2015,im Jahr 2015,MISC,,,de,1.0
-Grad Ce…,Grad Ce…,MISC,,,de,1.0
 Jahr für Jahr neue Temperaturrekorde,Jahr für Jahr neue Temperaturrekorde,MISC,,,de,1.0
+Liveblog,Liveblog,MISC,,,de,1.0
 Hitzewelle am Wochenende“,Hitzewelle am Wochenende“,MISC,,,de,1.0
-Mad Men,Mad Men,MISC,,,de,1.0
+WWF-Bodenreports 2026,WWF-Bodenreports 2026,MISC,,,de,1.0
+Temperaturanstiege,Temperaturanstiege,MISC,,,de,1.0
+Spartipps“,Spartipps“,MISC,,,de,1.0
 Die vergangene Nacht,Die vergangene Nacht,MISC,,,de,1.0
-evangelische,evangelische,MISC,,,de,1.0
 Abkühlungsangebote,Abkühlungsangebote,MISC,,,de,1.0
-Der brennende Hürtgenwald,Der brennende Hürtgenwald,MISC,,,de,1.0
-Adenauer-Benz Typ 300,Adenauer-Benz Typ 300,MISC,,,de,1.0
-Nur im Jahr 2003,Nur im Jahr 2003,MISC,,,de,1.0
-Trinkwasser“,Trinkwasser“,MISC,,,de,1.0
-Dusch-Trick,Dusch-Trick,MISC,,,de,1.0
-Vorjahren,Vorjahren,MISC,,,de,1.0
-Preisvergleich,Preisvergleich,MISC,,,de,1.0
-Ecoflow Wave,Ecoflow Wave,MISC,,,de,1.0
-Dienstag,Dienstag,MISC,0.0,0.0,de,1.0
-Urlaubslektüre,Urlaubslektüre,MISC,,,de,1.0
-August-Wochenende,August-Wochenende,MISC,,,de,1.0
-Celsius star…,Celsius star…,MISC,,,de,1.0
-Wochenend-Ausflüglern,Wochenend-Ausflüglern,MISC,,,de,1.0
-Anrollende Hitzewelle,Anrollende Hitzewelle,MISC,,,de,1.0
-italienischen,italienischen,MISC,,,de,1.0
-super,super,MISC,,,de,1.0
-Italienische,Italienische,MISC,,,de,1.0
-Fünf Jahre nach der Ahrtal-Flut,Fünf Jahre nach der Ahrtal-Flut,MISC,,,de,1.0
-Notrufe…,Notrufe…,MISC,,,de,1.0
-Stufe 2,Stufe 2,MISC,,,de,1.0
-Killer“,Killer“,MISC,,,de,1.0
-Gewitter und Regen,Gewitter und Regen,MISC,,,de,1.0
-Landesfeuerwe…,Landesfeuerwe…,MISC,,,de,1.0
-Die Feldbrandgefahr,Die Feldbrandgefahr,MISC,,,de,1.0
-Natürlich müsst ihr die Ecoflow Wave 3,Natürlich müsst ihr die Ecoflow Wave 3,MISC,,,de,1.0
-Die Hitze und Trockenheit,Die Hitze und Trockenheit,MISC,,,de,1.0
-schwerer</li><li,schwerer</li><li,MISC,,,de,1.0
-Kabinett am Starnberger See“,Kabinett am Starnberger See“,MISC,,,de,1.0
-Absatz,Absatz,MISC,,,de,1.0
-Allein im Juni,Allein im Juni,MISC,,,de,1.0
-Wetter & Landwirtschaft“,Wetter & Landwirtschaft“,MISC,,,de,1.0
-Das Gelsenmonitoring,Das Gelsenmonitoring,MISC,,,de,1.0
-Was auf den Weiden,Was auf den Weiden,MISC,,,de,1.0
-steirische,steirische,MISC,,,de,1.0
-niederösterreichischen,niederösterreichischen,MISC,,,de,1.0
-Flurbrände auf Äckern,Flurbrände auf Äckern,MISC,,,de,1.0
-Angriff auf die Hitzeglocke,Angriff auf die Hitzeglocke,MISC,,,de,1.0
-Österreich…,Österreich…,MISC,,,de,1.0
-Krankenhäusern…,Krankenhäusern…,MISC,,,de,1.0
-End…,End…,MISC,0.0,0.0,de,1.0
-Report Mainz-Umfrage,Report Mainz-Umfrage,MISC,,,de,1.0
-Repo…,Repo…,MISC,,,de,1.0
-Tour de Natur“,Tour de Natur“,MISC,,,de,1.0
-Wetter am Wochenende,Wetter am Wochenende,MISC,,,de,1.0
-weiterlesenNach,weiterlesenNach,MISC,,,de,1.0
-Saunieren sta…,Saunieren sta…,MISC,,,de,1.0
-ka…,ka…,MISC,,,de,1.0
-Soja“,Soja“,MISC,,,de,1.0
-Hitzeschlags,Hitzeschlags,MISC,,,de,1.0
-Sachse…,Sachse…,MISC,,,de,1.0
-Deutsche Wetter…,Deutsche Wetter…,MISC,,,de,1.0
-Radsport,Radsport,MISC,,,de,1.0
-Wut un…,Wut un…,MISC,,,de,1.0
-Ihrem W…,Ihrem W…,MISC,,,de,1.0
-saarländischen,saarländischen,MISC,,,de,1.0
-Jedes Jahr erliegen Tausende Menschen der Hitze,Jedes Jahr erliegen Tausende Menschen der Hitze,MISC,,,de,1.0
-Südeuropa Waldbrä…,Südeuropa Waldbrä…,MISC,,,de,1.0
-Hitzewelle Ende Juni,Hitzewelle Ende Juni,MISC,,,de,1.0
-Sommerhitze“,Sommerhitze“,MISC,,,de,1.0
-Kölner,Kölner,MISC,,,de,1.0
-Omas Tricks ,Omas Tricks ,MISC,,,de,1.0
-Die Wassertemperaturen,Die Wassertemperaturen,MISC,,,de,1.0
-Zeit des Tages,Zeit des Tages,MISC,,,de,1.0
-CLOUD-Experiment,CLOUD-Experiment,MISC,,,de,1.0
-Oma,Oma,MISC,,,de,1.0
-c’t uplink,c’t uplink,MISC,,,de,1.0
-Pflanz…,Pflanz…,MISC,,,de,1.0
-Die Legende,Die Legende,MISC,,,de,1.0
-Radsport“,Radsport“,MISC,,,de,1.0
-Maß…,Maß…,MISC,,,de,1.0
-Bund und Länder,Bund und Länder,MISC,,,de,1.0
-Hitzeperiode“,Hitzeperiode“,MISC,,,de,1.0
-Hilfsmitteln,Hilfsmitteln,MISC,,,de,1.0
-Todesfällen,Todesfällen,MISC,0.0,0.0,de,1.0
-C,C,MISC,,,de,1.0
-Hitzewelle in Westeuropa Ende Juni,Hitzewelle in Westeuropa Ende Juni,MISC,,,de,1.0
-Juniwoche,Juniwoche,MISC,0.0,0.0,de,1.0
-unkomplizie…,unkomplizie…,MISC,,,de,1.0
-Deutschen leiden,Deutschen leiden,MISC,,,de,1.0
-Kräftige Winde und Hitze,Kräftige Winde und Hitze,MISC,,,de,1.0
-Var,Var,MISC,,,de,1.0
-Bergnähe kan…,Bergnähe kan…,MISC,,,de,1.0
-Feuerwehrleute sterben im Löschfahrzeug,Feuerwehrleute sterben im Löschfahrzeug,MISC,,,de,1.0
-Großeinsätzen,Großeinsätzen,MISC,,,de,1.0
-Hitzetage“,Hitzetage“,MISC,,,de,1.0
-Nachts sinken die Werte,Nachts sinken die Werte,MISC,,,de,1.0
-ZEITmagazin,ZEITmagazin,MISC,,,de,1.0
-Kein Grieche duscht,Kein Grieche duscht,MISC,,,de,1.0
-Desa…,Desa…,MISC,,,de,1.0
-Landesverfassungsgericht“,Landesverfassungsgericht“,MISC,,,de,1.0
-Diplom-Ökonom,Diplom-Ökonom,MISC,,,de,1.0
-Deu…,Deu…,MISC,,,de,1.0
-Langen Nacht der ZEIT,Langen Nacht der ZEIT,MISC,,,de,1.0
-Hohe Gefahr für Waldbrände im Harz,Hohe Gefahr für Waldbrände im Harz,MISC,,,de,1.0
-Waldbrände im Amazonas 2025,Waldbrände im Amazonas 2025,MISC,,,de,1.0
-Mikro…,Mikro…,MISC,,,de,1.0
-Insge…,Insge…,MISC,,,de,1.0
-Extremhitze,Extremhitze,MISC,,,de,1.0
-Fire Fighter,Fire Fighter,MISC,,,de,1.0
-Fünfter 40-Grad-Tag,Fünfter 40-Grad-Tag,MISC,,,de,1.0
-Zukunftsentschei…,Zukunftsentschei…,MISC,,,de,1.0
-Tieren,Tieren,MISC,,,de,1.0
-FU“,FU“,MISC,,,de,1.0
-Tierschutz“,Tierschutz“,MISC,,,de,1.0
-Patientenservice,Patientenservice,MISC,,,de,1.0
-Hitze-Themen,Hitze-Themen,MISC,,,de,1.0
-Spree“,Spree“,MISC,,,de,1.0
-Extreme Hitzewelle,Extreme Hitzewelle,MISC,,,de,1.0
-Vierzig-Grad-Marke,Vierzig-Grad-Marke,MISC,,,de,1.0
-Tschentscher,Tschentscher,MISC,,,de,1.0
-früh im Jahr so,früh im Jahr so,MISC,,,de,1.0
-Was tut …,Was tut …,MISC,,,de,1.0
-Sahara-Staub,Sahara-Staub,MISC,0.0,0.0,de,1.0
-Allg…,Allg…,MISC,,,de,1.0
-Schwimmbad-Preise,Schwimmbad-Preise,MISC,,,de,1.0
-Browser,Browser,MISC,,,de,1.0
-Kr…,Kr…,MISC,,,de,1.0
-JavaScript,JavaScript,MISC,,,de,1.0
-Mi…,Mi…,MISC,0.0,0.0,de,1.0
-7-Tage-Trend“,7-Tage-Trend“,MISC,,,de,1.0
-"23.07.2026
-Grundlagenforschung","23.07.2026
-Grundlagenforschung",MISC,,,de,1.0
-Zu trocken - Bürger,Zu trocken - Bürger,MISC,,,de,1.0
-Klimawandels,Klimawandels,MISC,0.0,0.0,de,1.0
-Kleine Blutsauger,Kleine Blutsauger,MISC,,,de,1.0
-Fe…,Fe…,MISC,,,de,1.0
-YouTube,YouTube,MISC,,,de,1.0
-GELB,GELB,MISC,,,de,1.0
-TRUSCO,TRUSCO,MISC,,,de,1.0
-Ein Sommer,Ein Sommer,MISC,,,de,1.0
-Takt,Takt,MISC,,,de,1.0
-Bränden betrof…,Bränden betrof…,MISC,,,de,1.0
-Gute Nachrichten,Gute Nachrichten,MISC,,,de,1.0
-Grausam heißer Tag“,Grausam heißer Tag“,MISC,,,de,1.0
-Die Glockenträger des Landes,Die Glockenträger des Landes,MISC,,,de,1.0
-Münchner Start-ups GLE360,Münchner Start-ups GLE360,MISC,,,de,1.0
-WM-Finale,WM-Finale,MISC,,,de,1.0
-Juni-Hitzerekord,Juni-Hitzerekord,MISC,0.0,0.0,de,1.0
-Weltmeisterschaften,Weltmeisterschaften,MISC,,,de,1.0
-Mega-Events,Mega-Events,MISC,0.0,0.0,de,1.0
-Tempera…,Tempera…,MISC,-0.7,0.0,de,1.0
-Kühlschrank für Menschen,Kühlschrank für Menschen,MISC,,,de,1.0
-Olimpia Splendid,Olimpia Splendid,MISC,,,de,1.0
-Rogbid …,Rogbid …,MISC,,,de,1.0
-Rogbid Breeze,Rogbid Breeze,MISC,,,de,1.0
-Dash-Löschflugzeuge,Dash-Löschflugzeuge,MISC,,,de,1.0
-Kleingartenverein,Kleingartenverein,MISC,,,de,1.0
-Ents…,Ents…,MISC,,,de,1.0
-Zwanzig Jahre l,Zwanzig Jahre l,MISC,,,de,1.0
-Liebe Leserin,Liebe Leserin,MISC,,,de,1.0
-Dürre,Dürre,MISC,-0.18181818181818182,0.0,de,1.0
-Trockenstress“,Trockenstress“,MISC,,,de,1.0
-Was Bayern,Was Bayern,MISC,,,de,1.0
-Die Tropennächte,Die Tropennächte,MISC,,,de,1.0
-im Jahr 2025,im Jahr 2025,MISC,,,de,1.0
-Verschnaufpause …,Verschnaufpause …,MISC,,,de,1.0
-Hitze-Ausfallgeld“,Hitze-Ausfallgeld“,MISC,,,de,1.0
-Die Hitzewelle Ende Juni ,Die Hitzewelle Ende Juni ,MISC,,,de,1.0
-UrlaubernDie,UrlaubernDie,MISC,,,de,1.0
-Kühe mögen es kalt,Kühe mögen es kalt,MISC,,,de,1.0
-Schleuderpreis,Schleuderpreis,MISC,,,de,1.0
-ICEs,ICEs,MISC,,,de,1.0
+evangelische,evangelische,MISC,,,de,1.0
+Grundw…,Grundw…,MISC,,,de,1.0
+Gegensteu…,Gegensteu…,MISC,,,de,1.0
+deu…,deu…,MISC,,,de,1.0
+Hitze in Kliniken“,Hitze in Kliniken“,MISC,,,de,1.0
+Höchstwert des Vorjahres,Höchstwert des Vorjahres,MISC,,,de,1.0
+Wald“,Wald“,MISC,,,de,1.0
+Prime-Day-Bestpreis,Prime-Day-Bestpreis,MISC,,,de,1.0
+Ein Schreibtisch am Fenster,Ein Schreibtisch am Fenster,MISC,,,de,1.0
+Heat Dome,Heat Dome,MISC,,,de,1.0
+DATENANALYSE,DATENANALYSE,MISC,,,de,1.0
+Herbst,Herbst,MISC,,,de,1.0
+Hitzestress für Bäume,Hitzestress für Bäume,MISC,,,de,1.0
+SZ,SZ,MISC,,,de,1.0
+Erz…,Erz…,MISC,,,de,1.0
+Bestpreis,Bestpreis,MISC,,,de,1.0
+Temperaturrekord für Juni,Temperaturrekord für Juni,MISC,,,de,1.0
+Wetterlage,Wetterlage,MISC,,,de,1.0
+Grad i…,Grad i…,MISC,,,de,1.0
+Schöne Bescherung!,Schöne Bescherung!,MISC,,,de,1.0
+US-Politik,US-Politik,MISC,,,de,1.0
+So…,So…,MISC,,,de,1.0
+schwedischen,schwedischen,MISC,,,de,1.0
+Werkshalle i…,Werkshalle i…,MISC,,,de,1.0
+Alexa,Alexa,MISC,,,de,1.0
+Wasserkühlung,Wasserkühlung,MISC,,,de,1.0
+le…,le…,MISC,,,de,1.0
+Wir müssen Wasser,Wir müssen Wasser,MISC,,,de,1.0
+Deutschland sucht den Bundeskanzler,Deutschland sucht den Bundeskanzler,MISC,,,de,1.0
+Zeit der Glühwürmchen“,Zeit der Glühwürmchen“,MISC,,,de,1.0
+Rekordbrände in Belgien,Rekordbrände in Belgien,MISC,,,de,1.0
+Stromnetzes,Stromnetzes,MISC,,,de,1.0
+Hitzewelle im Liveticker,Hitzewelle im Liveticker,MISC,,,de,1.0
+Grad Cels…,Grad Cels…,MISC,,,de,1.0
+Samstag g…,Samstag g…,MISC,,,de,1.0
+Beachvolleyball-Landesmeisterschaft,Beachvolleyball-Landesmeisterschaft,MISC,,,de,1.0
+Umweltschutzorganisation,Umweltschutzorganisation,MISC,,,de,1.0
+Der heiße Sommer,Der heiße Sommer,MISC,,,de,1.0
+Greenpeace-Berechnung,Greenpeace-Berechnung,MISC,,,de,1.0
+Großes Volkspark-Jubiläum,Großes Volkspark-Jubiläum,MISC,,,de,1.0
+Extreme Trockenheit“,Extreme Trockenheit“,MISC,,,de,1.0
+Landeswasserverbandsta…,Landeswasserverbandsta…,MISC,,,de,1.0
+Euro“,Euro“,MISC,,,de,1.0
+Wie heiß,Wie heiß,MISC,,,de,1.0
+Arbeitsrecht und Hitze,Arbeitsrecht und Hitze,MISC,,,de,1.0
+Orange Hitzewarnungen,Orange Hitzewarnungen,MISC,,,de,1.0
+burgenländischen,burgenländischen,MISC,,,de,1.0
+Ökosysteme in Gefahr,Ökosysteme in Gefahr,MISC,,,de,1.0
+Attributionsstudie“,Attributionsstudie“,MISC,,,de,1.0
+Rettung …,Rettung …,MISC,,,de,1.0
+CO₂-Anstieg,CO₂-Anstieg,MISC,,,de,1.0
+Hitze-Wochenende ,Hitze-Wochenende ,MISC,,,de,1.0
+Mittag“,Mittag“,MISC,,,de,1.0
+Die Gesundheit und Sicherheit,Die Gesundheit und Sicherheit,MISC,,,de,1.0
+US-amerikanische,US-amerikanische,MISC,,,de,1.0
+Anzahl der Tage,Anzahl der Tage,MISC,,,de,1.0
+Erster hessischer Großelterntag,Erster hessischer Großelterntag,MISC,,,de,1.0
+hessischer,hessischer,MISC,,,de,1.0
+"Haus
+","Haus
+",MISC,,,de,1.0
+European Project on OsteoArthritis,European Project on OsteoArthritis,MISC,,,de,1.0
+Wochenende a…,Wochenende a…,MISC,,,de,1.0
+Capri-)Sonne,Capri-)Sonne,MISC,,,de,1.0
+Vivantes-Kinderrettungsstellen,Vivantes-Kinderrettungsstellen,MISC,,,de,1.0
+Ernte-Management,Ernte-Management,MISC,,,de,1.0
+SPD-Vorschlag,SPD-Vorschlag,MISC,,,de,1.0
+Ein…,Ein…,MISC,,,de,1.0
+SPD-Minister im Bund,SPD-Minister im Bund,MISC,,,de,1.0
+belgischen,belgischen,MISC,,,de,1.0
+The race must go on,The race must go on,MISC,,,de,1.0
+Ozeane,Ozeane,MISC,0.25,0.0,de,1.0
+Wir werden mit Sicherheit,Wir werden mit Sicherheit,MISC,,,de,1.0
+Samstag u…,Samstag u…,MISC,,,de,1.0
+Rekordtag,Rekordtag,MISC,0.0,0.0,de,1.0
+Video,Video,MISC,,,de,1.0
+Essen“,Essen“,MISC,,,de,1.0
+Hitzewelle in Europa,Hitzewelle in Europa,MISC,-0.35,0.0,de,1.0
+Löschflugzeug-Perspektive,Löschflugzeug-Perspektive,MISC,,,de,1.0
+Bayerische,Bayerische,MISC,,,de,1.0
+Pro Pflanze,Pro Pflanze,MISC,,,de,1.0
+U-Bahn-Tunnel,U-Bahn-Tunnel,MISC,,,de,1.0
+Hitzerekord-Wochenende,Hitzerekord-Wochenende,MISC,,,de,1.0
+Auf Todesscheinen,Auf Todesscheinen,MISC,,,de,1.0
+Canadair CL-415,Canadair CL-415,MISC,,,de,1.0
+Exp…,Exp…,MISC,,,de,1.0
+Tempe­raturen,Tempe­raturen,MISC,,,de,1.0
+Hitzwelle“,Hitzwelle“,MISC,,,de,1.0
+E…,E…,MISC,,,de,1.0
+Unser Land,Unser Land,MISC,-0.18421052631578946,0.0,de,1.0
+Erwärmung,Erwärmung,MISC,,,de,1.0
+Wie aus heißer Luft,Wie aus heißer Luft,MISC,,,de,1.0
+Risiken,Risiken,MISC,0.0,0.5263157894736842,de,1.0
+WM Gucken,WM Gucken,MISC,,,de,1.0
+Urlaub,Urlaub,MISC,0.0,0.0,de,1.0
+Freizeitunfälle“,Freizeitunfälle“,MISC,,,de,1.0
+K.-o.-Runde …,K.-o.-Runde …,MISC,,,de,1.0
+K.-o.-Runde,K.-o.-Runde,MISC,,,de,1.0
+UNCCD,UNCCD,MISC,,,de,1.0
+Soziales“,Soziales“,MISC,,,de,1.0
+Obstbaubetriebe“,Obstbaubetriebe“,MISC,,,de,1.0
+Guten Morgen,Guten Morgen,MISC,,,de,1.0
+Apfelernte“,Apfelernte“,MISC,,,de,1.0
+Grillverbote,Grillverbote,MISC,,,de,1.0
+Berliner Wasserbetriebe“,Berliner Wasserbetriebe“,MISC,,,de,1.0
+Extremhitze-Wochenende,Extremhitze-Wochenende,MISC,,,de,1.0
+Die Pegelstände am Rhein,Die Pegelstände am Rhein,MISC,,,de,1.0
+Freitag k…,Freitag k…,MISC,,,de,1.0
+Hitzet…,Hitzet…,MISC,,,de,1.0
+nan Bund,nan Bund,MISC,,,de,1.0
+Oracle,Oracle,MISC,,,de,1.0
+Rechenzentren,Rechenzentren,MISC,0.0,0.0,de,1.0
+Extreme Temperaturen“,Extreme Temperaturen“,MISC,,,de,1.0
+Niedrigere Hopfenernte,Niedrigere Hopfenernte,MISC,,,de,1.0
+Fitness,Fitness,MISC,,,de,1.0
+COP17,COP17,MISC,,,de,1.0
+UNO-Konferenz zur Wüstenbildung,UNO-Konferenz zur Wüstenbildung,MISC,,,de,1.0
+Nervt total,Nervt total,MISC,,,de,1.0
+Beipackzettel,Beipackzettel,MISC,,,de,1.0
+Null Acht Neun,Null Acht Neun,MISC,,,de,1.0
+Junis,Junis,MISC,,,de,1.0
+Ernstfall“,Ernstfall“,MISC,,,de,1.0
+Hitze und Dürre,Hitze und Dürre,MISC,,,de,1.0
+Am Samstag,Am Samstag,MISC,,,de,1.0
+Deutschen Städtetages,Deutschen Städtetages,MISC,,,de,1.0
+Städtetag-Vize,Städtetag-Vize,MISC,0.0,0.0,de,1.0
+Bibliotheksräume,Bibliotheksräume,MISC,,,de,1.0
+ZDF-Moderator,ZDF-Moderator,MISC,,,de,1.0
+"WWF
+","WWF
+",MISC,,,de,1.0
+Was die Hitze für Tiere und Getreide,Was die Hitze für Tiere und Getreide,MISC,,,de,1.0
+He…,He…,MISC,,,de,1.0
+WWA,WWA,MISC,,,de,1.0
+Petrus is…,Petrus is…,MISC,,,de,1.0
+Die Gefahr für Waldbrände in Kärnten,Die Gefahr für Waldbrände in Kärnten,MISC,,,de,1.0
+Grundwasser-Stände,Grundwasser-Stände,MISC,,,de,1.0
+Essen od…,Essen od…,MISC,,,de,1.0
+Katzen-Tod,Katzen-Tod,MISC,,,de,1.0
+Geme…,Geme…,MISC,,,de,1.0
+Vineta-Festspielen,Vineta-Festspielen,MISC,-0.35,0.5,de,1.0
+Waldbrände in Südeuropa“,Waldbrände in Südeuropa“,MISC,,,de,1.0
 Strandtag,Strandtag,MISC,0.7,0.0,de,1.0
 WM-Finale am Sonntag in New Jersey,WM-Finale am Sonntag in New Jersey,MISC,,,de,1.0
 Hessische,Hessische,MISC,,,de,1.0
+Orkanartiger Wind …,Orkanartiger Wind …,MISC,,,de,1.0
 Online-Netzwerk,Online-Netzwerk,MISC,,,de,1.0
 Dieses Jahr waren die Nächte,Dieses Jahr waren die Nächte,MISC,,,de,1.0
 Indust…,Indust…,MISC,,,de,1.0
@@ -902,187 +775,362 @@ CO-Ausstoß,CO-Ausstoß,MISC,,,de,1.0
 ","Wikimedia
 ",MISC,,,de,1.0
 Mittag,Mittag,MISC,,,de,1.0
+Feuerwetter,Feuerwetter,MISC,,,de,1.0
 Transparenzbericht 2,Transparenzbericht 2,MISC,,,de,1.0
+Hitze ebbt,Hitze ebbt,MISC,0.0,0.0,de,1.0
 Niedrigwassers,Niedrigwassers,MISC,,,de,1.0
-Was Reisende,Was Reisende,MISC,,,de,1.0
+DWD g,DWD g,MISC,,,de,1.0
+Die anhaltende Hitzeperiode,Die anhaltende Hitzeperiode,MISC,,,de,1.0
+Vineta-Festspiele,Vineta-Festspiele,MISC,,,de,1.0
 Coldplay-Konzerte,Coldplay-Konzerte,MISC,,,de,1.0
-MLS-Spiel,MLS-Spiel,MISC,,,de,1.0
-Dieses Jahr hat die Hitze,Dieses Jahr hat die Hitze,MISC,,,de,1.0
-ANDERE BLICK,ANDERE BLICK,MISC,,,de,1.0
-Asphalt und Glasge,Asphalt und Glasge,MISC,,,de,1.0
-österreichischer,österreichischer,MISC,,,de,1.0
-Katzen-Tod,Katzen-Tod,MISC,,,de,1.0
-SF6,SF6,MISC,,,de,1.0
-Schwefelhexafluorid,Schwefelhexafluorid,MISC,,,de,1.0
-Tages…,Tages…,MISC,,,de,1.0
-prorussische,prorussische,MISC,,,de,1.0
-Hitzedom“,Hitzedom“,MISC,,,de,1.0
-Pasta Fredda,Pasta Fredda,MISC,,,de,1.0
-Die Warnstufe orange,Die Warnstufe orange,MISC,,,de,1.0
-Festival-Ära,Festival-Ära,MISC,,,de,1.0
-u…,u…,MISC,,,de,1.0
-Rekord-Temperaturspitzen,Rekord-Temperaturspitzen,MISC,,,de,1.0
-Der Sommer 2026,Der Sommer 2026,MISC,,,de,1.0
-Gewitterasthma,Gewitterasthma,MISC,,,de,1.0
-Klima-Krisenstrategie,Klima-Krisenstrategie,MISC,,,de,1.0
-Gewitter,Gewitter,MISC,0.25,0.0,de,1.0
-Social-Media-Influencer,Social-Media-Influencer,MISC,,,de,1.0
-Liebe amerikanische Journalisten,Liebe amerikanische Journalisten,MISC,,,de,1.0
-Klimaanlagen-Kulturkampf,Klimaanlagen-Kulturkampf,MISC,,,de,1.0
-Die Geosphere Austria,Die Geosphere Austria,MISC,,,de,1.0
-Die anhaltende Hitze,Die anhaltende Hitze,MISC,,,de,1.0
-Ice Ice Baby,Ice Ice Baby,MISC,,,de,1.0
-Not,Not,MISC,,,de,1.0
-ungarische,ungarische,MISC,,,de,1.0
-Coolen Zonen,Coolen Zonen,MISC,,,de,1.0
-Fenster un,Fenster un,MISC,,,de,1.0
-Allzeit-Höchstmark…,Allzeit-Höchstmark…,MISC,,,de,1.0
-Richtig heiß,Richtig heiß,MISC,,,de,1.0
-The capi,The capi,MISC,,,de,1.0
-June 28,June 28,MISC,,,de,1.0
-Gr…,Gr…,MISC,,,de,1.0
-Umwelthilfe,Umwelthilfe,MISC,,,de,1.0
-Gefahr in den Bergen,Gefahr in den Bergen,MISC,,,de,1.0
-Gefahr in den Bergen“,Gefahr in den Bergen“,MISC,,,de,1.0
-Temperaturrekord“,Temperaturrekord“,MISC,,,de,1.0
-Wir haben eine …,Wir haben eine …,MISC,,,de,1.0
-Rettungsdienst-Einsätze,Rettungsdienst-Einsätze,MISC,,,de,1.0
-Mitmach-Aktion,Mitmach-Aktion,MISC,,,de,1.0
-Starker Wind,Starker Wind,MISC,,,de,1.0
-Qual machen</li><li,Qual machen</li><li,MISC,,,de,1.0
-Limit“,Limit“,MISC,,,de,1.0
-Datenanalyse,Datenanalyse,MISC,,,de,1.0
-Frankreichs WM-Spiel,Frankreichs WM-Spiel,MISC,,,de,1.0
-Zeit werd…,Zeit werd…,MISC,,,de,1.0
-Weiße Fenster gegen Hitze,Weiße Fenster gegen Hitze,MISC,,,de,1.0
-Klassenzimmer“,Klassenzimmer“,MISC,,,de,1.0
-Fähren,Fähren,MISC,,,de,1.0
-Facebook,Facebook,MISC,,,de,1.0
-Verständnis für,Verständnis für,MISC,,,de,1.0
-Nacht he…,Nacht he…,MISC,,,de,1.0
-Die Symptome von Sonnenstich und Hitzschlag,Die Symptome von Sonnenstich und Hitzschlag,MISC,,,de,1.0
-Zauns,Zauns,MISC,,,de,1.0
-Die bitte Wahrheit,Die bitte Wahrheit,MISC,,,de,1.0
-Zeckensaison heuer,Zeckensaison heuer,MISC,,,de,1.0
-Anpassungsbedarf“,Anpassungsbedarf“,MISC,,,de,1.0
-Sturm“,Sturm“,MISC,,,de,1.0
-Die Auslastung …,Die Auslastung …,MISC,,,de,1.0
-ADAC-Pannenhelfer,ADAC-Pannenhelfer,MISC,,,de,1.0
-High-Deck-Siedlung,High-Deck-Siedlung,MISC,,,de,1.0
-Tag eins,Tag eins,MISC,,,de,1.0
-Die gefährliche Illusion,Die gefährliche Illusion,MISC,,,de,1.0
-Ein Schlafforscher,Ein Schlafforscher,MISC,,,de,1.0
-Vorjahr,Vorjahr,MISC,,,de,1.0
-Waldbrände im Jahr 2025,Waldbrände im Jahr 2025,MISC,,,de,1.0
-soziale,soziale,MISC,,,de,1.0
-Smart Home,Smart Home,MISC,,,de,1.0
-Dürresommer …,Dürresommer …,MISC,,,de,1.0
-Geme…,Geme…,MISC,,,de,1.0
-Ozeane,Ozeane,MISC,0.25,0.0,de,1.0
-Essen od…,Essen od…,MISC,,,de,1.0
-Gratwanderung für Regierung,Gratwanderung für Regierung,MISC,,,de,1.0
-Wil…,Wil…,MISC,,,de,1.0
-Der grüne Apfel,Der grüne Apfel,MISC,,,de,1.0
-Äpfel kriegen Sonnenbrand,Äpfel kriegen Sonnenbrand,MISC,,,de,1.0
-Ubimet,Ubimet,MISC,,,de,1.0
-Grünen-Politikerin Dröge,Grünen-Politikerin Dröge,MISC,-1.0,0.0,de,1.0
-nordrhein-westfälische,nordrhein-westfälische,MISC,,,de,1.0
-Jahr zuvo…,Jahr zuvo…,MISC,,,de,1.0
-Split-Klimagerät,Split-Klimagerät,MISC,,,de,1.0
-Extremtemperaturen“,Extremtemperaturen“,MISC,,,de,1.0
-Diese Hitzewelle,Diese Hitzewelle,MISC,,,de,1.0
-Extremwetter in Europa“,Extremwetter in Europa“,MISC,,,de,1.0
-Özdemir,Özdemir,MISC,,,de,1.0
-Unfassbare Hitze,Unfassbare Hitze,MISC,,,de,1.0
-Zusammenfassung,Zusammenfassung,MISC,,,de,1.0
-Wir sind der Sonne,Wir sind der Sonne,MISC,,,de,1.0
-Arbeitsalltag,Arbeitsalltag,MISC,,,de,1.0
-Hitz…,Hitz…,MISC,,,de,1.0
-beeinträchtigen</li><li,beeinträchtigen</li><li,MISC,,,de,1.0
-Wir haben Wasser…,Wir haben Wasser…,MISC,,,de,1.0
-Hapag-Lloyd,Hapag-Lloyd,MISC,,,de,1.0
+ICEs,ICEs,MISC,,,de,1.0
+Allzeitrekord,Allzeitrekord,MISC,0.25,0.0,de,1.0
+Hitze-Höchstwert,Hitze-Höchstwert,MISC,,,de,1.0
+Hitze-Themen,Hitze-Themen,MISC,,,de,1.0
+Mikro…,Mikro…,MISC,,,de,1.0
+Extremhitze,Extremhitze,MISC,,,de,1.0
+Fire Fighter,Fire Fighter,MISC,,,de,1.0
+Zukunftsentschei…,Zukunftsentschei…,MISC,,,de,1.0
+Langen Nacht der ZEIT,Langen Nacht der ZEIT,MISC,,,de,1.0
+Tieren,Tieren,MISC,,,de,1.0
+Tierschutz“,Tierschutz“,MISC,,,de,1.0
+Patientenservice,Patientenservice,MISC,,,de,1.0
+Spree“,Spree“,MISC,,,de,1.0
+Kühe mögen es kalt,Kühe mögen es kalt,MISC,,,de,1.0
 ORF-Wetterexperten,ORF-Wetterexperten,MISC,,,de,1.0
 Celsius,Celsius,MISC,0.0,0.0,de,1.0
-Wissenschaft“,Wissenschaft“,MISC,,,de,1.0
+früh im Jahr so,früh im Jahr so,MISC,,,de,1.0
 ORF-Wetter…,ORF-Wetter…,MISC,,,de,1.0
-Hitze-Höchstwert,Hitze-Höchstwert,MISC,,,de,1.0
-DWD g,DWD g,MISC,,,de,1.0
-Die Niederschläge,Die Niederschläge,MISC,,,de,1.0
-Juni-Durchschnittswert der Jahre,Juni-Durchschnittswert der Jahre,MISC,,,de,1.0
-Allzeitrekord,Allzeitrekord,MISC,0.25,0.0,de,1.0
-Orkanartiger Wind …,Orkanartiger Wind …,MISC,,,de,1.0
-Juni-Abflüsse,Juni-Abflüsse,MISC,,,de,1.0
-Umkleidekabine,Umkleidekabine,MISC,,,de,1.0
-Rekordtemperaturen im Juni,Rekordtemperaturen im Juni,MISC,,,de,1.0
-Feuerwetter,Feuerwetter,MISC,,,de,1.0
-Liebe Kinder,Liebe Kinder,MISC,,,de,1.0
-Muttis,Muttis,MISC,,,de,1.0
-Omis,Omis,MISC,,,de,1.0
-Hitze-Hammer“,Hitze-Hammer“,MISC,,,de,1.0
-IMAGO/Sven Simon,IMAGO/Sven Simon,MISC,,,de,1.0
-Tag in Beton,Tag in Beton,MISC,,,de,1.0
-Tropennächten,Tropennächten,MISC,,,de,1.0
-RKI-Zahlen,RKI-Zahlen,MISC,,,de,1.0
-brutal di…,brutal di…,MISC,,,de,1.0
-au…,au…,MISC,,,de,1.0
-Sprach-Kitas,Sprach-Kitas,MISC,,,de,1.0
-Israel-Hass,Israel-Hass,MISC,,,de,1.0
-TTS-Player überspringenArtikel weiterlesenPays de la Loire,TTS-Player überspringenArtikel weiterlesenPays de la Loire,MISC,,,de,1.0
-Schier endlose Dürre,Schier endlose Dürre,MISC,,,de,1.0
-Juni-Woche,Juni-Woche,MISC,,,de,1.0
-Irankriegs,Irankriegs,MISC,,,de,1.0
-P…,P…,MISC,,,de,1.0
-Hitzewelle und Klimawandel“,Hitzewelle und Klimawandel“,MISC,,,de,1.0
-Juni-Temperaturen,Juni-Temperaturen,MISC,0.0,0.0,de,1.0
-Ernte“,Ernte“,MISC,,,de,1.0
-Heavy-Metal-Festival“,Heavy-Metal-Festival“,MISC,,,de,1.0
-Hitze ebbt,Hitze ebbt,MISC,0.0,0.0,de,1.0
-Die anhaltende Hitzeperiode,Die anhaltende Hitzeperiode,MISC,,,de,1.0
-Anflug,Anflug,MISC,,,de,1.0
-Kinderarmut,Kinderarmut,MISC,,,de,1.0
-T…,T…,MISC,,,de,1.0
-Hitze-Hammer,Hitze-Hammer,MISC,,,de,1.0
-Radsport und Klima“,Radsport und Klima“,MISC,,,de,1.0
-Nebensache,Nebensache,MISC,,,de,1.0
-weiterlesenNoch,weiterlesenNoch,MISC,0.0,0.0,de,1.0
-Waldbrandgefahren“,Waldbrandgefahren“,MISC,,,de,1.0
-Tier-Notfälle,Tier-Notfälle,MISC,0.0,0.0,de,1.0
-Monaten z…,Monaten z…,MISC,,,de,1.0
+Arbeitsalltag,Arbeitsalltag,MISC,,,de,1.0
+Hilfeersuchen“,Hilfeersuchen“,MISC,,,de,1.0
+FU“,FU“,MISC,,,de,1.0
+Die Glockenträger des Landes,Die Glockenträger des Landes,MISC,,,de,1.0
+MLS-Spiel,MLS-Spiel,MISC,,,de,1.0
+Hitze-Ausfallgeld“,Hitze-Ausfallgeld“,MISC,,,de,1.0
+Die Hitze und Trockenheit,Die Hitze und Trockenheit,MISC,,,de,1.0
+Verschnaufpause …,Verschnaufpause …,MISC,,,de,1.0
+Münchner Start-ups GLE360,Münchner Start-ups GLE360,MISC,,,de,1.0
 SchutzengelWerk Berliner Kindern,SchutzengelWerk Berliner Kindern,MISC,,,de,1.0
-Bränden,Bränden,MISC,0.0,0.0,de,1.0
-Klimazielen,Klimazielen,MISC,,,de,1.0
-Nachhaltigkeits­berichte,Nachhaltigkeits­berichte,MISC,,,de,1.0
-Una…,Una…,MISC,,,de,1.0
-koll…,koll…,MISC,,,de,1.0
-alljährlic…,alljährlic…,MISC,,,de,1.0
+Diplom-Ökonom,Diplom-Ökonom,MISC,,,de,1.0
 die schönste Zeit des Jahres,die schönste Zeit des Jahres,MISC,,,de,1.0
+Landesverfassungsgericht“,Landesverfassungsgericht“,MISC,,,de,1.0
 Jahr 2018,Jahr 2018,MISC,,,de,1.0
 Die Temperaturen,Die Temperaturen,MISC,,,de,1.0
-Dürre in der Schweiz,Dürre in der Schweiz,MISC,,,de,1.0
-Momenta…,Momenta…,MISC,,,de,1.0
-weiterlesenEine,weiterlesenEine,MISC,,,de,1.0
+Zusammenfassung,Zusammenfassung,MISC,,,de,1.0
+ungarische,ungarische,MISC,,,de,1.0
+Umwelthilfe,Umwelthilfe,MISC,,,de,1.0
+Gefahr in den Bergen,Gefahr in den Bergen,MISC,,,de,1.0
+Das Gelsenmonitoring,Das Gelsenmonitoring,MISC,,,de,1.0
+Was auf den Weiden,Was auf den Weiden,MISC,,,de,1.0
+Gefahr in den Bergen“,Gefahr in den Bergen“,MISC,,,de,1.0
+niederösterreichischen,niederösterreichischen,MISC,,,de,1.0
+Flurbrände auf Äckern,Flurbrände auf Äckern,MISC,,,de,1.0
+Angriff auf die Hitzeglocke,Angriff auf die Hitzeglocke,MISC,,,de,1.0
+Wir haben eine …,Wir haben eine …,MISC,,,de,1.0
+Saunieren sta…,Saunieren sta…,MISC,,,de,1.0
+Kinderarmut,Kinderarmut,MISC,,,de,1.0
+Waldbrandgefahren“,Waldbrandgefahren“,MISC,,,de,1.0
+Trockenstress“,Trockenstress“,MISC,,,de,1.0
 Hitze-Delle,Hitze-Delle,MISC,,,de,1.0
-Neubauvorhaben“,Neubauvorhaben“,MISC,,,de,1.0
+Copernicus in Weste…,Copernicus in Weste…,MISC,,,de,1.0
+Waldbrand-Schadstoffe,Waldbrand-Schadstoffe,MISC,,,de,1.0
+Rolle d…,Rolle d…,MISC,,,de,1.0
+Weltmeisterschaften,Weltmeisterschaften,MISC,,,de,1.0
+Mega-Events,Mega-Events,MISC,0.0,0.0,de,1.0
+Waldbrände in Brandenburg“,Waldbrände in Brandenburg“,MISC,,,de,1.0
+Tempera…,Tempera…,MISC,-0.7,0.0,de,1.0
+Das Feuer,Das Feuer,MISC,,,de,1.0
+weiterlesenEine,weiterlesenEine,MISC,,,de,1.0
+Dürre,Dürre,MISC,-0.18181818181818182,0.0,de,1.0
+Olimpia Splendid,Olimpia Splendid,MISC,,,de,1.0
+Rogbid …,Rogbid …,MISC,,,de,1.0
+Hitze-Hammer,Hitze-Hammer,MISC,,,de,1.0
+Rogbid Breeze,Rogbid Breeze,MISC,,,de,1.0
+WM-Finale,WM-Finale,MISC,,,de,1.0
+Ents…,Ents…,MISC,,,de,1.0
+Zwanzig Jahre l,Zwanzig Jahre l,MISC,,,de,1.0
+Liebe Leserin,Liebe Leserin,MISC,,,de,1.0
+Waldbrände im Amazonas 2025,Waldbrände im Amazonas 2025,MISC,,,de,1.0
+Wir haben Wasser…,Wir haben Wasser…,MISC,,,de,1.0
+Heavy-Metal-Festival“,Heavy-Metal-Festival“,MISC,,,de,1.0
+P…,P…,MISC,,,de,1.0
+Absatz,Absatz,MISC,,,de,1.0
+Kein Grieche duscht,Kein Grieche duscht,MISC,,,de,1.0
+Desa…,Desa…,MISC,,,de,1.0
+Bund und Länder,Bund und Länder,MISC,,,de,1.0
+Maß…,Maß…,MISC,,,de,1.0
+im Jahr 2025,im Jahr 2025,MISC,,,de,1.0
+Die Tropennächte,Die Tropennächte,MISC,,,de,1.0
+Was Bayern,Was Bayern,MISC,,,de,1.0
+Dash-Löschflugzeuge,Dash-Löschflugzeuge,MISC,,,de,1.0
+Kühlschrank für Menschen,Kühlschrank für Menschen,MISC,,,de,1.0
+Juni-Hitzerekord,Juni-Hitzerekord,MISC,0.0,0.0,de,1.0
+Die Hitzewelle Ende Juni ,Die Hitzewelle Ende Juni ,MISC,,,de,1.0
+UrlaubernDie,UrlaubernDie,MISC,,,de,1.0
+Was Reisende,Was Reisende,MISC,,,de,1.0
+Schleuderpreis,Schleuderpreis,MISC,,,de,1.0
+Kleingartenverein,Kleingartenverein,MISC,,,de,1.0
+Grausam heißer Tag“,Grausam heißer Tag“,MISC,,,de,1.0
+Hilfsersuchen“,Hilfsersuchen“,MISC,,,de,1.0
+Tschentscher,Tschentscher,MISC,,,de,1.0
+Allein im Juni,Allein im Juni,MISC,,,de,1.0
+Wetter & Landwirtschaft“,Wetter & Landwirtschaft“,MISC,,,de,1.0
+Kabinett am Starnberger See“,Kabinett am Starnberger See“,MISC,,,de,1.0
+Kräftige Winde und Hitze,Kräftige Winde und Hitze,MISC,,,de,1.0
+Hilfsmitteln,Hilfsmitteln,MISC,,,de,1.0
+Mona,Mona,MISC,,,de,1.0
+Italienische,Italienische,MISC,,,de,1.0
+C,C,MISC,,,de,1.0
+italienischen,italienischen,MISC,,,de,1.0
+Anrollende Hitzewelle,Anrollende Hitzewelle,MISC,,,de,1.0
+Wochenend-Ausflüglern,Wochenend-Ausflüglern,MISC,,,de,1.0
+August-Wochenende,August-Wochenende,MISC,,,de,1.0
+Var,Var,MISC,,,de,1.0
+Krankenhäusern…,Krankenhäusern…,MISC,,,de,1.0
+weiterlesenNach,weiterlesenNach,MISC,0.7,0.0,de,1.0
+Wetter am Wochenende,Wetter am Wochenende,MISC,,,de,1.0
+Feuerwehrleute sterben im Löschfahrzeug,Feuerwehrleute sterben im Löschfahrzeug,MISC,,,de,1.0
+Tour de Natur“,Tour de Natur“,MISC,,,de,1.0
+Repo…,Repo…,MISC,,,de,1.0
+Report Mainz-Umfrage,Report Mainz-Umfrage,MISC,,,de,1.0
+Hitzetage“,Hitzetage“,MISC,,,de,1.0
+End…,End…,MISC,0.0,0.0,de,1.0
+europäisches,europäisches,MISC,,,de,1.0
+Vierzig-Grad-Marke,Vierzig-Grad-Marke,MISC,,,de,1.0
+Extreme Hitzewelle,Extreme Hitzewelle,MISC,,,de,1.0
+Ein Sommer,Ein Sommer,MISC,,,de,1.0
+Omas Tricks ,Omas Tricks ,MISC,,,de,1.0
+Oma,Oma,MISC,,,de,1.0
+Fe…,Fe…,MISC,,,de,1.0
+YouTube,YouTube,MISC,,,de,1.0
+Pflanz…,Pflanz…,MISC,,,de,1.0
+Dieses Jahr hat die Hitze,Dieses Jahr hat die Hitze,MISC,,,de,1.0
+Asphalt und Glasge,Asphalt und Glasge,MISC,,,de,1.0
+TRUSCO,TRUSCO,MISC,,,de,1.0
+Takt,Takt,MISC,,,de,1.0
+Jedes Jahr erliegen Tausende Menschen der Hitze,Jedes Jahr erliegen Tausende Menschen der Hitze,MISC,,,de,1.0
+Wir sind der Sonne,Wir sind der Sonne,MISC,,,de,1.0
+Bränden betrof…,Bränden betrof…,MISC,,,de,1.0
+Gute Nachrichten,Gute Nachrichten,MISC,,,de,1.0
+Schwimmbad-Preise,Schwimmbad-Preise,MISC,,,de,1.0
+RKI-Zahlen,RKI-Zahlen,MISC,,,de,1.0
+Allg…,Allg…,MISC,,,de,1.0
+Was tut …,Was tut …,MISC,,,de,1.0
+brutal di…,brutal di…,MISC,,,de,1.0
+Südeuropa Waldbrä…,Südeuropa Waldbrä…,MISC,,,de,1.0
+Zu trocken - Bürger,Zu trocken - Bürger,MISC,,,de,1.0
+Fünfter 40-Grad-Tag,Fünfter 40-Grad-Tag,MISC,,,de,1.0
+alpinen Gelä…,alpinen Gelä…,MISC,,,de,1.0
+Innenminis…,Innenminis…,MISC,,,de,1.0
+Insge…,Insge…,MISC,,,de,1.0
+Hohe Gefahr für Waldbrände im Harz,Hohe Gefahr für Waldbrände im Harz,MISC,,,de,1.0
+Deutsche Wetter…,Deutsche Wetter…,MISC,,,de,1.0
+Wut un…,Wut un…,MISC,,,de,1.0
+Sahara-Staub,Sahara-Staub,MISC,0.0,0.0,de,1.0
+GELB,GELB,MISC,,,de,1.0
+Kleine Blutsauger,Kleine Blutsauger,MISC,,,de,1.0
+saarländischen,saarländischen,MISC,,,de,1.0
+"23.07.2026
+Grundlagenforschung","23.07.2026
+Grundlagenforschung",MISC,,,de,1.0
+Flucht vor den Flammen,Flucht vor den Flammen,MISC,,,de,1.0
+Kr…,Kr…,MISC,,,de,1.0
+Waldbrände bei Bordeaux“,Waldbrände bei Bordeaux“,MISC,,,de,1.0
+Spielplätze hitzefest,Spielplätze hitzefest,MISC,,,de,1.0
+Browser,Browser,MISC,,,de,1.0
+JavaScript,JavaScript,MISC,,,de,1.0
+Mi…,Mi…,MISC,0.0,0.0,de,1.0
+7-Tage-Trend“,7-Tage-Trend“,MISC,,,de,1.0
+Österreich…,Österreich…,MISC,,,de,1.0
+super,super,MISC,,,de,1.0
+Waldbrände auf Java,Waldbrände auf Java,MISC,,,de,1.0
+koll…,koll…,MISC,,,de,1.0
+Fallout,Fallout,MISC,,,de,1.0
+Uni live“,Uni live“,MISC,,,de,1.0
+Fähigke…,Fähigke…,MISC,,,de,1.0
+DNA-Schäden,DNA-Schäden,MISC,,,de,1.0
+UV-bedingte,UV-bedingte,MISC,,,de,1.0
+Bio-Tierhaltung“,Bio-Tierhaltung“,MISC,,,de,1.0
+Momenta…,Momenta…,MISC,,,de,1.0
+Dürre in der Schweiz,Dürre in der Schweiz,MISC,,,de,1.0
+T…,T…,MISC,,,de,1.0
+leiden unter der Hitze,leiden unter der Hitze,MISC,,,de,1.0
+Radsport und Klima“,Radsport und Klima“,MISC,,,de,1.0
+Nebensache,Nebensache,MISC,,,de,1.0
+Die gefährliche Seite des Sommers,Die gefährliche Seite des Sommers,MISC,,,de,1.0
+weiterlesenNoch,weiterlesenNoch,MISC,0.0,0.0,de,1.0
+Tier-Notfälle,Tier-Notfälle,MISC,0.0,0.0,de,1.0
+Monaten z…,Monaten z…,MISC,,,de,1.0
+elf Tagen da…,elf Tagen da…,MISC,,,de,1.0
+Klimazielen,Klimazielen,MISC,,,de,1.0
+Nachhaltigkeits­berichte,Nachhaltigkeits­berichte,MISC,,,de,1.0
+Hitzewallungen,Hitzewallungen,MISC,0.0,0.0,de,1.0
+Die Wechseljahre,Die Wechseljahre,MISC,,,de,1.0
+Kein Regen,Kein Regen,MISC,,,de,1.0
 Wohnungsgesellschaft Saga,Wohnungsgesellschaft Saga,MISC,,,de,1.0
+Juni-Abflüsse,Juni-Abflüsse,MISC,,,de,1.0
+Umkleidekabine,Umkleidekabine,MISC,,,de,1.0
+Hitzegipfel,Hitzegipfel,MISC,,,de,1.0
+Pommes“,Pommes“,MISC,,,de,1.0
+Dürre in Deutschland,Dürre in Deutschland,MISC,,,de,1.0
+Rekordtemperaturen im Juni,Rekordtemperaturen im Juni,MISC,,,de,1.0
+Obdachlose und Hitze,Obdachlose und Hitze,MISC,,,de,1.0
+Neubauvorhaben“,Neubauvorhaben“,MISC,,,de,1.0
+Tag in der prallen Sonne,Tag in der prallen Sonne,MISC,,,de,1.0
+Monteure für Klimaanalagen,Monteure für Klimaanalagen,MISC,,,de,1.0
 Nordwestbahnhof-Areals,Nordwestbahnhof-Areals,MISC,,,de,1.0
 Lebens ungemischte Freude ward,Lebens ungemischte Freude ward,MISC,,,de,1.0
 Chilis,Chilis,MISC,,,de,1.0
 s heiß,s heiß,MISC,,,de,1.0
 Wälder,Wälder,MISC,,,de,1.0
+Nike-Schuhen,Nike-Schuhen,MISC,,,de,1.0
 vergeht pr…,vergeht pr…,MISC,,,de,1.0
-Copernicus in Weste…,Copernicus in Weste…,MISC,,,de,1.0
-Monteure für Klimaanalagen,Monteure für Klimaanalagen,MISC,,,de,1.0
-Kein Regen,Kein Regen,MISC,,,de,1.0
-Die Wechseljahre,Die Wechseljahre,MISC,,,de,1.0
-Hitzewallungen,Hitzewallungen,MISC,0.0,0.0,de,1.0
-Rolle d…,Rolle d…,MISC,,,de,1.0
-Fähigke…,Fähigke…,MISC,,,de,1.0
-DNA-Schäden,DNA-Schäden,MISC,,,de,1.0
-UV-bedingte,UV-bedingte,MISC,,,de,1.0
+RPG-Klassiker,RPG-Klassiker,MISC,,,de,1.0
+Una…,Una…,MISC,,,de,1.0
+alljährlic…,alljährlic…,MISC,,,de,1.0
+Natürlich müsst ihr die Ecoflow Wave 3,Natürlich müsst ihr die Ecoflow Wave 3,MISC,,,de,1.0
+Temperatur-Rekorde,Temperatur-Rekorde,MISC,0.0,0.0,de,1.0
+Schwefelhexafluorid,Schwefelhexafluorid,MISC,,,de,1.0
+Tages…,Tages…,MISC,,,de,1.0
+Hitzedom“,Hitzedom“,MISC,,,de,1.0
+Pasta Fredda,Pasta Fredda,MISC,,,de,1.0
+Festival-Ära,Festival-Ära,MISC,,,de,1.0
+Rekord-Temperaturspitzen,Rekord-Temperaturspitzen,MISC,,,de,1.0
+Feuer-Katastrophen“,Feuer-Katastrophen“,MISC,,,de,1.0
+Der Sommer 2026,Der Sommer 2026,MISC,,,de,1.0
+Gewitterasthma,Gewitterasthma,MISC,,,de,1.0
+Gewitter,Gewitter,MISC,0.25,0.0,de,1.0
+Social-Media-Influencer,Social-Media-Influencer,MISC,,,de,1.0
+Hitzeschutz“,Hitzeschutz“,MISC,,,de,1.0
+Liebe amerikanische Journalisten,Liebe amerikanische Journalisten,MISC,,,de,1.0
+Klimaanlagen-Kulturkampf,Klimaanlagen-Kulturkampf,MISC,,,de,1.0
+Limit“,Limit“,MISC,,,de,1.0
+leiden unter dem Wassermangel,leiden unter dem Wassermangel,MISC,,,de,1.0
+u…,u…,MISC,,,de,1.0
+Zeckensaison heuer,Zeckensaison heuer,MISC,,,de,1.0
+Westeuropa so heiß,Westeuropa so heiß,MISC,,,de,1.0
+SF6,SF6,MISC,,,de,1.0
+Killer“,Killer“,MISC,,,de,1.0
+Die Geosphere Austria,Die Geosphere Austria,MISC,,,de,1.0
+Allzeit-Höchstmark…,Allzeit-Höchstmark…,MISC,,,de,1.0
+kommunistischen,kommunistischen,MISC,,,de,1.0
+Anflug,Anflug,MISC,,,de,1.0
+Frankreichs WM-Spiel,Frankreichs WM-Spiel,MISC,,,de,1.0
+08.08.2026,08.08.2026,MISC,,,de,1.0
+Todesopfer auf 31 ,Todesopfer auf 31 ,MISC,,,de,1.0
+Unfassbare Hitze,Unfassbare Hitze,MISC,,,de,1.0
+Coolen Zonen,Coolen Zonen,MISC,,,de,1.0
+Fenster un,Fenster un,MISC,,,de,1.0
+Richtig heiß,Richtig heiß,MISC,,,de,1.0
+Die anhaltende Hitze,Die anhaltende Hitze,MISC,,,de,1.0
+The capi,The capi,MISC,,,de,1.0
+June 28,June 28,MISC,,,de,1.0
+Gr…,Gr…,MISC,,,de,1.0
+Temperaturrekord“,Temperaturrekord“,MISC,,,de,1.0
+Rettungsdienst-Einsätze,Rettungsdienst-Einsätze,MISC,,,de,1.0
+Mitmach-Aktion,Mitmach-Aktion,MISC,,,de,1.0
+Starker Wind,Starker Wind,MISC,,,de,1.0
+Qual machen</li><li,Qual machen</li><li,MISC,,,de,1.0
+Aufträge für …,Aufträge für …,MISC,,,de,1.0
+Juni-Durchschnittswert der Jahre,Juni-Durchschnittswert der Jahre,MISC,,,de,1.0
+Die Niederschläge,Die Niederschläge,MISC,,,de,1.0
+Risiko,Risiko,MISC,0.0,0.2857142857142857,de,1.0
+Todesfällen,Todesfällen,MISC,0.0,0.0,de,1.0
+Ihrem Buch,Ihrem Buch,MISC,,,de,1.0
+prorussische,prorussische,MISC,,,de,1.0
+Die Warnstufe orange,Die Warnstufe orange,MISC,,,de,1.0
+Hitzewelle in Westeuropa Ende Juni,Hitzewelle in Westeuropa Ende Juni,MISC,,,de,1.0
+Juniwoche,Juniwoche,MISC,0.0,0.0,de,1.0
+unkomplizie…,unkomplizie…,MISC,,,de,1.0
+Deutschen leiden,Deutschen leiden,MISC,,,de,1.0
+Bergnähe kan…,Bergnähe kan…,MISC,,,de,1.0
+Großeinsätzen,Großeinsätzen,MISC,,,de,1.0
+Nachts sinken die Werte,Nachts sinken die Werte,MISC,,,de,1.0
+ZEITmagazin,ZEITmagazin,MISC,,,de,1.0
+Hitzeperiode“,Hitzeperiode“,MISC,,,de,1.0
+Radsport“,Radsport“,MISC,,,de,1.0
+österreichischer,österreichischer,MISC,,,de,1.0
+Radsport,Radsport,MISC,,,de,1.0
+Ihrem W…,Ihrem W…,MISC,,,de,1.0
+Hitzewelle Ende Juni,Hitzewelle Ende Juni,MISC,,,de,1.0
+Sachse…,Sachse…,MISC,,,de,1.0
+Kölner,Kölner,MISC,,,de,1.0
+Hitzeschlags,Hitzeschlags,MISC,,,de,1.0
+Klimawandelfolgen,Klimawandelfolgen,MISC,,,de,1.0
+Not,Not,MISC,,,de,1.0
+Preisvergleich,Preisvergleich,MISC,,,de,1.0
+Athen“,Athen“,MISC,,,de,1.0
+Ecoflow Wave,Ecoflow Wave,MISC,,,de,1.0
+Dienstag,Dienstag,MISC,0.0,0.0,de,1.0
+Urlaubslektüre,Urlaubslektüre,MISC,,,de,1.0
+Mittwoch …,Mittwoch …,MISC,,,de,1.0
+Celsius star…,Celsius star…,MISC,,,de,1.0
+Vorjahren,Vorjahren,MISC,,,de,1.0
+Fünf Jahre nach der Ahrtal-Flut,Fünf Jahre nach der Ahrtal-Flut,MISC,,,de,1.0
+Unwettergefahr“,Unwettergefahr“,MISC,,,de,1.0
+Notrufe…,Notrufe…,MISC,,,de,1.0
+Stufe 2,Stufe 2,MISC,,,de,1.0
+Gewitter und Regen,Gewitter und Regen,MISC,,,de,1.0
+Landesfeuerwe…,Landesfeuerwe…,MISC,,,de,1.0
+Ice Ice Baby,Ice Ice Baby,MISC,,,de,1.0
+Sommergewitter“,Sommergewitter“,MISC,,,de,1.0
+Die Feldbrandgefahr,Die Feldbrandgefahr,MISC,,,de,1.0
+Soja“,Soja“,MISC,,,de,1.0
+Sommerhitze“,Sommerhitze“,MISC,,,de,1.0
+Die Wassertemperaturen,Die Wassertemperaturen,MISC,,,de,1.0
+Zeit des Tages,Zeit des Tages,MISC,,,de,1.0
+CSU-Abgeor…,CSU-Abgeor…,MISC,,,de,1.0
+Ernte“,Ernte“,MISC,,,de,1.0
+oberösterreichischen,oberösterreichischen,MISC,,,de,1.0
+Hitze-Hammer“,Hitze-Hammer“,MISC,,,de,1.0
+Omis,Omis,MISC,,,de,1.0
+Muttis,Muttis,MISC,,,de,1.0
+Liebe Kinder,Liebe Kinder,MISC,,,de,1.0
+Frankfurter,Frankfurter,MISC,,,de,1.0
+Geröll und Sand,Geröll und Sand,MISC,,,de,1.0
+Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1.0
+Zauns,Zauns,MISC,,,de,1.0
+STANDARD,STANDARD,MISC,,,de,1.0
+beeinträchtigen</li><li,beeinträchtigen</li><li,MISC,,,de,1.0
+Traktor-Kabinen,Traktor-Kabinen,MISC,,,de,1.0
+Hapag-Lloyd,Hapag-Lloyd,MISC,,,de,1.0
+2026 g,2026 g,MISC,,,de,1.0
+Wissenschaft“,Wissenschaft“,MISC,,,de,1.0
+Niedrigwasser-Krise,Niedrigwasser-Krise,MISC,,,de,1.0
+Niedrigwasser-Krise“,Niedrigwasser-Krise“,MISC,,,de,1.0
+Juni-Temperaturen,Juni-Temperaturen,MISC,0.0,0.0,de,1.0
+Hitzewelle und Klimawandel“,Hitzewelle und Klimawandel“,MISC,,,de,1.0
+CLOUD-Experiment,CLOUD-Experiment,MISC,,,de,1.0
+Tropennächten,Tropennächten,MISC,,,de,1.0
+Klima-Krisenstrategie,Klima-Krisenstrategie,MISC,,,de,1.0
+c’t uplink,c’t uplink,MISC,,,de,1.0
+Datenanalyse,Datenanalyse,MISC,,,de,1.0
+Die Legende,Die Legende,MISC,,,de,1.0
+Dürresommer …,Dürresommer …,MISC,,,de,1.0
+ANDERE BLICK,ANDERE BLICK,MISC,,,de,1.0
+IMAGO/Sven Simon,IMAGO/Sven Simon,MISC,,,de,1.0
+Tag in Beton,Tag in Beton,MISC,,,de,1.0
+Sprach-Kitas,Sprach-Kitas,MISC,,,de,1.0
+Verständnis für,Verständnis für,MISC,,,de,1.0
+Israel-Hass,Israel-Hass,MISC,,,de,1.0
+TTS-Player überspringenArtikel weiterlesenPays de la Loire,TTS-Player überspringenArtikel weiterlesenPays de la Loire,MISC,,,de,1.0
+Schier endlose Dürre,Schier endlose Dürre,MISC,,,de,1.0
+Trinkwasser“,Trinkwasser“,MISC,,,de,1.0
+Klassenzimmer“,Klassenzimmer“,MISC,,,de,1.0
+Facebook,Facebook,MISC,,,de,1.0
+Juni-Woche,Juni-Woche,MISC,,,de,1.0
+Irankriegs,Irankriegs,MISC,,,de,1.0
 Drohnenalarm,Drohnenalarm,MISC,0.0,0.0,de,1.0
-Tropennächte,Tropennächte,MISC,,,de,1.0
-Mittwoch“,Mittwoch“,MISC,,,de,1.0
-Bürger“,Bürger“,MISC,,,de,1.0
+SSE,SSE,MISC,,,de,1.0
+Klimamodellen,Klimamodellen,MISC,,,de,1.0
+Ge…,Ge…,MISC,,,de,1.0
+Instagram-Story,Instagram-Story,MISC,,,de,1.0
+Olympia-Beauty Chari Hawkins,Olympia-Beauty Chari Hawkins,MISC,,,de,1.0
+Neues Jahr,Neues Jahr,MISC,,,de,1.0
+Internationalen Atomenergiebehörde,Internationalen Atomenergiebehörde,MISC,,,de,1.0
+Klimaerw…,Klimaerw…,MISC,,,de,1.0
+Wahlperiode,Wahlperiode,MISC,,,de,1.0
+Tiere im Klimawandel,Tiere im Klimawandel,MISC,,,de,1.0
 Trump-Regierung,Trump-Regierung,MISC,,,de,1.0
 Plot“,Plot“,MISC,,,de,1.0
 CO₂-Regulierung,CO₂-Regulierung,MISC,,,de,1.0
@@ -1099,19 +1147,18 @@ Idylle in den Bergen,Idylle in den Bergen,MISC,,,de,1.0
 ",MISC,,,de,1.0
 CO₂-Ausstoß,CO₂-Ausstoß,MISC,,,de,1.0
 EU-Wetterdaten,EU-Wetterdaten,MISC,,,de,1.0
-Draußen schmilzt noch der Schnee,Draußen schmilzt noch der Schnee,MISC,,,de,1.0
+Klage gegen die Klimapolitik,Klage gegen die Klimapolitik,MISC,,,de,1.0
+Berliner Sports“,Berliner Sports“,MISC,,,de,1.0
 Im Jahr davor,Im Jahr davor,MISC,,,de,1.0
-Climate Change Center…,Climate Change Center…,MISC,,,de,1.0
-Die Dringlichkeit der vom Menschen,Die Dringlichkeit der vom Menschen,MISC,,,de,1.0
-ACRP,ACRP,MISC,,,de,1.0
-"Grad
-","Grad
-",MISC,,,de,1.0
-KaribikKuba,KaribikKuba,MISC,,,de,1.0
-Tiere im Klimawandel,Tiere im Klimawandel,MISC,,,de,1.0
-Wahlperiode,Wahlperiode,MISC,,,de,1.0
-Klimaerw…,Klimaerw…,MISC,,,de,1.0
-russischen Angriffskriegs,russischen Angriffskriegs,MISC,,,de,1.0
+ökonomisches,ökonomisches,MISC,,,de,1.0
+deutschem,deutschem,MISC,,,de,1.0
+Im Jahr 2024,Im Jahr 2024,MISC,,,de,1.0
+stillen Killer“,stillen Killer“,MISC,,,de,1.0
+Jahr 2040,Jahr 2040,MISC,,,de,1.0
+Donne… Kopiere,Donne… Kopiere,MISC,,,de,1.0
+Klimaschutzziele,Klimaschutzziele,MISC,,,de,1.0
+Bürger“,Bürger“,MISC,,,de,1.0
+Wir schaffen Klimaschutz,Wir schaffen Klimaschutz,MISC,,,de,1.0
 Regionen</li><li,Regionen</li><li,MISC,,,de,1.0
 Die Staubpartikeln,Die Staubpartikeln,MISC,,,de,1.0
 Starker Temperaturanstieg,Starker Temperaturanstieg,MISC,,,de,1.0
@@ -1121,21 +1168,20 @@ Frühlingsrausch“,Frühlingsrausch“,MISC,,,de,1.0
 Krieg gegen die Ukraine,Krieg gegen die Ukraine,MISC,,,de,1.0
 Millionen Urlauber strömen jedes Jahr,Millionen Urlauber strömen jedes Jahr,MISC,,,de,1.0
 Bali,Bali,MISC,0.0,0.0,de,1.0
+russischen Angriffskriegs,russischen Angriffskriegs,MISC,,,de,1.0
 Winterbilanz,Winterbilanz,MISC,,,de,1.0
-Internationalen Atomenergiebehörde,Internationalen Atomenergiebehörde,MISC,,,de,1.0
 Grünen-Fraktionschefs,Grünen-Fraktionschefs,MISC,,,de,1.0
 Reduktionsziele,Reduktionsziele,MISC,,,de,1.0
-ökonomisches,ökonomisches,MISC,,,de,1.0
-Berliner Sports“,Berliner Sports“,MISC,,,de,1.0
-Ge…,Ge…,MISC,,,de,1.0
-Klage gegen die Klimapolitik,Klage gegen die Klimapolitik,MISC,,,de,1.0
-Instagram-Story,Instagram-Story,MISC,,,de,1.0
-Olympia-Beauty Chari Hawkins,Olympia-Beauty Chari Hawkins,MISC,,,de,1.0
-Neues Jahr,Neues Jahr,MISC,,,de,1.0
-g…,g…,MISC,,,de,1.0
-Stadtratsfraktionen,Stadtratsfraktionen,MISC,,,de,1.0
-groß die Gefahr für deutsche Großstädte,groß die Gefahr für deutsche Großstädte,MISC,,,de,1.0
-Wer an der Küste,Wer an der Küste,MISC,,,de,1.0
+Draußen schmilzt noch der Schnee,Draußen schmilzt noch der Schnee,MISC,,,de,1.0
+Climate Change Center…,Climate Change Center…,MISC,,,de,1.0
+Oldtimer,Oldtimer,MISC,,,de,1.0
+argentinischen,argentinischen,MISC,,,de,1.0
+Das vergangene Jahr,Das vergangene Jahr,MISC,,,de,1.0
+EU-Berechnungen,EU-Berechnungen,MISC,,,de,1.0
+vergangene Jahr 2025,vergangene Jahr 2025,MISC,,,de,1.0
+Drei-Jahres-Durchschnitt,Drei-Jahres-Durchschnitt,MISC,,,de,1.0
+La Niña,La Niña,MISC,,,de,1.0
+Was braucht der Wald im Klimawandel,Was braucht der Wald im Klimawandel,MISC,,,de,1.0
 CBAM,CBAM,MISC,,,de,1.0
 Herbst letztes Jahres,Herbst letztes Jahres,MISC,,,de,1.0
 Deutscher CO2-Ausstoß,Deutscher CO2-Ausstoß,MISC,,,de,1.0
@@ -1145,21 +1191,25 @@ Killerkombi für die Haut,Killerkombi für die Haut,MISC,,,de,1.0
 Trockene Haut im Winter,Trockene Haut im Winter,MISC,,,de,1.0
 Umweltmi…,Umweltmi…,MISC,,,de,1.0
 Trend 1,Trend 1,MISC,,,de,1.0
+Wer an der Küste,Wer an der Küste,MISC,,,de,1.0
 Das Wetter in Rheinland-Pfalz,Das Wetter in Rheinland-Pfalz,MISC,,,de,1.0
-La Niña,La Niña,MISC,,,de,1.0
 Hitzespitze 2025,Hitzespitze 2025,MISC,,,de,1.0
 Di…,Di…,MISC,,,de,1.0
 El Gordo“,El Gordo“,MISC,,,de,1.0
 Anfang des Jahres,Anfang des Jahres,MISC,,,de,1.0
-Starke Regenfälle und Schnee,Starke Regenfälle und Schnee,MISC,,,de,1.0
-Oldtimer,Oldtimer,MISC,,,de,1.0
-LG-Logo,LG-Logo,MISC,,,de,1.0
-deutschsprachige,deutschsprachige,MISC,,,de,1.0
-… IbizaHEUTE,… IbizaHEUTE,MISC,,,de,1.0
-Was braucht der Wald im Klimawandel,Was braucht der Wald im Klimawandel,MISC,,,de,1.0
-Drei-Jahres-Durchschnitt,Drei-Jahres-Durchschnitt,MISC,,,de,1.0
+Nabu,Nabu,MISC,0.0,0.0,de,1.0
+Unglücke“,Unglücke“,MISC,,,de,1.0
+Die Dringlichkeit der vom Menschen,Die Dringlichkeit der vom Menschen,MISC,,,de,1.0
+Chile“,Chile“,MISC,,,de,1.0
+ACRP,ACRP,MISC,,,de,1.0
+"Grad
+","Grad
+",MISC,,,de,1.0
+KaribikKuba,KaribikKuba,MISC,,,de,1.0
+g…,g…,MISC,,,de,1.0
+Stadtratsfraktionen,Stadtratsfraktionen,MISC,,,de,1.0
+groß die Gefahr für deutsche Großstädte,groß die Gefahr für deutsche Großstädte,MISC,,,de,1.0
 iranischen,iranischen,MISC,,,de,1.0
-chilenischen,chilenischen,MISC,,,de,1.0
 un…,un…,MISC,,,de,1.0
 Schnee-Sahara“,Schnee-Sahara“,MISC,,,de,1.0
 Schnee und Eis,Schnee und Eis,MISC,,,de,1.0
@@ -1169,21 +1219,24 @@ Reality-Stars,Reality-Stars,MISC,,,de,1.0
 CDU-Politiker,CDU-Politiker,MISC,,,de,1.0
 Freista…,Freista…,MISC,,,de,1.0
 australische,australische,MISC,,,de,1.0
+chilenischen,chilenischen,MISC,,,de,1.0
 picture alliance/dpa/UNU-INWEH,picture alliance/dpa/UNU-INWEH,MISC,,,de,1.0
-vergangene Jahr 2025,vergangene Jahr 2025,MISC,,,de,1.0
 New York/Dakar,New York/Dakar,MISC,,,de,1.0
 Termine,Termine,MISC,,,de,1.0
 kanadische,kanadische,MISC,,,de,1.0
-Chile“,Chile“,MISC,,,de,1.0
-Unglücke“,Unglücke“,MISC,,,de,1.0
-argentinischen,argentinischen,MISC,,,de,1.0
-Nabu,Nabu,MISC,0.0,0.0,de,1.0
-Das vergangene Jahr,Das vergangene Jahr,MISC,,,de,1.0
-EU-Berechnungen,EU-Berechnungen,MISC,,,de,1.0
-Wir schaffen Klimaschutz,Wir schaffen Klimaschutz,MISC,,,de,1.0
-Klimaschutzziele,Klimaschutzziele,MISC,,,de,1.0
-Bundesratsinitiative“,Bundesratsinitiative“,MISC,,,de,1.0
-Donne… Kopiere,Donne… Kopiere,MISC,,,de,1.0
+NDR-Satiremagazins,NDR-Satiremagazins,MISC,,,de,1.0
+Prognose,Prognose,MISC,,,de,1.0
+Steigende Klimaanlagen-Nutzung,Steigende Klimaanlagen-Nutzung,MISC,,,de,1.0
+XL,XL,MISC,,,de,1.0
+XXL-Individualismus,XXL-Individualismus,MISC,,,de,1.0
+Karfreitag,Karfreitag,MISC,,,de,1.0
+Hundert…,Hundert…,MISC,,,de,1.0
+02.04.2026,02.04.2026,MISC,,,de,1.0
+Starke Regenfälle,Starke Regenfälle,MISC,,,de,1.0
+Feinstaubbelastu…,Feinstaubbelastu…,MISC,,,de,1.0
+Griechische,Griechische,MISC,,,de,1.0
+Unwetterfront,Unwetterfront,MISC,,,de,1.0
+Treibstoffs,Treibstoffs,MISC,,,de,1.0
 Klima-Seniorinnen…,Klima-Seniorinnen…,MISC,,,de,1.0
 Green Visions“,Green Visions“,MISC,,,de,1.0
 weiterlesenZweitliga-Schlusslicht Münster,weiterlesenZweitliga-Schlusslicht Münster,MISC,,,de,1.0
@@ -1196,19 +1249,20 @@ Wettbewerbs,Wettbewerbs,MISC,,,de,1.0
 Ahrensfelde-Blumberg,Ahrensfelde-Blumberg,MISC,,,de,1.0
 Zukunftsthemas,Zukunftsthemas,MISC,,,de,1.0
 Klimaschutzplan“,Klimaschutzplan“,MISC,,,de,1.0
-CCS,CCS,MISC,,,de,1.0
-Kabinett am Mittwoch,Kabinett am Mittwoch,MISC,,,de,1.0
-amerikanischen,amerikanischen,MISC,,,de,1.0
-groß is,groß is,MISC,,,de,1.0
-Kanzleramt“,Kanzleramt“,MISC,,,de,1.0
-Kabinett in Berlin,Kabinett in Berlin,MISC,,,de,1.0
-Kabinett in Berlin besc…,Kabinett in Berlin besc…,MISC,,,de,1.0
-Stadtumbau in der Klimakrise,Stadtumbau in der Klimakrise,MISC,,,de,1.0
-25.03.2026,25.03.2026,MISC,,,de,1.0
-Treibstoffs,Treibstoffs,MISC,,,de,1.0
-Unwetterfront,Unwetterfront,MISC,,,de,1.0
-Griechische,Griechische,MISC,,,de,1.0
-Pixel 11 Pro XL,Pixel 11 Pro XL,MISC,,,de,1.0
+Pixel 11,Pixel 11,MISC,,,de,1.0
+Google-Smartphone,Google-Smartphone,MISC,,,de,1.0
+The Conversation Sahadat Hossain,The Conversation Sahadat Hossain,MISC,,,de,1.0
+Specs,Specs,MISC,,,de,1.0
+Küsten,Küsten,MISC,0.0,0.5263157894736842,de,1.0
+Verteilungskampf,Verteilungskampf,MISC,,,de,1.0
+eine gefährliche Zeit,eine gefährliche Zeit,MISC,,,de,1.0
+Union-Gletscher,Union-Gletscher,MISC,-0.7,0.0,de,1.0
+Das Ewige Eis,Das Ewige Eis,MISC,,,de,1.0
+Antarktis-Forscher,Antarktis-Forscher,MISC,,,de,1.0
+Klimaallianz“,Klimaallianz“,MISC,,,de,1.0
+S...,S...,MISC,,,de,1.0
+Die Landtagsfraktion,Die Landtagsfraktion,MISC,,,de,1.0
+Erdatmosphäre,Erdatmosphäre,MISC,,,de,1.0
 Hitzeschild,Hitzeschild,MISC,,,de,1.0
 Die spektakulärsten Schluchten Deutschlands,Die spektakulärsten Schluchten Deutschlands,MISC,,,de,1.0
 Mindestlohn,Mindestlohn,MISC,,,de,1.0
@@ -1218,21 +1272,21 @@ Querkraft-Architekten,Querkraft-Architekten,MISC,,,de,1.0
 Österreich-Pavillon,Österreich-Pavillon,MISC,,,de,1.0
 arabischen,arabischen,MISC,,,de,1.0
 Pixel 11 Pro X…,Pixel 11 Pro X…,MISC,,,de,1.0
+Pixel 11 Pro XL,Pixel 11 Pro XL,MISC,,,de,1.0
 Galerie & Video,Galerie & Video,MISC,,,de,1.0
-Feinstaubbelastu…,Feinstaubbelastu…,MISC,,,de,1.0
-Specs,Specs,MISC,,,de,1.0
-Google-Smartphone,Google-Smartphone,MISC,,,de,1.0
-XL,XL,MISC,,,de,1.0
-Pixel 11,Pixel 11,MISC,,,de,1.0
-XXL-Individualismus,XXL-Individualismus,MISC,,,de,1.0
-Karfreitag,Karfreitag,MISC,,,de,1.0
-Hundert…,Hundert…,MISC,,,de,1.0
-02.04.2026,02.04.2026,MISC,,,de,1.0
-Starke Regenfälle,Starke Regenfälle,MISC,,,de,1.0
-Schaden-Kosten-Quote,Schaden-Kosten-Quote,MISC,,,de,1.0
-Vorha…,Vorha…,MISC,,,de,1.0
-Irrweges,Irrweges,MISC,,,de,1.0
-Klimaanpassungskonferenz“,Klimaanpassungskonferenz“,MISC,,,de,1.0
+CCS,CCS,MISC,,,de,1.0
+Kabinett am Mittwoch,Kabinett am Mittwoch,MISC,,,de,1.0
+amerikanischen,amerikanischen,MISC,,,de,1.0
+groß is,groß is,MISC,,,de,1.0
+Playa y Sol“,Playa y Sol“,MISC,,,de,1.0
+Kurier,Kurier,MISC,,,de,1.0
+Tages fü…,Tages fü…,MISC,,,de,1.0
+Zugspitzgletscher“,Zugspitzgletscher“,MISC,,,de,1.0
+Wintersport“,Wintersport“,MISC,,,de,1.0
+Sonne und Wolken,Sonne und Wolken,MISC,,,de,1.0
+Trüber Tag,Trüber Tag,MISC,,,de,1.0
+dag…,dag…,MISC,,,de,1.0
+Saharastaubs“,Saharastaubs“,MISC,,,de,1.0
 Warmes Wetter,Warmes Wetter,MISC,,,de,1.0
 Offenbacher Kreuz,Offenbacher Kreuz,MISC,,,de,1.0
 Wahlwochenende,Wahlwochenende,MISC,,,de,1.0
@@ -1242,23 +1296,24 @@ Autowaschen,Autowaschen,MISC,,,de,1.0
 Mainzer,Mainzer,MISC,,,de,1.0
 05.03.2026,05.03.2026,MISC,,,de,1.0
 Die Auswirkungen des Klimawandels,Die Auswirkungen des Klimawandels,MISC,,,de,1.0
+Klimaanpassungskonferenz“,Klimaanpassungskonferenz“,MISC,,,de,1.0
 wegsparen“,wegsparen“,MISC,,,de,1.0
-Saharastaubs“,Saharastaubs“,MISC,,,de,1.0
 Ein Jahr Sondervermögen,Ein Jahr Sondervermögen,MISC,,,de,1.0
-The Conversation Sahadat Hossain,The Conversation Sahadat Hossain,MISC,,,de,1.0
-Steigende Klimaanlagen-Nutzung,Steigende Klimaanlagen-Nutzung,MISC,,,de,1.0
-Prognose,Prognose,MISC,,,de,1.0
-NDR-Satiremagazins,NDR-Satiremagazins,MISC,,,de,1.0
-deutschem,deutschem,MISC,,,de,1.0
-Im Jahr 2024,Im Jahr 2024,MISC,,,de,1.0
-stillen Killer“,stillen Killer“,MISC,,,de,1.0
-Jahr 2040,Jahr 2040,MISC,,,de,1.0
-dag…,dag…,MISC,,,de,1.0
-Trüber Tag,Trüber Tag,MISC,,,de,1.0
-Mercedes-Benz gesc…,Mercedes-Benz gesc…,MISC,,,de,1.0
-CO₂-Bilanz,CO₂-Bilanz,MISC,,,de,1.0
+spanischen Bürgerkrieg,spanischen Bürgerkrieg,MISC,,,de,1.0
+Netto-Treibhausgasemissionen,Netto-Treibhausgasemissionen,MISC,,,de,1.0
+Deutschlands Himmel,Deutschlands Himmel,MISC,,,de,1.0
 WMO-Report,WMO-Report,MISC,,,de,1.0
+Kanzleramt“,Kanzleramt“,MISC,,,de,1.0
+Kabinett in Berlin,Kabinett in Berlin,MISC,,,de,1.0
+Kabinett in Berlin besc…,Kabinett in Berlin besc…,MISC,,,de,1.0
+Stadtumbau in der Klimakrise,Stadtumbau in der Klimakrise,MISC,,,de,1.0
+25.03.2026,25.03.2026,MISC,,,de,1.0
+Schaden-Kosten-Quote,Schaden-Kosten-Quote,MISC,,,de,1.0
+Vorha…,Vorha…,MISC,,,de,1.0
+Irrweges,Irrweges,MISC,,,de,1.0
+Mercedes-Benz gesc…,Mercedes-Benz gesc…,MISC,,,de,1.0
 WMO,WMO,MISC,,,de,1.0
+Auf Blutregen,Auf Blutregen,MISC,,,de,1.0
 WMO-Klimabericht für 2025,WMO-Klimabericht für 2025,MISC,,,de,1.0
 Die Jahre zwischen 2015,Die Jahre zwischen 2015,MISC,,,de,1.0
 Europäischer,Europäischer,MISC,,,de,1.0
@@ -1266,21 +1321,14 @@ Führungsrolle“,Führungsrolle“,MISC,,,de,1.0
 Hitze/Trockenheit“,Hitze/Trockenheit“,MISC,,,de,1.0
 CliA“,CliA“,MISC,,,de,1.0
 Grüne Wand“,Grüne Wand“,MISC,,,de,1.0
+CO₂-Bilanz,CO₂-Bilanz,MISC,,,de,1.0
 O…,O…,MISC,,,de,1.0
-Sonne und Wolken,Sonne und Wolken,MISC,,,de,1.0
-Auf Blutregen,Auf Blutregen,MISC,,,de,1.0
-Deutschlands Himmel,Deutschlands Himmel,MISC,,,de,1.0
-Netto-Treibhausgasemissionen,Netto-Treibhausgasemissionen,MISC,,,de,1.0
-spanischen Bürgerkrieg,spanischen Bürgerkrieg,MISC,,,de,1.0
-Playa y Sol“,Playa y Sol“,MISC,,,de,1.0
-Kurier,Kurier,MISC,,,de,1.0
-Tages fü…,Tages fü…,MISC,,,de,1.0
-Zugspitzgletscher“,Zugspitzgletscher“,MISC,,,de,1.0
-Wintersport“,Wintersport“,MISC,,,de,1.0
-Jahr 2035,Jahr 2035,MISC,,,de,1.0
-Vesuv-Ausbruchs im Jahr 79 n.,Vesuv-Ausbruchs im Jahr 79 n.,MISC,,,de,1.0
-Pflegende Angehörige sollten deshalb…,Pflegende Angehörige sollten deshalb…,MISC,,,de,1.0
-Ein dunkler Schatten,Ein dunkler Schatten,MISC,,,de,1.0
+Starke Regenfälle und Schnee,Starke Regenfälle und Schnee,MISC,,,de,1.0
+LG-Logo,LG-Logo,MISC,,,de,1.0
+Extreme Hitze“,Extreme Hitze“,MISC,,,de,1.0
+Nvidia GeForce GTX 580,Nvidia GeForce GTX 580,MISC,,,de,1.0
+Adobe Stock,Adobe Stock,MISC,,,de,1.0
+Sepia100,Sepia100,MISC,,,de,1.0
 Die Grünenaversion,Die Grünenaversion,MISC,,,de,1.0
 Umweltminister Till B…,Umweltminister Till B…,MISC,,,de,1.0
 MV,MV,MISC,0.0,0.0,de,1.0
@@ -1300,12 +1348,13 @@ NGOs,NGOs,MISC,,,de,1.0
 Angriff auf den Klimaschutz,Angriff auf den Klimaschutz,MISC,,,de,1.0
 v…,v…,MISC,,,de,1.0
 EU-Klimaziel 2040,EU-Klimaziel 2040,MISC,,,de,1.0
-Merz-CDU,Merz-CDU,MISC,,,de,1.0
-Der Politologe Wolfgang Schroeder,Der Politologe Wolfgang Schroeder,MISC,,,de,1.0
-Sepia100,Sepia100,MISC,,,de,1.0
-Adobe Stock,Adobe Stock,MISC,,,de,1.0
 Heizungsrohre,Heizungsrohre,MISC,,,de,1.0
-Einmal im Jahr,Einmal im Jahr,MISC,,,de,1.0
+GTX 480,GTX 480,MISC,,,de,1.0
+Der Politologe Wolfgang Schroeder,Der Politologe Wolfgang Schroeder,MISC,,,de,1.0
+GeForce GTX,GeForce GTX,MISC,,,de,1.0
+Getränke-Produktion,Getränke-Produktion,MISC,-0.7,0.0,de,1.0
+Ein dunkler Schatten,Ein dunkler Schatten,MISC,,,de,1.0
+Das Rätsel um den Aal,Das Rätsel um den Aal,MISC,,,de,1.0
 grüne Sprache,grüne Sprache,MISC,,,de,1.0
 Urlaub in Niedersachsen“,Urlaub in Niedersachsen“,MISC,,,de,1.0
 verhe…,verhe…,MISC,,,de,1.0
@@ -1315,8 +1364,8 @@ Die Menschheit,Die Menschheit,MISC,,,de,1.0
 ni…,ni…,MISC,,,de,1.0
 Rückenwind,Rückenwind,MISC,,,de,1.0
 Klimakonferenz der Vereinten Nationen,Klimakonferenz der Vereinten Nationen,MISC,,,de,1.0
+Einmal im Jahr,Einmal im Jahr,MISC,,,de,1.0
 EU-weiten,EU-weiten,MISC,,,de,1.0
-Nvidia GeForce GTX 580,Nvidia GeForce GTX 580,MISC,,,de,1.0
 brandenb…,brandenb…,MISC,,,de,1.0
 Wasser-Streit“,Wasser-Streit“,MISC,,,de,1.0
 Getränkehersteller“,Getränkehersteller“,MISC,,,de,1.0
@@ -1324,12 +1373,11 @@ Wasser-Streit,Wasser-Streit,MISC,,,de,1.0
 Klimaziele“,Klimaziele“,MISC,,,de,1.0
 solar-elektrisch,solar-elektrisch,MISC,,,de,1.0
 GeForce GTX 580,GeForce GTX 580,MISC,,,de,1.0
-GeForce GTX,GeForce GTX,MISC,,,de,1.0
-GTX 480,GTX 480,MISC,,,de,1.0
+Merz-CDU,Merz-CDU,MISC,,,de,1.0
 AfD sage,AfD sage,MISC,,,de,1.0
-Online-Abstimmung,Online-Abstimmung,MISC,,,de,1.0
-Krieges,Krieges,MISC,,,de,1.0
-Britischen,Britischen,MISC,,,de,1.0
+deutschsprachige,deutschsprachige,MISC,,,de,1.0
+Vo…,Vo…,MISC,0.0,0.0,de,1.0
+Krankheitserreger,Krankheitserreger,MISC,0.0,0.0,de,1.0
 Händewaschen“,Händewaschen“,MISC,,,de,1.0
 DFB-Team,DFB-Team,MISC,,,de,1.0
 WM-Anstoßzeiten,WM-Anstoßzeiten,MISC,,,de,1.0
@@ -1339,8 +1387,8 @@ Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1.0
 La Tribune,La Tribune,MISC,,,de,1.0
 Kassenärztlichen Vereinigun…,Kassenärztlichen Vereinigun…,MISC,,,de,1.0
 Krankheiten“,Krankheiten“,MISC,,,de,1.0
+Britischen,Britischen,MISC,,,de,1.0
 Wiener MuseumsQuartier,Wiener MuseumsQuartier,MISC,,,de,1.0
-Keim-Hotspots,Keim-Hotspots,MISC,,,de,1.0
 WasserdIplomatie,WasserdIplomatie,MISC,,,de,1.0
 Der unsichtbare Schatz,Der unsichtbare Schatz,MISC,,,de,1.0
 Drohnen-Sichtungen,Drohnen-Sichtungen,MISC,,,de,1.0
@@ -1350,10 +1398,12 @@ Apple iPad Pro,Apple iPad Pro,MISC,,,de,1.0
 Neue M5-Generation,Neue M5-Generation,MISC,,,de,1.0
 Wie viel,Wie viel,MISC,,,de,1.0
 Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
-Krankheitserreger,Krankheitserreger,MISC,,,de,1.0
-Vo…,Vo…,MISC,0.0,0.0,de,1.0
+Keim-Hotspots,Keim-Hotspots,MISC,,,de,1.0
+Händewaschen,Händewaschen,MISC,0.0,0.0,de,1.0
+Online-Abstimmung,Online-Abstimmung,MISC,,,de,1.0
+Hygiene,Hygiene,MISC,,,de,1.0
+Krieges,Krieges,MISC,,,de,1.0
 Krieg in Gaza,Krieg in Gaza,MISC,,,de,1.0
-Fabian,Fabian,MISC,,,de,1.0
 Agri-Photovoltaik,Agri-Photovoltaik,MISC,,,de,1.0
 Solarmodule über Weinbergen,Solarmodule über Weinbergen,MISC,,,de,1.0
 Mit Hochdruck,Mit Hochdruck,MISC,,,de,1.0
@@ -1363,8 +1413,8 @@ Der Fall des kleinen Gus Lamont,Der Fall des kleinen Gus Lamont,MISC,,,de,1.0
 KI-Fälschungen,KI-Fälschungen,MISC,,,de,1.0
 Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,MISC,,,de,1.0
 Schrank einzu…,Schrank einzu…,MISC,,,de,1.0
+Fabian,Fabian,MISC,,,de,1.0
 Herbst die schönste Zeit des Jahres,Herbst die schönste Zeit des Jahres,MISC,,,de,1.0
-Händewaschen,Händewaschen,MISC,0.0,0.0,de,1.0
 schönste Zeit des Jahres,schönste Zeit des Jahres,MISC,,,de,1.0
 Hilo-Band,Hilo-Band,MISC,,,de,1.0
 KI-Kontinent“,KI-Kontinent“,MISC,,,de,1.0
@@ -1373,11 +1423,14 @@ Abkommen bereits…,Abkommen bereits…,MISC,,,de,1.0
 ROG Xbox Ally X,ROG Xbox Ally X,MISC,,,de,1.0
 Gaming-Handhelds,Gaming-Handhelds,MISC,,,de,1.0
 ASUS,ASUS,MISC,,,de,1.0
-Hygiene,Hygiene,MISC,,,de,1.0
-Das Rätsel um den Aal,Das Rätsel um den Aal,MISC,,,de,1.0
-Getränke-Produktion,Getränke-Produktion,MISC,-0.7,0.0,de,1.0
-süditalienischen,süditalienischen,MISC,,,de,1.0
 Wassers,Wassers,MISC,0.0,0.0,de,1.0
+Baruth“,Baruth“,MISC,,,de,1.0
+iranische,iranische,MISC,,,de,1.0
+Airline Eurowings,Airline Eurowings,MISC,,,de,1.0
+CO2-Zahlung,CO2-Zahlung,MISC,,,de,1.0
+Eurowings-Werbung,Eurowings-Werbung,MISC,,,de,1.0
+Bundesregierung“,Bundesregierung“,MISC,,,de,1.0
+Schweiß­perlen,Schweiß­perlen,MISC,,,de,1.0
 Selbst­versorgung,Selbst­versorgung,MISC,,,de,1.0
 Klimaschutzgesetzes,Klimaschutzgesetzes,MISC,,,de,1.0
 Klimaschutz-Maßnahmen,Klimaschutz-Maßnahmen,MISC,,,de,1.0
@@ -1395,14 +1448,15 @@ Kohlendioxid-Speicherungsgese…,Kohlendioxid-Speicherungsgese…,MISC,,,de,1.0
 CO2-Speicherung,CO2-Speicherung,MISC,,,de,1.0
 Fußball-WM: Illusion vom Glück,Fußball-WM: Illusion vom Glück,MISC,,,de,1.0
 lateinischen,lateinischen,MISC,,,de,1.0
-Aqara,Aqara,MISC,,,de,1.0
-Der Klimaschutz-Index,Der Klimaschutz-Index,MISC,,,de,1.0
-Klima-Indizes,Klima-Indizes,MISC,,,de,1.0
-Schleswig-Holsteins,Schleswig-Holsteins,MISC,-0.7,0.0,de,1.0
-Schweiß­perlen,Schweiß­perlen,MISC,,,de,1.0
-Bundesregierung“,Bundesregierung“,MISC,,,de,1.0
-Eurowings-Werbung,Eurowings-Werbung,MISC,,,de,1.0
-Finanzkurs,Finanzkurs,MISC,,,de,1.0
+Klimaschutzprojekte,Klimaschutzprojekte,MISC,,,de,1.0
+Globale Temperaturen,Globale Temperaturen,MISC,,,de,1.0
+Was… Kopiere,Was… Kopiere,MISC,,,de,1.0
+Negativ-Rekordjahr,Negativ-Rekordjahr,MISC,,,de,1.0
+… IbizaHEUTE,… IbizaHEUTE,MISC,,,de,1.0
+Jahr 2035,Jahr 2035,MISC,,,de,1.0
+Bundesratsinitiative“,Bundesratsinitiative“,MISC,,,de,1.0
+Vesuv-Ausbruchs im Jahr 79 n.,Vesuv-Ausbruchs im Jahr 79 n.,MISC,,,de,1.0
+süditalienischen,süditalienischen,MISC,,,de,1.0
 Pompeji-Opfer,Pompeji-Opfer,MISC,,,de,1.0
 Bäume ze…,Bäume ze…,MISC,,,de,1.0
 dritten Jahr,dritten Jahr,MISC,,,de,1.0
@@ -1414,21 +1468,21 @@ Verbrenner-Verbot,Verbrenner-Verbot,MISC,,,de,1.0
 ","shutterstock
 ",MISC,,,de,1.0
 DNA,DNA,MISC,,,de,1.0
+Finanzkurs,Finanzkurs,MISC,,,de,1.0
 Nahverkehr“,Nahverkehr“,MISC,,,de,1.0
-CO2-Zahlung,CO2-Zahlung,MISC,,,de,1.0
 Was Bahn-Pendler,Was Bahn-Pendler,MISC,,,de,1.0
 Temperaturen steigen schneller,Temperaturen steigen schneller,MISC,,,de,1.0
-Deutschland,Deutschland,MISC,0.0,0.0018436578171091593,de,1.0
+Deutschland,Deutschland,MISC,0.0,0.0017790428749333016,de,1.0
 IMAGO/Pond5 Images,IMAGO/Pond5 Images,MISC,,,de,1.0
 Jedes Jahr,Jedes Jahr,MISC,,,de,1.0
-Negativ-Rekordjahr,Negativ-Rekordjahr,MISC,,,de,1.0
-Globale Temperaturen,Globale Temperaturen,MISC,,,de,1.0
-Airline Eurowings,Airline Eurowings,MISC,,,de,1.0
-Klimaschutzprojekte,Klimaschutzprojekte,MISC,,,de,1.0
-IAMC,IAMC,MISC,,,de,1.0
-Integrated Assessment Modelling Consortium,Integrated Assessment Modelling Consortium,MISC,,,de,1.0
-Luftverschmutzung und Seehöhe,Luftverschmutzung und Seehöhe,MISC,,,de,1.0
-Heiße Sache,Heiße Sache,MISC,,,de,1.0
+Aqara,Aqara,MISC,,,de,1.0
+Der Klimaschutz-Index,Der Klimaschutz-Index,MISC,,,de,1.0
+Klima-Indizes,Klima-Indizes,MISC,,,de,1.0
+Schleswig-Holsteins,Schleswig-Holsteins,MISC,-0.7,0.0,de,1.0
+FIFA-Werbung,FIFA-Werbung,MISC,,,de,1.0
+Jahr 202…,Jahr 202…,MISC,,,de,1.0
+Jahr 202,Jahr 202,MISC,,,de,1.0
+Chefin des …,Chefin des …,MISC,,,de,1.0
 CO2-neutral,CO2-neutral,MISC,,,de,1.0
 kalifornischer,kalifornischer,MISC,,,de,1.0
 Klimarisiko-Index 2026,Klimarisiko-Index 2026,MISC,,,de,1.0
@@ -1438,51 +1492,121 @@ Klima-Portals Carbon Brief…,Klima-Portals Carbon Brief…,MISC,,,de,1.0
 Deta…,Deta…,MISC,,,de,1.0
 Spitzenpreis,Spitzenpreis,MISC,,,de,1.0
 Shark SpeedStyle,Shark SpeedStyle,MISC,,,de,1.0
+Heiße Sache,Heiße Sache,MISC,,,de,1.0
 Ta…,Ta…,MISC,,,de,1.0
-Jahr 202,Jahr 202,MISC,,,de,1.0
 Handy-Mittelklasse,Handy-Mittelklasse,MISC,,,de,1.0
 Xiaomi,Xiaomi,MISC,,,de,1.0
 Wunderschönes Handy,Wunderschönes Handy,MISC,,,de,1.0
 Kli…,Kli…,MISC,,,de,1.0
 KI-Boom,KI-Boom,MISC,,,de,1.0
 Cou…,Cou…,MISC,,,de,1.0
-Was… Kopiere,Was… Kopiere,MISC,,,de,1.0
-iranische,iranische,MISC,,,de,1.0
-Baruth“,Baruth“,MISC,,,de,1.0
-Chefin des …,Chefin des …,MISC,,,de,1.0
-Jahr 202…,Jahr 202…,MISC,,,de,1.0
+WM 2022,WM 2022,MISC,,,de,1.0
+Fußball-WM in Katar 2022,Fußball-WM in Katar 2022,MISC,,,de,1.0
+Fußball-Weltverbands,Fußball-Weltverbands,MISC,,,de,1.0
+Stürme global,Stürme global,MISC,,,de,1.0
+IAMC,IAMC,MISC,,,de,1.0
+Integrated Assessment Modelling Consortium,Integrated Assessment Modelling Consortium,MISC,,,de,1.0
+Luftverschmutzung und Seehöhe,Luftverschmutzung und Seehöhe,MISC,,,de,1.0
 r…,r…,MISC,,,de,1.0
-Kein Land der Welt,Kein Land der Welt,MISC,,,de,1.0
 Ayatollah-Regimes,Ayatollah-Regimes,MISC,,,de,1.0
 Erzfeind,Erzfeind,MISC,,,de,1.0
 Saharastaub gesichtet</li><li,Saharastaub gesichtet</li><li,MISC,,,de,1.0
 Wegner,Wegner,MISC,0.0,0.0,de,1.0
 Windenergiebranche,Windenergiebranche,MISC,,,de,1.0
-Stürme global,Stürme global,MISC,,,de,1.0
 Gemini South Telescope…,Gemini South Telescope…,MISC,,,de,1.0
+Katar im Jahr 2022,Katar im Jahr 2022,MISC,,,de,1.0
 Raumschiff,Raumschiff,MISC,,,de,1.0
 Hauptp…,Hauptp…,MISC,,,de,1.0
+Kein Land der Welt,Kein Land der Welt,MISC,,,de,1.0
 Chinesische,Chinesische,MISC,,,de,1.0
-FIFA-Werbung,FIFA-Werbung,MISC,,,de,1.0
 Sommergruß,Sommergruß,MISC,,,de,1.0
 Wochenbeginn,Wochenbeginn,MISC,,,de,1.0
 Treibhausgas CO2,Treibhausgas CO2,MISC,,,de,1.0
 Potsdamer ViP-Betriebshofs,Potsdamer ViP-Betriebshofs,MISC,,,de,1.0
 Geri…,Geri…,MISC,,,de,1.0
-Katar im Jahr 2022,Katar im Jahr 2022,MISC,,,de,1.0
-Fußball-Weltverbands,Fußball-Weltverbands,MISC,,,de,1.0
-Fußball-WM in Katar 2022,Fußball-WM in Katar 2022,MISC,,,de,1.0
-WM 2022,WM 2022,MISC,,,de,1.0
-Erdatmosphäre,Erdatmosphäre,MISC,,,de,1.0
-Die Landtagsfraktion,Die Landtagsfraktion,MISC,,,de,1.0
-S...,S...,MISC,,,de,1.0
-Ein heißer Tag in Deutschland,Ein heißer Tag in Deutschland,MISC,,,de,1.0
+⚓️ Ich,⚓️ Ich,MISC,,,de,1.0
+Juli+August+…,Juli+August+…,MISC,,,de,1.0
+SwitchBot,SwitchBot,MISC,,,de,1.0
+WHO-Regionaldirektor,WHO-Regionaldirektor,MISC,,,de,1.0
+Klimaschutz-Wettbewerb,Klimaschutz-Wettbewerb,MISC,,,de,1.0
+pakistanische,pakistanische,MISC,,,de,1.0
+Ein Mann sucht an einem,Ein Mann sucht an einem,MISC,,,de,1.0
+Tropennächte,Tropennächte,MISC,,,de,1.0
+siebtwärm…,siebtwärm…,MISC,,,de,1.0
+"Aufzeichnungen
+","Aufzeichnungen
+",MISC,,,de,1.0
+Meere,Meere,MISC,,,de,1.0
+Grace“…,Grace“…,MISC,,,de,1.0
+Interreg Projekts,Interreg Projekts,MISC,,,de,1.0
+Wasserhaushalt“,Wasserhaushalt“,MISC,,,de,1.0
+Wechseljahres-Symptome,Wechseljahres-Symptome,MISC,,,de,1.0
+Hitze-Check,Hitze-Check,MISC,0.0,0.0,de,1.0
+XXL-Turnier,XXL-Turnier,MISC,,,de,1.0
+tado°,tado°,MISC,,,de,1.0
+Midea PortaSplit,Midea PortaSplit,MISC,,,de,1.0
+Warme Tage,Warme Tage,MISC,,,de,1.0
+Katastrophale B…,Katastrophale B…,MISC,,,de,1.0
+Klimaanpassungsgesetz,Klimaanpassungsgesetz,MISC,,,de,1.0
+internationalen Klimaschutzprozess,internationalen Klimaschutzprozess,MISC,,,de,1.0
 Klimaschutz-Aktion“,Klimaschutz-Aktion“,MISC,,,de,1.0
 Gesetz auf den Klimaschutz,Gesetz auf den Klimaschutz,MISC,,,de,1.0
-Gebäudemodernisi…,Gebäudemodernisi…,MISC,,,de,1.0
+Jahresbericht,Jahresbericht,MISC,,,de,1.0
+Wir geben den Menschen die Freiheit,Wir geben den Menschen die Freiheit,MISC,,,de,1.0
 Moose,Moose,MISC,,,de,1.0
+Gebäudemodernisieru…,Gebäudemodernisieru…,MISC,,,de,1.0
+WM in Amerika,WM in Amerika,MISC,,,de,1.0
+WM in den USA,WM in den USA,MISC,,,de,1.0
+WM für die Spieler,WM für die Spieler,MISC,,,de,1.0
+Juni-Rekord“,Juni-Rekord“,MISC,,,de,1.0
+KfW-Umfrage,KfW-Umfrage,MISC,,,de,1.0
+SEHK,SEHK,MISC,,,de,1.0
+Shanghai Electric ,Shanghai Electric ,MISC,,,de,1.0
+dänischen,dänischen,MISC,,,de,1.0
+gefröstelt,gefröstelt,MISC,,,de,1.0
+Die ideale Kleidung für heiße Tage,Die ideale Kleidung für heiße Tage,MISC,,,de,1.0
+Luftige Sommermode,Luftige Sommermode,MISC,,,de,1.0
+Verband spiele,Verband spiele,MISC,,,de,1.0
+Biber,Biber,MISC,,,de,1.0
+Fußball-WM im Hitzestress,Fußball-WM im Hitzestress,MISC,,,de,1.0
+weiterlesenSeit,weiterlesenSeit,MISC,,,de,1.0
+"Wind, Regen","Wind, Regen",MISC,,,de,1.0
+Regen und Sturm,Regen und Sturm,MISC,,,de,1.0
+Hautpflege,Hautpflege,MISC,,,de,1.0
+Pfannen,Pfannen,MISC,,,de,1.0
+Ein heißer Tag in Deutschland,Ein heißer Tag in Deutschland,MISC,,,de,1.0
+Fußball-WM zur tödlichen Hitzefalle,Fußball-WM zur tödlichen Hitzefalle,MISC,,,de,1.0
+Gebäudemodernisi…,Gebäudemodernisi…,MISC,,,de,1.0
 Reaktorkatastrophe von Tschernobyl,Reaktorkatastrophe von Tschernobyl,MISC,,,de,1.0
+OneRobotics,OneRobotics,MISC,,,de,1.0
+Somewhere Else Together,Somewhere Else Together,MISC,,,de,1.0
+Wetterbilanz“,Wetterbilanz“,MISC,,,de,1.0
+Landwirtschaftsministeriums,Landwirtschaftsministeriums,MISC,,,de,1.0
+Ein El Niño,Ein El Niño,MISC,,,de,1.0
+Energiehunger von KI-Technologien,Energiehunger von KI-Technologien,MISC,,,de,1.0
+Der Ausbau von KI-Rechenzentren,Der Ausbau von KI-Rechenzentren,MISC,,,de,1.0
+KI“,KI“,MISC,,,de,1.0
+"Victoria O’May
+","Victoria O’May
+",MISC,,,de,1.0
+Big-Tech,Big-Tech,MISC,,,de,1.0
+KI-Klimaschwindel und Greenwashing,KI-Klimaschwindel und Greenwashing,MISC,,,de,1.0
+Xia…,Xia…,MISC,,,de,1.0
+KI,KI,MISC,0.5,0.0,de,1.0
+Xiaomi Mijia GentleAir,Xiaomi Mijia GentleAir,MISC,,,de,1.0
+Moorschutz“,Moorschutz“,MISC,,,de,1.0
+Hirtenjah…,Hirtenjah…,MISC,,,de,1.0
+Fußball-Fieber,Fußball-Fieber,MISC,,,de,1.0
+Fußball-WM 2026,Fußball-WM 2026,MISC,,,de,1.0
+Niedersachsen,Niedersachsen,MISC,0.0,0.0,de,1.0
+Waldbrandfrüherkennung,Waldbrandfrüherkennung,MISC,,,de,1.0
+Milliarden-Sondervermögens,Milliarden-Sondervermögens,MISC,,,de,1.0
+Ab 1,Ab 1,MISC,,,de,1.0
+Die ersten richtig,Die ersten richtig,MISC,,,de,1.0
+Rekord-Trockenheit für Bayern,Rekord-Trockenheit für Bayern,MISC,,,de,1.0
+Bluthochdruck bei Hitze,Bluthochdruck bei Hitze,MISC,,,de,1.0
 … Wenn,… Wenn,MISC,,,de,1.0
+Heiße Tage stellen für Menschen mit Bluthochdruck,Heiße Tage stellen für Menschen mit Bluthochdruck,MISC,,,de,1.0
 Men…,Men…,MISC,,,de,1.0
 UN-anerkannte,UN-anerkannte,MISC,,,de,1.0
 Der Rest is,Der Rest is,MISC,,,de,1.0
@@ -1498,122 +1622,25 @@ Elder Stateswoman,Elder Stateswoman,MISC,,,de,1.0
 Lidl-Klimaanlage,Lidl-Klimaanlage,MISC,,,de,1.0
 Alpenraum,Alpenraum,MISC,0.7,0.0,de,1.0
 Wiedervernässungsoffensive,Wiedervernässungsoffensive,MISC,,,de,1.0
-internationalen Klimaschutzprozess,internationalen Klimaschutzprozess,MISC,,,de,1.0
-Klimaanpassungsgesetz,Klimaanpassungsgesetz,MISC,,,de,1.0
-Katastrophale B…,Katastrophale B…,MISC,,,de,1.0
-siebtwärm…,siebtwärm…,MISC,,,de,1.0
-Gebäudemodernisieru…,Gebäudemodernisieru…,MISC,,,de,1.0
-CDU-Politikerin,CDU-Politikerin,MISC,,,de,1.0
-Wir geben den Menschen die Freiheit,Wir geben den Menschen die Freiheit,MISC,,,de,1.0
-WHO-Regionaldirektor,WHO-Regionaldirektor,MISC,,,de,1.0
-Jahresbericht,Jahresbericht,MISC,,,de,1.0
-Klimaschutz-Wettbewerb,Klimaschutz-Wettbewerb,MISC,,,de,1.0
-pakistanische,pakistanische,MISC,,,de,1.0
-Ein Mann sucht an einem,Ein Mann sucht an einem,MISC,,,de,1.0
-dänischen,dänischen,MISC,,,de,1.0
-"Aufzeichnungen
-","Aufzeichnungen
-",MISC,,,de,1.0
-Warme Tage,Warme Tage,MISC,,,de,1.0
-Meere,Meere,MISC,,,de,1.0
-Grace“…,Grace“…,MISC,,,de,1.0
-Interreg Projekts,Interreg Projekts,MISC,,,de,1.0
-Wasserhaushalt“,Wasserhaushalt“,MISC,,,de,1.0
-Wechseljahres-Symptome,Wechseljahres-Symptome,MISC,,,de,1.0
-Hitze-Check,Hitze-Check,MISC,0.0,0.0,de,1.0
-XXL-Turnier,XXL-Turnier,MISC,,,de,1.0
-tado°,tado°,MISC,,,de,1.0
-Midea PortaSplit,Midea PortaSplit,MISC,,,de,1.0
 Treibhausgas-Senkung,Treibhausgas-Senkung,MISC,,,de,1.0
 Forschungsprojekts …,Forschungsprojekts …,MISC,,,de,1.0
 Austrian In…,Austrian In…,MISC,,,de,1.0
-Monat beispiel…,Monat beispiel…,MISC,,,de,1.0
-Milliarden-Sondervermögens,Milliarden-Sondervermögens,MISC,,,de,1.0
-Ab 1,Ab 1,MISC,,,de,1.0
-Die ersten richtig,Die ersten richtig,MISC,,,de,1.0
-Smarte Lösung für den Sommer,Smarte Lösung für den Sommer,MISC,,,de,1.0
-Mini-Klimagerät,Mini-Klimagerät,MISC,,,de,1.0
-Aerix WF04,Aerix WF04,MISC,,,de,1.0
-Talsperren-Sys…,Talsperren-Sys…,MISC,,,de,1.0
-Talsperren-System,Talsperren-System,MISC,,,de,1.0
-Frühling der Wetterrekorde,Frühling der Wetterrekorde,MISC,,,de,1.0
-beispie…,beispie…,MISC,,,de,1.0
-Niedersachsen,Niedersachsen,MISC,0.0,0.0,de,1.0
-Beispiellose Hitze“,Beispiellose Hitze“,MISC,,,de,1.0
-Unwetterlage des Jahres,Unwetterlage des Jahres,MISC,,,de,1.0
-picture al,picture al,MISC,,,de,1.0
-Schädling,Schädling,MISC,0.0,0.0,de,1.0
-Super-El Niño“,Super-El Niño“,MISC,,,de,1.0
-Berliner Umweltausschuss,Berliner Umweltausschuss,MISC,,,de,1.0
-Unseren Bäumen,Unseren Bäumen,MISC,,,de,1.0
-Deutsche Post DHL,Deutsche Post DHL,MISC,,,de,1.0
-Dreißig G…,Dreißig G…,MISC,,,de,1.0
-Waldbrandfrüherkennung,Waldbrandfrüherkennung,MISC,,,de,1.0
-Fußball-WM 2026,Fußball-WM 2026,MISC,,,de,1.0
 heißestes Jahr aller Zeiten,heißestes Jahr aller Zeiten,MISC,,,de,1.0
-Energiehunger von KI-Technologien,Energiehunger von KI-Technologien,MISC,,,de,1.0
 verringern</li><li,verringern</li><li,MISC,,,de,1.0
 gefährdet</li><li,gefährdet</li><li,MISC,,,de,1.0
-Heiße Tage stellen für Menschen mit Bluthochdruck,Heiße Tage stellen für Menschen mit Bluthochdruck,MISC,,,de,1.0
-Bluthochdruck bei Hitze,Bluthochdruck bei Hitze,MISC,,,de,1.0
-Somewhere Else Together,Somewhere Else Together,MISC,,,de,1.0
-Rekord-Trockenheit für Bayern,Rekord-Trockenheit für Bayern,MISC,,,de,1.0
-Wetterbilanz“,Wetterbilanz“,MISC,,,de,1.0
-Landwirtschaftsministeriums,Landwirtschaftsministeriums,MISC,,,de,1.0
-Ein El Niño,Ein El Niño,MISC,,,de,1.0
-Der Ausbau von KI-Rechenzentren,Der Ausbau von KI-Rechenzentren,MISC,,,de,1.0
-Fußball-Fieber,Fußball-Fieber,MISC,,,de,1.0
-KI“,KI“,MISC,,,de,1.0
-"Victoria O’May
-","Victoria O’May
-",MISC,,,de,1.0
-Big-Tech,Big-Tech,MISC,,,de,1.0
-KI-Klimaschwindel und Greenwashing,KI-Klimaschwindel und Greenwashing,MISC,,,de,1.0
-Xia…,Xia…,MISC,,,de,1.0
-KI,KI,MISC,0.5,0.0,de,1.0
-Xiaomi Mijia GentleAir,Xiaomi Mijia GentleAir,MISC,,,de,1.0
-Moorschutz“,Moorschutz“,MISC,,,de,1.0
-Hirtenjah…,Hirtenjah…,MISC,,,de,1.0
-Fußball-WM zur tödlichen Hitzefalle,Fußball-WM zur tödlichen Hitzefalle,MISC,,,de,1.0
-Pfannen,Pfannen,MISC,,,de,1.0
-Klimaallianz“,Klimaallianz“,MISC,,,de,1.0
-Hautpflege,Hautpflege,MISC,,,de,1.0
-k…,k…,MISC,,,de,1.0
-Die Organisatoren der nationalen Sommerspiele,Die Organisatoren der nationalen Sommerspiele,MISC,,,de,1.0
-Abschlussfeier“,Abschlussfeier“,MISC,,,de,1.0
-Frozen Drinks,Frozen Drinks,MISC,,,de,1.0
-Die Hitze-Tipps,Die Hitze-Tipps,MISC,,,de,1.0
-Toilettenpapier“,Toilettenpapier“,MISC,,,de,1.0
-Hitze schmo…,Hitze schmo…,MISC,,,de,1.0
-Wetter-Folgen“,Wetter-Folgen“,MISC,,,de,1.0
-Eine heiße Schlacht,Eine heiße Schlacht,MISC,,,de,1.0
-Samstag in Berlin“,Samstag in Berlin“,MISC,,,de,1.0
-Hitze in NRW“,Hitze in NRW“,MISC,,,de,1.0
-Der aktuelle Hitze-Check,Der aktuelle Hitze-Check,MISC,,,de,1.0
-Probanden,Probanden,MISC,,,de,1.0
-Heiße Tage und kühle Tricks,Heiße Tage und kühle Tricks,MISC,,,de,1.0
-Innensta…,Innensta…,MISC,,,de,1.0
-Stadtjubiläums,Stadtjubiläums,MISC,,,de,1.0
-Konzepts,Konzepts,MISC,,,de,1.0
-wiss…,wiss…,MISC,,,de,1.0
-Festwochenende“,Festwochenende“,MISC,,,de,1.0
-Mendig/Trier/Glees,Mendig/Trier/Glees,MISC,,,de,1.0
-Tipps für heiße Tage gi,Tipps für heiße Tage gi,MISC,,,de,1.0
-Clueso,Clueso,MISC,-0.7,0.0,de,1.0
-Musikfans,Musikfans,MISC,,,de,1.0
-Hessentag auf die Hitze,Hessentag auf die Hitze,MISC,,,de,1.0
-Wetters,Wetters,MISC,,,de,1.0
-Öfen“,Öfen“,MISC,,,de,1.0
-Frankreich,Frankreich,MISC,-0.004611330698287208,0.0,de,1.0
-jedes Jahr …,jedes Jahr …,MISC,,,de,1.0
+Nacht kühl…,Nacht kühl…,MISC,,,de,1.0
+Green City Award,Green City Award,MISC,,,de,1.0
+Kommune de…,Kommune de…,MISC,,,de,1.0
+Pflegende Angehörige sollten deshalb…,Pflegende Angehörige sollten deshalb…,MISC,,,de,1.0
+Frankreich,Frankreich,MISC,-0.004122497055359234,0.0,de,1.0
 Waldbrandschutzbeauftragten,Waldbrandschutzbeauftragten,MISC,,,de,1.0
 AGES,AGES,MISC,,,de,1.0
 Das Hitze-Mortalitätsmonitoring,Das Hitze-Mortalitätsmonitoring,MISC,,,de,1.0
 Sü…,Sü…,MISC,0.0,0.0,de,1.0
 Offenbach/Berlin,Offenbach/Berlin,MISC,,,de,1.0
 Warn-App,Warn-App,MISC,,,de,1.0
+Wetters,Wetters,MISC,,,de,1.0
 Temperaturen kletter…,Temperaturen kletter…,MISC,,,de,1.0
-vo…,vo…,MISC,,,de,1.0
 Hochtouren,Hochtouren,MISC,,,de,1.0
 weiterlesenEs,weiterlesenEs,MISC,,,de,1.0
 Hitze und Wetter,Hitze und Wetter,MISC,,,de,1.0
@@ -1623,36 +1650,38 @@ Musikfest,Musikfest,MISC,,,de,1.0
 Land mahnt bei Sonnwendfeuern,Land mahnt bei Sonnwendfeuern,MISC,,,de,1.0
 Digitale Infrastruktur“,Digitale Infrastruktur“,MISC,,,de,1.0
 dabeihat,dabeihat,MISC,,,de,1.0
-Rot-Kreuz-Notarzt,Rot-Kreuz-Notarzt,MISC,,,de,1.0
-Tipps für heiße Tage,Tipps für heiße Tage,MISC,,,de,1.0
-Landesfest“,Landesfest“,MISC,,,de,1.0
-Shanghai Electric ,Shanghai Electric ,MISC,,,de,1.0
-Kommune de…,Kommune de…,MISC,,,de,1.0
-Green City Award,Green City Award,MISC,,,de,1.0
-Nacht kühl…,Nacht kühl…,MISC,,,de,1.0
-WM in Amerika,WM in Amerika,MISC,,,de,1.0
-WM in den USA,WM in den USA,MISC,,,de,1.0
-WM für die Spieler,WM für die Spieler,MISC,,,de,1.0
-Juni-Rekord“,Juni-Rekord“,MISC,,,de,1.0
-KfW-Umfrage,KfW-Umfrage,MISC,,,de,1.0
-SEHK,SEHK,MISC,,,de,1.0
-SSE,SSE,MISC,,,de,1.0
-Un…,Un…,MISC,,,de,1.0
-gefröstelt,gefröstelt,MISC,,,de,1.0
-Die ideale Kleidung für heiße Tage,Die ideale Kleidung für heiße Tage,MISC,,,de,1.0
-Luftige Sommermode,Luftige Sommermode,MISC,,,de,1.0
-Verband spiele,Verband spiele,MISC,,,de,1.0
-Biber,Biber,MISC,,,de,1.0
-Fußball-WM im Hitzestress,Fußball-WM im Hitzestress,MISC,,,de,1.0
-weiterlesenSeit,weiterlesenSeit,MISC,,,de,1.0
-"Wind, Regen","Wind, Regen",MISC,,,de,1.0
-Regen und Sturm,Regen und Sturm,MISC,,,de,1.0
+vo…,vo…,MISC,,,de,1.0
+Hessentag auf die Hitze,Hessentag auf die Hitze,MISC,,,de,1.0
+Clueso,Clueso,MISC,-0.7,0.0,de,1.0
+Öfen“,Öfen“,MISC,,,de,1.0
+Mittwoch“,Mittwoch“,MISC,,,de,1.0
 Erste Hitzewelle des Jahres,Erste Hitzewelle des Jahres,MISC,,,de,1.0
-Milliliter,Milliliter,MISC,,,de,1.0
-sani…,sani…,MISC,,,de,1.0
-Hohe Temperaturen fordern jedes Jahr,Hohe Temperaturen fordern jedes Jahr,MISC,,,de,1.0
-Hitze-Falle,Hitze-Falle,MISC,,,de,1.0
-Kraft“,Kraft“,MISC,,,de,1.0
+au…,au…,MISC,,,de,1.0
+Hitzeschutzplan“,Hitzeschutzplan“,MISC,,,de,1.0
+Besucherinnen u…,Besucherinnen u…,MISC,,,de,1.0
+BAUERNREGEL,BAUERNREGEL,MISC,,,de,1.0
+Katholische,Katholische,MISC,,,de,1.0
+Halbmarathon-Organisator,Halbmarathon-Organisator,MISC,,,de,1.0
+Verbote,Verbote,MISC,,,de,1.0
+Hitze und Kälte,Hitze und Kälte,MISC,,,de,1.0
+paa…,paa…,MISC,,,de,1.0
+kons…,kons…,MISC,,,de,1.0
+Alarmstufe Orange,Alarmstufe Orange,MISC,,,de,1.0
+Google Gemini KI,Google Gemini KI,MISC,,,de,1.0
+Beschwerden über zu heiße Arbeitsbedin…,Beschwerden über zu heiße Arbeitsbedin…,MISC,,,de,1.0
+Hitzeschutzplan,Hitzeschutzplan,MISC,,,de,1.0
+Das Wetter in Bayern“,Das Wetter in Bayern“,MISC,,,de,1.0
+23.06.2026,23.06.2026,MISC,,,de,1.0
+Das fordern die Zürcher Schüler,Das fordern die Zürcher Schüler,MISC,,,de,1.0
+Zwei Kinder,Zwei Kinder,MISC,,,de,1.0
+Verbot“,Verbot“,MISC,,,de,1.0
+Currywurst mit Pommes,Currywurst mit Pommes,MISC,,,de,1.0
+heiß zum Lernen,heiß zum Lernen,MISC,,,de,1.0
+Historische Hitzewelle“,Historische Hitzewelle“,MISC,,,de,1.0
+Musikfans,Musikfans,MISC,,,de,1.0
+k…,k…,MISC,,,de,1.0
+Abschlussfeier“,Abschlussfeier“,MISC,,,de,1.0
+Die Organisatoren der nationalen Sommerspiele,Die Organisatoren der nationalen Sommerspiele,MISC,,,de,1.0
 Cottbus,Cottbus,MISC,-0.08235294117647059,0.0,de,1.0
 mi…,mi…,MISC,,,de,1.0
 Google-Suchen,Google-Suchen,MISC,,,de,1.0
@@ -1660,8 +1689,8 @@ Lieferfahrten be…,Lieferfahrten be…,MISC,,,de,1.0
 Der Mann,Der Mann,MISC,,,de,1.0
 Rekordwerte bei Hitzetagen und Tropennächten,Rekordwerte bei Hitzetagen und Tropennächten,MISC,,,de,1.0
 Die Stadtspitze,Die Stadtspitze,MISC,,,de,1.0
+Hohe Temperaturen fordern jedes Jahr,Hohe Temperaturen fordern jedes Jahr,MISC,,,de,1.0
 italienische,italienische,MISC,,,de,1.0
-Hitze im Auto,Hitze im Auto,MISC,,,de,1.0
 Freistaat auf ü,Freistaat auf ü,MISC,,,de,1.0
 Hitzestau,Hitzestau,MISC,-0.7,0.0,de,1.0
 Sommerliches Wetter“,Sommerliches Wetter“,MISC,,,de,1.0
@@ -1671,48 +1700,39 @@ Peak e…,Peak e…,MISC,,,de,1.0
 "Can Art-Messe
 ","Can Art-Messe
 ",MISC,,,de,1.0
-Baden-Württemberg,Baden-Württemberg,MISC,-0.006398537477148086,0.009140767824497267,de,1.0
+Baden-Württemberg,Baden-Württemberg,MISC,-0.0060975609756097615,0.008710801393728231,de,1.0
 Kosten-Eskal…,Kosten-Eskal…,MISC,,,de,1.0
-Bundesregieru…,Bundesregieru…,MISC,,,de,1.0
-Waldbrände in der Oberpfalz,Waldbrände in der Oberpfalz,MISC,,,de,1.0
-XR,XR,MISC,,,de,1.0
-Klimaschutzbewegung Extinction Rebellion,Klimaschutzbewegung Extinction Rebellion,MISC,,,de,1.0
-Kein Regen“,Kein Regen“,MISC,,,de,1.0
-Gefahr von Waldbränden“,Gefahr von Waldbränden“,MISC,,,de,1.0
-Tier floate und bewege,Tier floate und bewege,MISC,,,de,1.0
-Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,1.0
-Feierta…,Feierta…,MISC,,,de,1.0
-Der Feiertag,Der Feiertag,MISC,,,de,1.0
-Regenwald,Regenwald,MISC,,,de,1.0
-steirischen,steirischen,MISC,,,de,1.0
-Rekord-Waldbrände  ,Rekord-Waldbrände  ,MISC,,,de,1.0
-EU-Klimabericht,EU-Klimabericht,MISC,,,de,1.0
-Bericht Jahr der Extreme,Bericht Jahr der Extreme,MISC,,,de,1.0
-Kabinett,Kabinett,MISC,,,de,1.0
-Biology Letters,Biology Letters,MISC,,,de,1.0
-Umgebungsbedingungen,Umgebungsbedingungen,MISC,,,de,1.0
-Marchfeld,Marchfeld,MISC,0.0,0.0,de,1.0
-Die Böden,Die Böden,MISC,,,de,1.0
-In der Nacht,In der Nacht,MISC,,,de,1.0
-Waldbrand …,Waldbrand …,MISC,,,de,1.0
-Der Blütenstaub am Fenster,Der Blütenstaub am Fenster,MISC,,,de,1.0
-Die Wälder,Die Wälder,MISC,,,de,1.0
-El Niños,El Niños,MISC,,,de,1.0
-Einsatz i…,Einsatz i…,MISC,,,de,1.0
-Anhaltende Trockenheit“,Anhaltende Trockenheit“,MISC,,,de,1.0
-Waldbrandschutz“,Waldbrandschutz“,MISC,,,de,1.0
+Hitze im Auto,Hitze im Auto,MISC,,,de,1.0
+Milliliter,Milliliter,MISC,,,de,1.0
+Un…,Un…,MISC,,,de,1.0
+Kraft“,Kraft“,MISC,,,de,1.0
+Hitze-Falle,Hitze-Falle,MISC,,,de,1.0
+sani…,sani…,MISC,,,de,1.0
+Probanden,Probanden,MISC,,,de,1.0
+Frozen Drinks,Frozen Drinks,MISC,,,de,1.0
+Die Hitze-Tipps,Die Hitze-Tipps,MISC,,,de,1.0
+Toilettenpapier“,Toilettenpapier“,MISC,,,de,1.0
+Hitze schmo…,Hitze schmo…,MISC,,,de,1.0
+Wetter-Folgen“,Wetter-Folgen“,MISC,,,de,1.0
+Eine heiße Schlacht,Eine heiße Schlacht,MISC,,,de,1.0
+Samstag in Berlin“,Samstag in Berlin“,MISC,,,de,1.0
+Hitze in NRW“,Hitze in NRW“,MISC,,,de,1.0
+Der aktuelle Hitze-Check,Der aktuelle Hitze-Check,MISC,,,de,1.0
+Heiße Tage und kühle Tricks,Heiße Tage und kühle Tricks,MISC,,,de,1.0
+Landesfest“,Landesfest“,MISC,,,de,1.0
+Innensta…,Innensta…,MISC,,,de,1.0
+Stadtjubiläums,Stadtjubiläums,MISC,,,de,1.0
+Konzepts,Konzepts,MISC,,,de,1.0
+wiss…,wiss…,MISC,,,de,1.0
+Festwochenende“,Festwochenende“,MISC,,,de,1.0
+Mendig/Trier/Glees,Mendig/Trier/Glees,MISC,,,de,1.0
+Tipps für heiße Tage gi,Tipps für heiße Tage gi,MISC,,,de,1.0
+Rot-Kreuz-Notarzt,Rot-Kreuz-Notarzt,MISC,,,de,1.0
+Tipps für heiße Tage,Tipps für heiße Tage,MISC,,,de,1.0
+Smarte Lösung für den Sommer,Smarte Lösung für den Sommer,MISC,,,de,1.0
+Mini-Klimagerät,Mini-Klimagerät,MISC,,,de,1.0
+Aerix WF04,Aerix WF04,MISC,,,de,1.0
 Mensch‑Umwelt‑Monitor“,Mensch‑Umwelt‑Monitor“,MISC,,,de,1.0
-Niedrigwasser-Situationen des Jahres,Niedrigwasser-Situationen des Jahres,MISC,,,de,1.0
-Mensch-Umwelt-Monitors,Mensch-Umwelt-Monitors,MISC,,,de,1.0
-Mensch-Umwelt-Monitor,Mensch-Umwelt-Monitor,MISC,,,de,1.0
-Point of No Return,Point of No Return,MISC,,,de,1.0
-Terrassen-Regel,Terrassen-Regel,MISC,,,de,1.0
-Feuerwehrleute,Feuerwehrleute,MISC,,,de,1.0
-Ministerium von Katherina Reiche,Ministerium von Katherina Reiche,MISC,,,de,1.0
-Förderprogramm,Förderprogramm,MISC,,,de,1.0
-Tonne CO2,Tonne CO2,MISC,,,de,1.0
-Khalili,Khalili,MISC,,,de,1.0
-Na­tur­schüt­ze­r*in­nen,Na­tur­schüt­ze­r*in­nen,MISC,,,de,1.0
 Hormus-Blockade,Hormus-Blockade,MISC,,,de,1.0
 Bevölkerungsschutz“,Bevölkerungsschutz“,MISC,,,de,1.0
 Wälder in Flammen“,Wälder in Flammen“,MISC,,,de,1.0
@@ -1722,117 +1742,23 @@ Mein Gewächshaus,Mein Gewächshaus,MISC,,,de,1.0
 Rainout-Shelter“,Rainout-Shelter“,MISC,,,de,1.0
 Klimagärtner-Lehre,Klimagärtner-Lehre,MISC,,,de,1.0
 Richtig ve,Richtig ve,MISC,,,de,1.0
-Starker El Niño,Starker El Niño,MISC,,,de,1.0
-NRW-Kommune,NRW-Kommune,MISC,,,de,1.0
-Starkregen“,Starkregen“,MISC,0.0,0.0,de,1.0
-Blutgewitters</li><li,Blutgewitters</li><li,MISC,,,de,1.0
-96 Proz…,96 Proz…,MISC,,,de,1.0
-Straßengüterverkehrs,Straßengüterverkehrs,MISC,,,de,1.0
-EUSALP be,EUSALP be,MISC,,,de,1.0
-he…,he…,MISC,,,de,1.0
-Auto“,Auto“,MISC,,,de,1.0
-Gesundheit gefährden</li><li,Gesundheit gefährden</li><li,MISC,,,de,1.0
-Die Partikel,Die Partikel,MISC,,,de,1.0
-Saharastaub belastet</li><li,Saharastaub belastet</li><li,MISC,,,de,1.0
-Zellschädigende Wirkung“,Zellschädigende Wirkung“,MISC,,,de,1.0
-OneRobotics,OneRobotics,MISC,,,de,1.0
-GMG,GMG,MISC,,,de,1.0
-SwitchBot,SwitchBot,MISC,,,de,1.0
-Juli+August+…,Juli+August+…,MISC,,,de,1.0
-⚓️ Ich,⚓️ Ich,MISC,,,de,1.0
-Küsten,Küsten,MISC,0.0,0.5263157894736842,de,1.0
-Verteilungskampf,Verteilungskampf,MISC,,,de,1.0
-eine gefährliche Zeit,eine gefährliche Zeit,MISC,,,de,1.0
-Union-Gletscher,Union-Gletscher,MISC,-0.7,0.0,de,1.0
-Das Ewige Eis,Das Ewige Eis,MISC,,,de,1.0
-Antarktis-Forscher,Antarktis-Forscher,MISC,,,de,1.0
-Gebäudemodernisierungsgesetz,Gebäudemodernisierungsgesetz,MISC,,,de,1.0
-RiskLab,RiskLab,MISC,,,de,1.0
-Hitzerekord,Hitzerekord,MISC,0.0,0.0,de,1.0
-i…,i…,MISC,,,de,1.0
-KlimaEl Niño,KlimaEl Niño,MISC,,,de,1.0
-Merz,Merz,MISC,,,de,1.0
-Konferenz in Berlin“,Konferenz in Berlin“,MISC,,,de,1.0
-Ein Getreidefeld bei Obernauendorf,Ein Getreidefeld bei Obernauendorf,MISC,,,de,1.0
-Extremhitze-Ereignisse,Extremhitze-Ereignisse,MISC,,,de,1.0
-S3-Leitlinie,S3-Leitlinie,MISC,,,de,1.0
-Fiebersenker,Fiebersenker,MISC,,,de,1.0
-Europa-Bericht“,Europa-Bericht“,MISC,,,de,1.0
-Europa-Bericht,Europa-Bericht,MISC,,,de,1.0
-Baumschutz in Gefahr,Baumschutz in Gefahr,MISC,,,de,1.0
-Erwärmung global,Erwärmung global,MISC,,,de,1.0
-20.04.2026,20.04.2026,MISC,,,de,1.0
-Tiere“,Tiere“,MISC,,,de,1.0
-östli…,östli…,MISC,,,de,1.0
-Beze…,Beze…,MISC,,,de,1.0
-Unerträglich heiß“,Unerträglich heiß“,MISC,,,de,1.0
-Moor-Regionen,Moor-Regionen,MISC,,,de,1.0
-Krankenhaus-Betriebsgesellschaft,Krankenhaus-Betriebsgesellschaft,MISC,,,de,1.0
-Die Birke,Die Birke,MISC,,,de,1.0
-Pollenflug-Vorhersage,Pollenflug-Vorhersage,MISC,,,de,1.0
-Bundesregierun…,Bundesregierun…,MISC,,,de,1.0
-CO2-Differenzverträge,CO2-Differenzverträge,MISC,,,de,1.0
-AliExpress,AliExpress,MISC,,,de,1.0
-Golf-Ausf…,Golf-Ausf…,MISC,,,de,1.0
-Sieben Tote,Sieben Tote,MISC,,,de,1.0
-NRW-Gemeinde,NRW-Gemeinde,MISC,,,de,1.0
-Klimaschutz over,Klimaschutz over,MISC,,,de,1.0
-Handtücher,Handtücher,MISC,,,de,1.0
-Rekordhitze in Paris,Rekordhitze in Paris,MISC,,,de,1.0
-Wie ein Zombie rumgelaufen“ - French Ofen!,Wie ein Zombie rumgelaufen“ - French Ofen!,MISC,,,de,1.0
-M…,M…,MISC,0.0,0.0,de,1.0
-Heiße Tage“,Heiße Tage“,MISC,,,de,1.0
-dänische,dänische,MISC,,,de,1.0
-Verfügun…,Verfügun…,MISC,,,de,1.0
-Hitzefrei im Büro,Hitzefrei im Büro,MISC,,,de,1.0
-Die Tote…,Die Tote…,MISC,,,de,1.0
-Fischauktion auf dem Großmarkt von Hakodate,Fischauktion auf dem Großmarkt von Hakodate,MISC,,,de,1.0
-Strickpullover,Strickpullover,MISC,,,de,1.0
-Sonne lacht über Bayern,Sonne lacht über Bayern,MISC,,,de,1.0
-steirischen Wälder schwächeln,steirischen Wälder schwächeln,MISC,,,de,1.0
-Hochwassers,Hochwassers,MISC,,,de,1.0
-verbun…,verbun…,MISC,,,de,1.0
-Das Sommerwetter,Das Sommerwetter,MISC,,,de,1.0
-Sommer-Hitzewelle,Sommer-Hitzewelle,MISC,,,de,1.0
-Darm belasten</li><li,Darm belasten</li><li,MISC,,,de,1.0
-haben</li><li,haben</li><li,MISC,,,de,1.0
-Die erschöpften Rosen von Grasse,Die erschöpften Rosen von Grasse,MISC,,,de,1.0
-Green Visions Potsdam“,Green Visions Potsdam“,MISC,,,de,1.0
-Analyse“,Analyse“,MISC,,,de,1.0
-südenglischen,südenglischen,MISC,,,de,1.0
-Ballkind k…,Ballkind k…,MISC,,,de,1.0
-Schlimmeres z…,Schlimmeres z…,MISC,,,de,1.0
-Hitze …,Hitze …,MISC,,,de,1.0
-Du musst dich,Du musst dich,MISC,,,de,1.0
-Revolution,Revolution,MISC,,,de,1.0
-Kli­ma­ak­ti­vis­t,Kli­ma­ak­ti­vis­t,MISC,,,de,1.0
-Hitze-Problem,Hitze-Problem,MISC,,,de,1.0
-Météo-France 24,Météo-France 24,MISC,,,de,1.0
-Hitze & Gesundheit,Hitze & Gesundheit,MISC,,,de,1.0
-Wärmster Tag im Mai,Wärmster Tag im Mai,MISC,,,de,1.0
-Frühsommer-Hitzewelle,Frühsommer-Hitzewelle,MISC,,,de,1.0
-Und was,Und was,MISC,,,de,1.0
-nützen</li><li,nützen</li><li,MISC,,,de,1.0
-Hitze-Mythen,Hitze-Mythen,MISC,,,de,1.0
-Prof. …,Prof. …,MISC,,,de,1.0
-sein</li><li,sein</li><li,MISC,,,de,1.0
-Charité-Experte,Charité-Experte,MISC,,,de,1.0
-werden</li><li,werden</li><li,MISC,,,de,1.0
-Französische,Französische,MISC,,,de,1.0
-Wonnemonat Mai,Wonnemonat Mai,MISC,,,de,1.0
-Klima­anlagen,Klima­anlagen,MISC,,,de,1.0
-Waldbrände in Tschernobyl,Waldbrände in Tschernobyl,MISC,,,de,1.0
-Klimaforscher,Klimaforscher,MISC,,,de,1.0
-Jahr 2015,Jahr 2015,MISC,,,de,1.0
-Lange Zeit,Lange Zeit,MISC,,,de,1.0
-WM in Nordamerika,WM in Nordamerika,MISC,,,de,1.0
-Himalaya-Gebirge,Himalaya-Gebirge,MISC,0.0,0.0,de,1.0
-Ze…,Ze…,MISC,,,de,1.0
-Verbund-Gewinn,Verbund-Gewinn,MISC,,,de,1.0
-Forschungsteam,Forschungsteam,MISC,,,de,1.0
+Na­tur­schüt­ze­r*in­nen,Na­tur­schüt­ze­r*in­nen,MISC,,,de,1.0
+Waldbrandschutz“,Waldbrandschutz“,MISC,,,de,1.0
+Anhaltende Trockenheit“,Anhaltende Trockenheit“,MISC,,,de,1.0
+Einsatz i…,Einsatz i…,MISC,,,de,1.0
+Kein Regen“,Kein Regen“,MISC,,,de,1.0
+Tier floate und bewege,Tier floate und bewege,MISC,,,de,1.0
+Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,1.0
+Feierta…,Feierta…,MISC,,,de,1.0
+Der Feiertag,Der Feiertag,MISC,,,de,1.0
+Regenwald,Regenwald,MISC,,,de,1.0
+steirischen,steirischen,MISC,,,de,1.0
+Rekord-Waldbrände  ,Rekord-Waldbrände  ,MISC,,,de,1.0
+Khalili,Khalili,MISC,,,de,1.0
+Tonne CO2,Tonne CO2,MISC,,,de,1.0
 Waldbrandsaison,Waldbrandsaison,MISC,,,de,1.0
+Förderprogramm,Förderprogramm,MISC,,,de,1.0
 LONDON,LONDON,MISC,,,de,1.0
-SPD-Landesvorsitz,SPD-Landesvorsitz,MISC,,,de,1.0
 King's Foundation,King's Foundation,MISC,,,de,1.0
 Landesgartenschau Oberhessen,Landesgartenschau Oberhessen,MISC,,,de,1.0
 Ihr werdet das Gelände,Ihr werdet das Gelände,MISC,,,de,1.0
@@ -1842,21 +1768,122 @@ Fichten in Gefahr,Fichten in Gefahr,MISC,,,de,1.0
 Mono­block-Klima…,Mono­block-Klima…,MISC,,,de,1.0
 Platt­form AliExpress,Platt­form AliExpress,MISC,,,de,1.0
 stei­genden Tempe­raturen,stei­genden Tempe­raturen,MISC,,,de,1.0
-Hitze-Sommer,Hitze-Sommer,MISC,,,de,1.0
-profiliertest…,profiliertest…,MISC,,,de,1.0
-Temperatur-Turbo,Temperatur-Turbo,MISC,,,de,1.0
+Klima­anlagen,Klima­anlagen,MISC,,,de,1.0
+AliExpress,AliExpress,MISC,,,de,1.0
+CO2-Differenzverträge,CO2-Differenzverträge,MISC,,,de,1.0
+Bundesregierun…,Bundesregierun…,MISC,,,de,1.0
+Niedrigwasser-Situationen des Jahres,Niedrigwasser-Situationen des Jahres,MISC,,,de,1.0
+Mensch-Umwelt-Monitors,Mensch-Umwelt-Monitors,MISC,,,de,1.0
+Mensch-Umwelt-Monitor,Mensch-Umwelt-Monitor,MISC,,,de,1.0
+Point of No Return,Point of No Return,MISC,,,de,1.0
+Terrassen-Regel,Terrassen-Regel,MISC,,,de,1.0
+Feuerwehrleute,Feuerwehrleute,MISC,,,de,1.0
+Ministerium von Katherina Reiche,Ministerium von Katherina Reiche,MISC,,,de,1.0
+EU-Klimabericht,EU-Klimabericht,MISC,,,de,1.0
+Bericht Jahr der Extreme,Bericht Jahr der Extreme,MISC,,,de,1.0
+Kabinett,Kabinett,MISC,,,de,1.0
+Biology Letters,Biology Letters,MISC,,,de,1.0
+östli…,östli…,MISC,,,de,1.0
+Beze…,Beze…,MISC,,,de,1.0
+Unerträglich heiß“,Unerträglich heiß“,MISC,,,de,1.0
+Moor-Regionen,Moor-Regionen,MISC,,,de,1.0
+Krankenhaus-Betriebsgesellschaft,Krankenhaus-Betriebsgesellschaft,MISC,,,de,1.0
+Die Birke,Die Birke,MISC,,,de,1.0
+Pollenflug-Vorhersage,Pollenflug-Vorhersage,MISC,,,de,1.0
+Erwärmung global,Erwärmung global,MISC,,,de,1.0
+RiskLab,RiskLab,MISC,,,de,1.0
+GMG,GMG,MISC,,,de,1.0
+Gebäudemodernisierungsgesetz,Gebäudemodernisierungsgesetz,MISC,,,de,1.0
+96 Proz…,96 Proz…,MISC,,,de,1.0
+Straßengüterverkehrs,Straßengüterverkehrs,MISC,,,de,1.0
+EUSALP be,EUSALP be,MISC,,,de,1.0
+Auto“,Auto“,MISC,,,de,1.0
+he…,he…,MISC,,,de,1.0
+Gesundheit gefährden</li><li,Gesundheit gefährden</li><li,MISC,,,de,1.0
+Die Partikel,Die Partikel,MISC,,,de,1.0
+Saharastaub belastet</li><li,Saharastaub belastet</li><li,MISC,,,de,1.0
+Zellschädigende Wirkung“,Zellschädigende Wirkung“,MISC,,,de,1.0
+Blutgewitters</li><li,Blutgewitters</li><li,MISC,,,de,1.0
+Tiere“,Tiere“,MISC,,,de,1.0
+20.04.2026,20.04.2026,MISC,,,de,1.0
+Baumschutz in Gefahr,Baumschutz in Gefahr,MISC,,,de,1.0
+NRW-Kommune,NRW-Kommune,MISC,,,de,1.0
+Umgebungsbedingungen,Umgebungsbedingungen,MISC,,,de,1.0
+Marchfeld,Marchfeld,MISC,0.0,0.0,de,1.0
+Die Böden,Die Böden,MISC,,,de,1.0
+In der Nacht,In der Nacht,MISC,,,de,1.0
+Waldbrand …,Waldbrand …,MISC,,,de,1.0
+Der Blütenstaub am Fenster,Der Blütenstaub am Fenster,MISC,,,de,1.0
+Die Wälder,Die Wälder,MISC,,,de,1.0
+El Niños,El Niños,MISC,,,de,1.0
+Starker El Niño,Starker El Niño,MISC,,,de,1.0
+Starkregen“,Starkregen“,MISC,0.0,0.0,de,1.0
+Europa-Bericht,Europa-Bericht,MISC,,,de,1.0
+Hitzerekord,Hitzerekord,MISC,0.0,0.0,de,1.0
+KlimaEl Niño,KlimaEl Niño,MISC,,,de,1.0
+Merz,Merz,MISC,,,de,1.0
+Konferenz in Berlin“,Konferenz in Berlin“,MISC,,,de,1.0
+Ein Getreidefeld bei Obernauendorf,Ein Getreidefeld bei Obernauendorf,MISC,,,de,1.0
+Extremhitze-Ereignisse,Extremhitze-Ereignisse,MISC,,,de,1.0
+S3-Leitlinie,S3-Leitlinie,MISC,,,de,1.0
+Fiebersenker,Fiebersenker,MISC,,,de,1.0
+Europa-Bericht“,Europa-Bericht“,MISC,,,de,1.0
+Waldbrände in Tschernobyl,Waldbrände in Tschernobyl,MISC,,,de,1.0
+Forschungsteam,Forschungsteam,MISC,,,de,1.0
+Talsperren-Sys…,Talsperren-Sys…,MISC,,,de,1.0
+Revolution,Revolution,MISC,,,de,1.0
+Hitze-Problem,Hitze-Problem,MISC,,,de,1.0
+Green Visions Potsdam“,Green Visions Potsdam“,MISC,,,de,1.0
+Météo-France 24,Météo-France 24,MISC,,,de,1.0
+Wärmster Tag im Mai,Wärmster Tag im Mai,MISC,,,de,1.0
+Frühsommer-Hitzewelle,Frühsommer-Hitzewelle,MISC,,,de,1.0
+Und was,Und was,MISC,,,de,1.0
+nützen</li><li,nützen</li><li,MISC,,,de,1.0
+Hitze-Mythen,Hitze-Mythen,MISC,,,de,1.0
+Prof. …,Prof. …,MISC,,,de,1.0
+sein</li><li,sein</li><li,MISC,,,de,1.0
+Charité-Experte,Charité-Experte,MISC,,,de,1.0
+werden</li><li,werden</li><li,MISC,,,de,1.0
+Hitze & Gesundheit,Hitze & Gesundheit,MISC,,,de,1.0
+haben</li><li,haben</li><li,MISC,,,de,1.0
+Hitzefrei im Büro,Hitzefrei im Büro,MISC,,,de,1.0
+Darm belasten</li><li,Darm belasten</li><li,MISC,,,de,1.0
+Sieben Tote,Sieben Tote,MISC,,,de,1.0
+NRW-Gemeinde,NRW-Gemeinde,MISC,,,de,1.0
+Klimaschutz over,Klimaschutz over,MISC,,,de,1.0
+Handtücher,Handtücher,MISC,,,de,1.0
+Rekordhitze in Paris,Rekordhitze in Paris,MISC,,,de,1.0
+Kli­ma­ak­ti­vis­t,Kli­ma­ak­ti­vis­t,MISC,,,de,1.0
+Du musst dich,Du musst dich,MISC,,,de,1.0
+Verbund-Gewinn,Verbund-Gewinn,MISC,,,de,1.0
+Hitze …,Hitze …,MISC,,,de,1.0
+Talsperren-System,Talsperren-System,MISC,,,de,1.0
+Frühling der Wetterrekorde,Frühling der Wetterrekorde,MISC,,,de,1.0
+Monat beispiel…,Monat beispiel…,MISC,,,de,1.0
+beispie…,beispie…,MISC,,,de,1.0
+Beispiellose Hitze“,Beispiellose Hitze“,MISC,,,de,1.0
+Unwetterlage des Jahres,Unwetterlage des Jahres,MISC,,,de,1.0
+picture al,picture al,MISC,,,de,1.0
+Schädling,Schädling,MISC,0.0,0.0,de,1.0
+Super-El Niño“,Super-El Niño“,MISC,,,de,1.0
+Berliner Umweltausschuss,Berliner Umweltausschuss,MISC,,,de,1.0
+Unseren Bäumen,Unseren Bäumen,MISC,,,de,1.0
+Deutsche Post DHL,Deutsche Post DHL,MISC,,,de,1.0
+Dreißig G…,Dreißig G…,MISC,,,de,1.0
+Bundesregieru…,Bundesregieru…,MISC,,,de,1.0
+Waldbrände in der Oberpfalz,Waldbrände in der Oberpfalz,MISC,,,de,1.0
+XR,XR,MISC,,,de,1.0
+Klimaschutzbewegung Extinction Rebellion,Klimaschutzbewegung Extinction Rebellion,MISC,,,de,1.0
+Analyse“,Analyse“,MISC,,,de,1.0
+südenglischen,südenglischen,MISC,,,de,1.0
+Ballkind k…,Ballkind k…,MISC,,,de,1.0
+Schlimmeres z…,Schlimmeres z…,MISC,,,de,1.0
+Wie ein Zombie rumgelaufen“ - French Ofen!,Wie ein Zombie rumgelaufen“ - French Ofen!,MISC,,,de,1.0
+M…,M…,MISC,0.0,0.0,de,1.0
+Heiße Tage“,Heiße Tage“,MISC,,,de,1.0
+dänische,dänische,MISC,,,de,1.0
 Erste heiße Tage,Erste heiße Tage,MISC,,,de,1.0
-Das sogen,Das sogen,MISC,,,de,1.0
-baden-württembergische,baden-württembergische,MISC,,,de,1.0
-World Climate,World Climate,MISC,,,de,1.0
-globale Temperaturanstieg …,globale Temperaturanstieg …,MISC,,,de,1.0
-BASIC thinking,BASIC thinking,MISC,,,de,1.0
-Senats“,Senats“,MISC,,,de,1.0
-Erste-Hilfe-Koffer,Erste-Hilfe-Koffer,MISC,,,de,1.0
-Eins von den wilden Kindern,Eins von den wilden Kindern,MISC,,,de,1.0
-Waldzustandse…,Waldzustandse…,MISC,,,de,1.0
 Forstwirtschaft“,Forstwirtschaft“,MISC,,,de,1.0
-Cultural climate change“,Cultural climate change“,MISC,,,de,1.0
 Das schöne Wetter,Das schöne Wetter,MISC,,,de,1.0
 Bür­ge­r*in­nen,Bür­ge­r*in­nen,MISC,,,de,1.0
 Expertengremium,Expertengremium,MISC,,,de,1.0
@@ -1866,4 +1893,38 @@ Digitalkonferenz in Berlin“,Digitalkonferenz in Berlin“,MISC,,,de,1.0
 Chef de…,Chef de…,MISC,,,de,1.0
 Monaten des Jahres,Monaten des Jahres,MISC,,,de,1.0
 Oulu,Oulu,MISC,0.25,0.0,de,1.0
-Stromnetzes,Stromnetzes,MISC,,,de,1.0
+Cultural climate change“,Cultural climate change“,MISC,,,de,1.0
+profiliertest…,profiliertest…,MISC,,,de,1.0
+SPD-Landesvorsitz,SPD-Landesvorsitz,MISC,,,de,1.0
+Hitze-Sommer,Hitze-Sommer,MISC,,,de,1.0
+Klimaforscher,Klimaforscher,MISC,,,de,1.0
+Jahr 2015,Jahr 2015,MISC,,,de,1.0
+Lange Zeit,Lange Zeit,MISC,,,de,1.0
+WM in Nordamerika,WM in Nordamerika,MISC,,,de,1.0
+Himalaya-Gebirge,Himalaya-Gebirge,MISC,0.0,0.0,de,1.0
+Ze…,Ze…,MISC,,,de,1.0
+Waldzustandse…,Waldzustandse…,MISC,,,de,1.0
+Eins von den wilden Kindern,Eins von den wilden Kindern,MISC,,,de,1.0
+Erste-Hilfe-Koffer,Erste-Hilfe-Koffer,MISC,,,de,1.0
+Das Sommerwetter,Das Sommerwetter,MISC,,,de,1.0
+Golf-Ausf…,Golf-Ausf…,MISC,,,de,1.0
+Verfügun…,Verfügun…,MISC,,,de,1.0
+Die Tote…,Die Tote…,MISC,,,de,1.0
+Fischauktion auf dem Großmarkt von Hakodate,Fischauktion auf dem Großmarkt von Hakodate,MISC,,,de,1.0
+Strickpullover,Strickpullover,MISC,,,de,1.0
+Sonne lacht über Bayern,Sonne lacht über Bayern,MISC,,,de,1.0
+steirischen Wälder schwächeln,steirischen Wälder schwächeln,MISC,,,de,1.0
+Hochwassers,Hochwassers,MISC,,,de,1.0
+verbun…,verbun…,MISC,,,de,1.0
+Sommer-Hitzewelle,Sommer-Hitzewelle,MISC,,,de,1.0
+Senats“,Senats“,MISC,,,de,1.0
+Französische,Französische,MISC,,,de,1.0
+Die erschöpften Rosen von Grasse,Die erschöpften Rosen von Grasse,MISC,,,de,1.0
+Wonnemonat Mai,Wonnemonat Mai,MISC,,,de,1.0
+Temperatur-Turbo,Temperatur-Turbo,MISC,,,de,1.0
+Das sogen,Das sogen,MISC,,,de,1.0
+baden-württembergische,baden-württembergische,MISC,,,de,1.0
+World Climate,World Climate,MISC,,,de,1.0
+globale Temperaturanstieg …,globale Temperaturanstieg …,MISC,,,de,1.0
+BASIC thinking,BASIC thinking,MISC,,,de,1.0
+The Day After Tomorrow,The Day After Tomorrow,MISC,,,de,1.0
