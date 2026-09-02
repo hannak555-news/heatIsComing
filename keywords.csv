@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.1825533638436268
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.1798475040955532
-'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.17582687491127563
+'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1758268749112756
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1731057622072074
@@ -83,5 +83,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0374030708680318
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0247167371818722
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.02100922660459137
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0137476667889941
