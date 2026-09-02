@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1285908355226556
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1262931550154568
@@ -66,10 +65,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.10930221019425726
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0853910061004254
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.08328747199991213
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0832874719999121
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
