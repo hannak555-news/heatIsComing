@@ -49,13 +49,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1532695662957895
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
-'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.1462288945431365
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.1396185268939177
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
+'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.12699483036166603
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
 'Klimaneutralität',de,Mitigation,#2980B9,#00cc66,3,0.1262931550154568
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.10930221019425726
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1093022101942572
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0853910061004254
