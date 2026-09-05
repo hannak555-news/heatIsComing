@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,3,0.2874804072698756
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.23692043426708276
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2369204342670827
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.2103659941422233
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
@@ -79,9 +79,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.049492647006506
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.0393093985955631
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.0374030708680318
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.03341298880622864
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0210092266045913
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0118355317706449
