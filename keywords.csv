@@ -74,8 +74,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0638311489173535
-'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0614062494853998
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
+'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.05279538706258983
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.049492647006506
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
