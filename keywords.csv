@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,2,0.1396185268939177
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1255228743898862
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1231937133303106
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.11867574785983005
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0638311489173535
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.05279538706258983
+'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.049492647006506
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
