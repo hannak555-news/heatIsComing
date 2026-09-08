@@ -10,14 +10,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2982927438206417
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2905434347827087
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.29464244729257516
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.2443590061793942
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2369204342670827
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.2261765805050697
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.2103659941422233
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.20647914233134218
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.2064791423313421
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.1921444882314033
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
