@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2982927438206417
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.29464244729257516
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2946424472925751
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.2498308327287421
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.2443590061793942
@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1231937133303106
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
+'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.1198012917219667
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.11867574785983
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0832874719999121
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
-'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.0693398656622068
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0638311489173535
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
