@@ -68,7 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.09290687866511863
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.0929068786651186
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0853910061004254
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0832874719999121
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
@@ -76,9 +76,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0638311489173535
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.049492647006506
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.042068749955530095
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0334129888062286
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
