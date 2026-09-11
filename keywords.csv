@@ -66,9 +66,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1093022101942572
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.09290687866511863
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0853910061004254
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0832874719999121
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0334129888062286
-'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827035
+'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0210092266045913
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0118355317706449
