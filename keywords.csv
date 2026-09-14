@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1564291934866875
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
-'Schattenplätze',de,Adaptation,#27AE60,#fa2311,3,0.1556449480906734
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1532695662957895
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
+'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1322983558770724
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.126994830361666
@@ -74,7 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.0711208785680859
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
-'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.05440748157975048
+'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0544074815797504
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
