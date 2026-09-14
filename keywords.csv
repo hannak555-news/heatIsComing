@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,2,0.1832611002442281
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
-'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,2,0.1798475040955532
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1758268749112756
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
 'Sommertage',de,Hazard,#E74C3C,#ff3300,3,0.1532695662957895
+'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.15287040848122022
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
