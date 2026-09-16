@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1322983558770724
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
-'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.13027949135142108
+'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.130279491351421
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1280807953516437
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.126994830361666
 'Sommerhitze',de,Hazard,#E74C3C,#ff3300,2,0.1267389945263967
@@ -78,8 +78,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
-'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.04206874995553
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
+'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0357584374622005
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0334129888062286
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
