@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.3773945618743832
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.3773945618743832
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.3472981971631003
-'Tropennächte',de,Hazard,#E74C3C,#ff3300,3,0.3136657388186667
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.3109547064557943
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2982927438206417
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2946424472925751
+'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2666161929958667
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.2443590061793942
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2369204342670827
@@ -83,5 +83,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0334129888062286
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.017857842613902605
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0178578426139026
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0118355317706449
