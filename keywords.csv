@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2666161929958667
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.2443590061793942
-'Saharastaub',de,Hazard,#E74C3C,#ff3300,2,0.2369204342670827
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.2103659941422233
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.2064791423313421
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
+'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2013824741270203
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.1924010984293092
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.1921444882314033
 'Klimaanpassung',de,Adaptation,#27AE60,#fa2311,2,0.1874869137054287
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0178578426139026
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.010210217005048164
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0102102170050481
