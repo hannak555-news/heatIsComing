@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.3773945618743832
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,2,0.3773945618743832
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,3,0.3472981971631003
 'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3210336535629437
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.3109547064557943
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2982927438206417
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.29520372258863525
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2946424472925751
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2666161929958667
@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0853910061004254
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605802390199364
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.06045274678287301
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.060452746782873
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0544074815797504
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
