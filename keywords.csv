@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.3109547064557943
 'Klimawandel',de,Causes,#F39C12,#b4b02b,3,0.3100032698355742
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,3,0.2982927438206417
-'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.29520372258863525
+'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2952037225886352
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2946424472925751
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2666161929958667
@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1502029186745842
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
-'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1410847133857332
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1322983558770724
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1259336424513348
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1231937133303106
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
+'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.12007202137787322
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.1198012917219667
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.11867574785983
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
