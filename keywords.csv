@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Impacts,#9B59B6,#cc99ff,3,0.4525942531136419
 'Trockenheit',de,Causes,#F39C12,#b4b02b,3,0.4216270449689829
 'Hitzewelle',de,Hazard,#E74C3C,#ff3300,3,0.4148856568208033
-'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,2,0.3210336535629437
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.3207858425932257
 'Hitzebelastung',de,Impacts,#9B59B6,#cc99ff,1,0.3207858425932257
 'Klimaschutz',de,Mitigation,#2980B9,#00cc66,3,0.3109547064557943
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,2,0.2952037225886352
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,3,0.294797946045038
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.2946424472925751
+'Temperaturrekord',de,Hazard,#E74C3C,#ff3300,1,0.27287910052850217
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,2,0.2666161929958667
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.2443590061793942
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.0929068786651186
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.07273237018536159
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0727323701853615
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605802390199364
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.060452746782873
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
