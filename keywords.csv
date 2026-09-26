@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1564291934866875
 'Hochdruckgebiet',de,Causes,#F39C12,#b4b02b,2,0.1559512485012542
-'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.15577232520759388
+'Hitzeperiode',de,Hazard,#E74C3C,#ff3300,1,0.1557723252075938
 'Fassadenbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1552523585129139
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1528704084812202
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1502029186745842
@@ -62,10 +62,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1200720213778732
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.1198012917219667
-'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.11867574785983
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
+'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.1022245206808555
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.0929068786651186
