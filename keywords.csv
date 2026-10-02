@@ -71,11 +71,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0882409775787271
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0727323701853615
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0605802390199364
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.060452746782873
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0544074815797504
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.05149320316694594
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
