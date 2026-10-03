@@ -75,9 +75,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,3,0.0544074815797504
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.05149320316694594
-'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0476790577298863
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0514932031669459
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
+'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.041577799070403355
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0284010404852943
