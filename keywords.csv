@@ -67,9 +67,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0993533652993492
-'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.0929068786651186
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0882409775787271
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
+'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.0789708468653508
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0727323701853615
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.060452746782873
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0514932031669459
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
-'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.041577799070403355
+'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0415777990704033
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0284010404852943
