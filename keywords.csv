@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturanstieg',de,Hazard,#E74C3C,#ff3300,2,0.2535490722475454
 'Hitzerekord',de,Hazard,#E74C3C,#ff3300,1,0.2509232392003399
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,2,0.2505783891382823
-'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.2504469801986889
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,2,0.2486417098288021
 'Treibhausgase',de,Causes,#F39C12,#b4b02b,2,0.2443590061793942
 'Tropennächte',de,Hazard,#E74C3C,#ff3300,1,0.2266239590464867
+'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,3,0.21618075816888555
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.2103659941422233
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.2064791423313421
 'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
-'UHI',de,Causes,#F39C12,#b4b02b,1,0.024140884412500153
+'UHI',de,Causes,#F39C12,#b4b02b,1,0.0241408844125001
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0219601504064738
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0151791662218172
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0088286994542908
