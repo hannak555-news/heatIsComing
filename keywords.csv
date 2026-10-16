@@ -27,8 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1756572859816408
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
-'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1738755061356737
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1731057622072074
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1710365659742282
@@ -46,6 +44,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1528704084812202
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1502029186745842
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
+'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.14884428521532264
+'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.14884428521532264
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
