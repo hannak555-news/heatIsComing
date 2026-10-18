@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1693539759879674
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1674264097335783
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1629404779090481
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1626003863694682
 'Temperatur Schatten',de,Mitigation,#2980B9,#00cc66,2,0.1568430877548469
 'Gesundheitsrisiken Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.1564291934866875
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1488442852153226
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.13849940622269086
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1322983558770724
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
