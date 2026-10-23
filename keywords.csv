@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1756572859816408
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1731057622072074
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1710365659742282
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
 'Bodenversiegelung',de,Causes,#F39C12,#b4b02b,1,0.1626003863694682
@@ -42,8 +41,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1502029186745842
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.14568111107809398
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1441018845897723
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.14276249327354157
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1427624932735415
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.1384994062226908
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
