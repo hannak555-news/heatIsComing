@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1502029186745842
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
-'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.14568111107809398
+'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1456811110780939
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1441018845897723
 'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1427624932735415
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
@@ -78,8 +78,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0435519678897997
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0415777990704033
 'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0374813670381184
-'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,2,0.0362376439751429
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
+'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.030802357378871464
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0241408844125001
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0186661278455027
