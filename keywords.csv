@@ -60,12 +60,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1200720213778732
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.1198012917219667
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1184441303727315
-'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.11772449528928718
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1088686760488971
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
+'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.10006582099589403
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0882409775787271
 'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0844503605044468
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
