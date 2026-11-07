@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1241289744163798
 'Blutregen',de,Hazard,#E74C3C,#ff3300,1,0.1231937133303106
 'städtische Klimaanpassung',de,Adaptation,#27AE60,#fa2311,1,0.1218992570177702
-'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.12179816428251028
+'Hitzefrei',de,Adaptation,#27AE60,#fa2311,1,0.1217981642825102
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.1200720213778732
 'Hochsommer',de,Hazard,#E74C3C,#ff3300,3,0.1198012917219667
 'Sonnenbrand',de,Impacts,#9B59B6,#cc99ff,1,0.1184441303727315
@@ -83,5 +83,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0267463522803231
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.020519751750625
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0186661278455027
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0109669475952629
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.009321905455973464
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0088286994542908
