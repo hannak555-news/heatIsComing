@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordtemperaturen',de,Hazard,#E74C3C,#ff3300,1,0.1364978057553076
 'Schattenplätze',de,Adaptation,#27AE60,#fa2311,1,0.1322983558770724
 'Emissionsreduktion',de,Mitigation,#2980B9,#00cc66,1,0.131118031340447
-'Sommertage',de,Hazard,#E74C3C,#ff3300,2,0.130279491351421
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1275677474330242
 'Warmluft',de,Hazard,#E74C3C,#ff3300,1,0.1275677474330242
 'blaue Infrastruktur',de,Adaptation,#27AE60,#fa2311,1,0.126994830361666
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühwarnsystem Hitze',de,Adaptation,#27AE60,#fa2311,1,0.1168553801187064
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,3,0.1144727663346369
+'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.11073764264870785
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1088686760488971
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.100065820995894
@@ -83,5 +83,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0267463522803231
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.020519751750625
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0186661278455027
-'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.009321905455973464
+'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0093219054559734
 'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0088286994542908
