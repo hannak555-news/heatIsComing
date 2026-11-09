@@ -1,6 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
 DWD,DWD,ORG,-0.05377268385864356,0.12110792741165194,de,174.5000000000006
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.08270582329317248,0.09161646586345364,de,132.8000000000003
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.0827058232931725,0.09161646586345365,de,132.80000000000027
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.08158995815899589,0.020920502092050226,de,47.79999999999996
 EU,EU,ORG,0.0036674816625916853,0.0733496332518338,de,40.89999999999996
 TTS-Player,TTS-Player,ORG,0.20877659574468102,0.06648936170212771,de,37.59999999999997
@@ -248,7 +248,7 @@ Hochschule Geisenheim,Hochschule Geisenheim,ORG,0.0,0.0,de,1.9
 Bundespolizei,Bundespolizei,ORG,0.3684210526315789,0.0,de,1.9
 Red Bull,Red Bull,ORG,0.0,0.0,de,1.9
 MV,MV,ORG,0.0,0.0,de,1.9
-Informationsdienst Aldis/Blids,Informationsdienst Aldis/Blids,ORG,-0.18421052631578946,0.2631578947368421,de,1.9
+Informationsdienst Aldis/Blids,Informationsdienst Aldis/Blids,ORG,-0.18421052631578946,0.5263157894736842,de,1.9
 BASF,BASF,ORG,0.0,0.0,de,1.9
 Deutschland…,Deutschland…,ORG,0.0,0.0,de,1.9
 Evangelische Kirche,Evangelische Kirche,ORG,0.0,0.0,de,1.9
@@ -489,8 +489,8 @@ Found Energy,Found Energy,ORG,0.0,0.0,de,1.0
 KUHle,KUHle,ORG,0.0,0.0,de,1.0
 Wind!,Wind!,ORG,0.0,0.0,de,1.0
 Bundesgartenschau,Bundesgartenschau,ORG,0.0,0.0,de,1.0
-klimatisi…,klimatisi…,ORG,0.0,0.0,de,1.0
 Solars…,Solars…,ORG,0.0,0.0,de,1.0
+klimatisi…,klimatisi…,ORG,0.0,0.0,de,1.0
 FlammenWaldbrand,FlammenWaldbrand,ORG,-1.0,0.0,de,1.0
 Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,ORG,-0.35,0.0,de,1.0
 Sper…,Sper…,ORG,0.0,0.0,de,1.0
@@ -653,8 +653,8 @@ Fachbe…,Fachbe…,ORG,-1.0,0.0,de,1.0
 Conferenze of the Parties“,Conferenze of the Parties“,ORG,0.0,0.0,de,1.0
 Coldplay,Coldplay,ORG,0.0,0.0,de,1.0
 Universität Cambr…,Universität Cambr…,ORG,0.0,0.0,de,1.0
-Conferenze of the Partie…,Conferenze of the Partie…,ORG,0.0,0.0,de,1.0
 Europäische Kommission Europas,Europäische Kommission Europas,ORG,0.35,0.0,de,1.0
+Conferenze of the Partie…,Conferenze of the Partie…,ORG,0.0,0.0,de,1.0
 ETS,ETS,ORG,0.0,0.0,de,1.0
 Welt,Welt,ORG,0.0,0.0,de,1.0
 Fußball-Liga,Fußball-Liga,ORG,0.0,0.0,de,1.0
@@ -727,7 +727,7 @@ Mona…,Mona…,ORG,0.0,0.0,de,1.0
 Temperatur-Rekord +++,Temperatur-Rekord +++,ORG,0.0,0.0,de,1.0
 Kuhstall,Kuhstall,ORG,0.7,0.0,de,1.0
 +++ Hitzewelle,+++ Hitzewelle,ORG,0.0,0.0,de,1.0
-Cop30,Cop30,ORG,0.0,0.0,de,1.0
+Petersberger …,Petersberger …,ORG,0.0,0.0,de,1.0
 Wien mö,Wien mö,ORG,0.0,0.0,de,1.0
 Umweltministerium in,Umweltministerium in,ORG,-0.7,0.0,de,1.0
 Ahoi Piraten!,Ahoi Piraten!,ORG,0.0,0.0,de,1.0
@@ -739,13 +739,13 @@ JMA,JMA,ORG,0.7,0.0,de,1.0
 Kirche,Kirche,ORG,-1.0,0.0,de,1.0
 Konferenz Neustart Berlin,Konferenz Neustart Berlin,ORG,0.0,0.0,de,1.0
 Bundeskan…,Bundeskan…,ORG,0.0,0.0,de,1.0
-Petersberger …,Petersberger …,ORG,0.0,0.0,de,1.0
+Cop30,Cop30,ORG,0.0,0.0,de,1.0
 Elf-Prozent-Tal,Elf-Prozent-Tal,ORG,0.7,0.0,de,1.0
 Deutschen Gesellschaft für Ki…,Deutschen Gesellschaft für Ki…,ORG,-0.7,0.0,de,1.0
 imageBROK…,imageBROK…,ORG,0.0,0.0,de,1.0
 Wettbewerbsfähigkei…,Wettbewerbsfähigkei…,ORG,0.0,0.0,de,1.0
-Petersburger Klimadialog,Petersburger Klimadialog,ORG,0.0,0.0,de,1.0
 Hochschule…,Hochschule…,ORG,-0.7,0.0,de,1.0
+Petersburger Klimadialog,Petersburger Klimadialog,ORG,0.0,0.0,de,1.0
 Starkregen,Starkregen,ORG,0.0,0.0,de,1.0
 Pl…,Pl…,ORG,0.0,0.0,de,1.0
 dari…,dari…,ORG,0.0,0.0,de,1.0
@@ -957,13 +957,13 @@ Kuriose WM-Storys,Kuriose WM-Storys,ORG,-1.0,0.0,de,1.0
 Tag der offenen Tür,Tag der offenen Tür,ORG,0.7,0.0,de,1.0
 Touri…,Touri…,ORG,0.0,0.0,de,1.0
 Stadtfest,Stadtfest,ORG,0.0,0.0,de,1.0
-IHKN,IHKN,ORG,0.0,0.0,de,1.0
 Hitze“,Hitze“,ORG,0.0,0.0,de,1.0
 Technischen Universität Dresden,Technischen Universität Dresden,ORG,0.0,0.0,de,1.0
+IHKN,IHKN,ORG,0.0,0.0,de,1.0
 Agrar- und Umweltministeriums hervorge…,Agrar- und Umweltministeriums hervorge…,ORG,0.0,0.0,de,1.0
 UKE,UKE,ORG,0.0,0.0,de,1.0
-bb,bb,ORG,-0.35,0.0,de,1.0
 Verkehrs- und Umweltverbä…,Verkehrs- und Umweltverbä…,ORG,0.0,0.0,de,1.0
+bb,bb,ORG,-0.35,0.0,de,1.0
 Bundesamt für Bevölkerungsschutz und Katas…,Bundesamt für Bevölkerungsschutz und Katas…,ORG,0.0,0.0,de,1.0
 Rosinak &amp,Rosinak &amp,ORG,0.0,0.0,de,1.0
 Deutsche Wetter-Dienst,Deutsche Wetter-Dienst,ORG,-0.7,0.0,de,1.0
@@ -989,14 +989,14 @@ Deutschen Wette…,Deutschen Wette…,ORG,0.0,0.0,de,1.0
 Wass…,Wass…,ORG,0.0,0.0,de,1.0
 SHANGHAI,SHANGHAI,ORG,0.0,0.0,de,1.0
 SEHK,SEHK,ORG,0.0,0.0,de,1.0
-Was…,Was…,ORG,0.0,0.0,de,1.0
+Wasserentnahm…,Wasserentnahm…,ORG,0.0,0.0,de,1.0
 Pr…,Pr…,ORG,0.0,0.0,de,1.0
 Hitz…,Hitz…,ORG,0.35,0.0,de,1.0
 Kommune,Kommune,ORG,0.0,0.0,de,1.0
 ACV Automobil-Club Verkehr,ACV Automobil-Club Verkehr,ORG,0.0,0.0,de,1.0
 G…,G…,ORG,0.7,0.0,de,1.0
 Teile Deutschlands,Teile Deutschlands,ORG,0.0,0.0,de,1.0
-Wasserentnahm…,Wasserentnahm…,ORG,0.0,0.0,de,1.0
+Was…,Was…,ORG,0.0,0.0,de,1.0
 Schutzmaßna…,Schutzmaßna…,ORG,1.0,0.0,de,1.0
 Can Art,Can Art,ORG,0.0,0.0,de,1.0
 Mallorca!,Mallorca!,ORG,0.0,0.0,de,1.0
@@ -1053,9 +1053,9 @@ ses Figueres,ses Figueres,ORG,0.0,0.0,de,1.0
 Energie & Klima,Energie & Klima,ORG,0.7,0.0,de,1.0
 Nit…,Nit…,ORG,0.0,0.0,de,1.0
 Stadtwerke…,Stadtwerke…,ORG,0.0,0.0,de,1.0
-Tesla,Tesla,ORG,0.0,0.0,de,1.0
-Autobahn GmbH des Bundes,Autobahn GmbH des Bundes,ORG,0.0,0.0,de,1.0
 Getränkeabfüller Urstromquelle,Getränkeabfüller Urstromquelle,ORG,0.0,0.0,de,1.0
+Autobahn GmbH des Bundes,Autobahn GmbH des Bundes,ORG,0.0,0.0,de,1.0
+Tesla,Tesla,ORG,0.0,0.0,de,1.0
 Pressespr…,Pressespr…,ORG,0.0,0.0,de,1.0
 Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,1.0
 PA Images,PA Images,ORG,-1.0,0.0,de,1.0
