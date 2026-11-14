@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzeschutzplan',de,Adaptation,#27AE60,#fa2311,1,0.184197917484909
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1837543494435526
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1756572859816408
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1731057622072074
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1528704084812202
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1502029186745842
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.14930869308439468
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1441018845897723
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.0284322287720406
 'Treibhausgasreduktion',de,Mitigation,#2980B9,#00cc66,1,0.0278330058694583
-'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.027357815435040508
+'fehlende Luftzirkulation',de,Causes,#F39C12,#b4b02b,1,0.0273578154350405
 'Hitze Blow-ups',de,Impacts,#9B59B6,#cc99ff,1,0.0227343994382746
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0186661278455027
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0174417889880312
