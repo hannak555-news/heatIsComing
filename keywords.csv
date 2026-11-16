@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stadtbegrünung',de,Adaptation,#27AE60,#fa2311,1,0.1528704084812202
 'Klimawandelanpassung',de,Mitigation,#2980B9,#00cc66,1,0.1502029186745842
 'Hitzetote',de,Impacts,#9B59B6,#dd99ee,1,0.1494626082753782
-'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.14930869308439468
+'Trinkwasserspender',de,Adaptation,#27AE60,#fa2311,1,0.1493086930843946
 'Sonnensegel',de,Adaptation,#27AE60,#fa2311,2,0.1469107319227424
 'Heiße Tage',de,Hazard,#E74C3C,#ff3300,3,0.1441018845897723
 'Hitzewelle Klimawandel',de,Causes,#F39C12,#c4b03b,2,0.1389005255337546
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0186661278455027
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0174417889880312
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0093219054559734
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0088286994542908
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.00765440953614718
