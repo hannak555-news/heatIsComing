@@ -67,10 +67,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,2,0.0973020763844413
 'Sonnenintensität',de,Hazard,#E74C3C,#ff3300,1,0.0882409775787271
 'Sonnenstich',de,Impacts,#9B59B6,#cc99ff,1,0.0878621464455133
-'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.0844503605044468
 'Temperatur Trinken',de,Mitigation,#2980B9,#00cc66,2,0.0798043737929658
 'Wärmeperiode',de,Hazard,#E74C3C,#ff3300,1,0.0789708468653508
-'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.06197252965755727
+'Notfallplan Hitze',de,Adaptation,#27AE60,#fa2311,1,0.07178280642877978
+'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0619725296575572
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
 'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.051384834765442
