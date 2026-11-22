@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'stabile Wetterlage',de,Causes,#F39C12,#b4b02b,1,0.1164459546841358
 'Sommertage',de,Hazard,#E74C3C,#ff3300,1,0.1107376426487078
 'nachhaltige Stadtplanung',de,Mitigation,#2980B9,#00cc66,1,0.1088686760488971
-'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.10704359608363456
+'Wüstentage',de,Hazard,#E74C3C,#fa2311,1,0.1070435960836345
 'grüne Infrastruktur',de,Adaptation,#27AE60,#fa2311,3,0.1005877206887679
 'fehlende Vegetation',de,Causes,#F39C12,#b4b02b,1,0.100065820995894
 'Übersterblichkeit',de,Impacts,#9B59B6,#cc99ff,2,0.0973020763844413
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0186661278455027
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0174417889880312
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0093219054559734
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.0076544095361471
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.006656263105725035
