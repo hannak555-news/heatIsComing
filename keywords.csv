@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewarnung',de,Hazard,#E74C3C,#ff3300,1,0.2129917057675399
 'Hitzetage',de,Hazard,#E74C3C,#ff3300,1,0.2113457833544817
 'Hitzesommer',de,Hazard,#E74C3C,#ff3300,3,0.2103659941422233
-'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,3,0.202710626820501
 'Saharastaub',de,Hazard,#E74C3C,#ff3300,1,0.2013824741270203
 'Hitzestress',de,Impacts,#9B59B6,#cc99ff,3,0.1924010984293092
 'Anpassungsstrategie Hitze',de,Adaptation,#27AE60,#fa2311,2,0.1921444882314033
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heiße Temperaturen',de,Hazard,#E74C3C,#ff3300,2,0.1837543494435526
 'Klimawandelanpassung',de,Adaptation,#27AE60,#fa2311,1,0.179857578822292
 'Temperatur Sonnenschutz',de,Mitigation,#2980B9,#00cc66,1,0.1731057622072074
+'Wasserknappheit',de,Impacts,#9B59B6,#cc99ff,2,0.17230449779742585
 'Sommernächte',de,Hazard,#E74C3C,#ff3300,2,0.1719504684175806
 'Klimaanlage',de,Adaptation,#27AE60,#fa2311,3,0.1698410326106155
 'Gebäudekühlung',de,Adaptation,#27AE60,#fa2311,1,0.1693687664056095
@@ -84,4 +84,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropentage',de,Hazard,#E74C3C,#ff3300,1,0.0186661278455027
 'UHI',de,Causes,#F39C12,#b4b02b,1,0.0174417889880312
 'Omegawetterlage',de,Causes,#F39C12,#c4b03b,1,0.0093219054559734
-'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.006656263105725035
+'anthropogene Emissionen',de,Causes,#F39C12,#b4b02b,1,0.006656263105725
