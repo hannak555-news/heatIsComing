@@ -73,8 +73,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfälle Hitze',de,Impacts,#9B59B6,#cc99ff,1,0.0580991134026963
 'dehydrieren',de,Impacts,#9B59B6,#cc99ff,1,0.0528266652089236
 'Temperaturen Gesundheitsrisiken',de,Impacts,#9B59B6,#cc99ff,1,0.0527953870625898
-'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.051384834765442
 'CO₂-Anstieg',de,Causes,#F39C12,#b4b02b,2,0.0462471243427878
+'urbaner Hitzeinseleffekt',de,Causes,#F39C12,#b4b02b,1,0.043677109550625696
 'Verkehrswende',de,Mitigation,#2980B9,#00cc66,2,0.0415777990704033
 'städtische Wärmeinsel',de,Causes,#F39C12,#b4b02b,1,0.031792610237827
 'CO₂-Neutralität',de,Mitigation,#2980B9,#00cc66,1,0.0284322287720406
